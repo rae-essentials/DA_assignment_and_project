@@ -1,0 +1,1201 @@
+return_id,order_id,return_request_date,reason,refunded_flag,refund_amount,refunded_flag_original,refund_issue,refund_inconsistent,order_status,return_on_unshipped_order
+RET000001,ORD0008752,2025-01-09,Defective,No,,No,,False,Completed,False
+RET000002,ORD0007359,2025-07-20,Wrong item,Unknown,650.28,,flag blank but amount > 0,True,Completed,False
+RET000003,ORD0009041,2025-01-07,Size issue,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000004,ORD0000227,2025-03-04,Late delivery,Partial,,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000005,ORD0005754,2025-04-24,Size issue,Yes,713.39,Yes,,False,Cancelled,True
+RET000006,ORD0002714,2024-07-05,Size issue,Partial,675.23,Partial,,False,Completed,False
+RET000007,ORD0009572,2025-02-07,Missing parts,No,931.12,No,flag says No but amount > 0,True,Completed,False
+RET000008,ORD0005308,2024-12-23,Defective,Yes,209.83,Yes,,False,Completed,False
+RET000009,ORD0007574,2025-08-08,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET000010,ORD0003302,2024-06-05,Changed mind,No,1048.55,No,flag says No but amount > 0,True,Completed,False
+RET000011,ORD0006363,2025-05-26,Damaged item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000012,ORD0000756,2025-12-05,Size issue,No,,No,,False,Completed,False
+RET000013,ORD0009302,2025-06-08,Missing parts,Yes,766.11,Yes,,False,Completed,False
+RET000014,ORD0006890,2024-11-02,Late delivery,Yes,,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000015,ORD0009273,2024-03-28,Changed mind,Yes,1432.55,Yes,,False,Returned,False
+RET000016,ORD0001197,2024-11-09,Wrong item,No,821.62,No,flag says No but amount > 0,True,Completed,False
+RET000017,ORD0007647,2024-12-15,Damaged item,Partial,1229.08,Partial,,False,Completed,False
+RET000018,ORD0005499,2024-06-04,Missing parts,Yes,659.55,Yes,,False,Completed,False
+RET000019,ORD0012495,2025-07-24,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000020,ORD0005331,2025-06-11,Missing parts,No,400.72,No,flag says No but amount > 0,True,Completed,False
+RET000021,ORD0011115,2024-12-18,Defective,No,,No,,False,Completed,False
+RET000022,ORD0006376,2025-07-03,Damaged item,Unknown,698.66,,flag blank but amount > 0,True,Cancelled,True
+RET000023,ORD0013513,2024-01-04,Changed mind,No,62.83,No,flag says No but amount > 0,True,Cancelled,True
+RET000024,ORD0011896,2025-02-03,Changed mind,No,950.53,No,flag says No but amount > 0,True,Returned,False
+RET000025,ORD0005675,2025-12-18,Missing parts,No,177.86,No,flag says No but amount > 0,True,Completed,False
+RET000026,ORD0010970,2024-09-22,Missing parts,No,869.17,No,flag says No but amount > 0,True,Completed,False
+RET000027,ORD0006023,2025-11-28,Changed mind,Yes,1522.97,Yes,,False,Completed,False
+RET000028,ORD0014399,2026-01-23,Late delivery,No,344.95,No,flag says No but amount > 0,True,Completed,False
+RET000029,ORD0014163,2025-07-02,Missing parts,No,1336.13,No,flag says No but amount > 0,True,Completed,False
+RET000030,ORD0013117,2024-07-23,Damaged item,Yes,893.75,Yes,,False,Completed,False
+RET000031,ORD0007453,2024-03-02,Damaged item,No,649.54,No,flag says No but amount > 0,True,Completed,False
+RET000032,ORD0010851,2024-07-15,Late delivery,Yes,626.56,Yes,,False,Cancelled,True
+RET000033,ORD0008816,2026-01-13,Defective,Yes,1120.44,Yes,,False,Completed,False
+RET000034,ORD0009452,2024-08-18,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000035,ORD0013625,2025-04-27,Defective,Yes,346.02,Yes,,False,Completed,False
+RET000036,ORD0001525,2024-10-14,Size issue,Yes,76.66,Yes,,False,Completed,False
+RET000037,ORD0014956,2024-07-09,Size issue,Partial,261.8,Partial,,False,Cancelled,True
+RET000038,ORD0010739,2024-10-01,Changed mind,No,1175.23,No,flag says No but amount > 0,True,Completed,False
+RET000039,ORD0000082,2024-06-18,Damaged item,Yes,930.43,Yes,,False,Cancelled,True
+RET000040,ORD0003554,2024-08-10,Damaged item,Partial,455.6,Partial,,False,Completed,False
+RET000041,ORD0014076,2025-12-27,Wrong item,Yes,816.82,Yes,,False,Completed,False
+RET000042,ORD0012269,2024-12-24,Changed mind,Partial,831.52,Partial,,False,Completed,False
+RET000043,ORD0003652,2025-04-14,Defective,Yes,714.64,Yes,,False,Completed,False
+RET000044,ORD0006319,2024-07-30,Size issue,Yes,1124.91,Yes,,False,Shipped,False
+RET000045,ORD0009731,2025-04-19,Defective,No,97.55,No,flag says No but amount > 0,True,Completed,False
+RET000046,ORD0008664,2025-03-11,Defective,Yes,634.08,Yes,,False,Shipped,False
+RET000047,ORD0009919,2024-07-30,Changed mind,No,727.84,No,flag says No but amount > 0,True,Completed,False
+RET000048,ORD0011364,2024-03-23,Wrong item,Partial,248.5,Partial,,False,Completed,False
+RET000049,ORD0001928,2025-03-08,Damaged item,Unknown,693.12,,flag blank but amount > 0,True,Cancelled,True
+RET000050,ORD0013938,2024-01-02,Late delivery,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000051,ORD0010959,2024-02-24,Defective,Yes,662.55,Yes,,False,Pending,True
+RET000052,ORD0005156,2025-01-19,Size issue,Partial,938.57,Partial,,False,Completed,False
+RET000053,ORD0002937,2024-11-20,Defective,Yes,554.64,Yes,,False,Completed,False
+RET000054,ORD0004045,2025-10-08,Wrong item,Yes,1047.43,Yes,,False,Completed,False
+RET000055,ORD0004512,2024-05-06,Defective,No,1190.38,No,flag says No but amount > 0,True,Completed,False
+RET000056,ORD0011467,2024-04-24,Damaged item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000057,ORD0010856,2024-03-31,Damaged item,Yes,6.77,Yes,,False,Cancelled,True
+RET000058,ORD0002286,2025-05-25,Missing parts,Yes,993.3,Yes,,False,Completed,False
+RET000059,ORD0010589,2025-11-23,Size issue,Unknown,654.61,,flag blank but amount > 0,True,Shipped,False
+RET000060,ORD0011946,2024-01-13,Wrong item,Partial,0.0,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000061,ORD0002427,2025-07-25,Wrong item,Yes,448.92,Yes,,False,Cancelled,True
+RET000062,ORD0004406,2025-12-06,Changed mind,Unknown,638.07,,flag blank but amount > 0,True,Completed,False
+RET000063,ORD0012324,2026-01-19,Late delivery,Yes,709.44,Yes,,False,Completed,False
+RET000064,ORD0004290,2024-09-04,Size issue,Yes,87.52,Yes,,False,Pending,True
+RET000065,ORD0010094,2024-09-20,Size issue,Partial,995.8,Partial,,False,Returned,False
+RET000066,ORD0005120,2025-08-31,Damaged item,Yes,715.79,Yes,,False,Pending,True
+RET000067,ORD0004475,2024-05-29,Late delivery,Yes,966.29,Yes,,False,Shipped,False
+RET000068,ORD0011606,2025-08-16,Size issue,Yes,939.35,Yes,,False,Completed,False
+RET000069,ORD0003543,2024-12-09,Late delivery,No,,No,,False,Returned,False
+RET000070,ORD0001305,2024-08-31,Damaged item,Yes,637.3,Yes,,False,Completed,False
+RET000071,ORD0001625,2025-03-15,Damaged item,Yes,761.82,Yes,,False,Completed,False
+RET000072,ORD0006587,2024-05-10,Damaged item,Yes,691.7,Yes,,False,Completed,False
+RET000073,ORD0008276,2024-10-29,Size issue,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000074,ORD0004884,2024-12-17,Missing parts,Unknown,867.36,,flag blank but amount > 0,True,Completed,False
+RET000075,ORD0013731,2024-04-03,Missing parts,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000076,ORD0001303,2024-08-11,Late delivery,Yes,1334.37,Yes,,False,Pending,True
+RET000077,ORD0008044,2025-04-09,Wrong item,No,586.58,No,flag says No but amount > 0,True,Completed,False
+RET000078,ORD0011198,2024-07-07,Late delivery,No,,No,,False,Completed,False
+RET000079,ORD0013401,2025-03-02,Late delivery,Yes,211.2,Yes,,False,Cancelled,True
+RET000080,ORD0012952,2024-10-11,Late delivery,Yes,357.6,Yes,,False,Completed,False
+RET000081,ORD0014990,2025-01-19,Defective,No,650.54,No,flag says No but amount > 0,True,Completed,False
+RET000082,ORD0013703,2025-12-27,Late delivery,Yes,1006.98,Yes,,False,Completed,False
+RET000083,ORD0002465,2024-11-14,Changed mind,Yes,545.11,Yes,,False,Shipped,False
+RET000084,ORD0014477,2024-04-19,Damaged item,Partial,660.05,Partial,,False,Completed,False
+RET000085,ORD0003390,2026-01-13,Missing parts,Yes,746.9,Yes,,False,Completed,False
+RET000086,ORD0004711,2024-10-12,Missing parts,Unknown,167.98,,flag blank but amount > 0,True,Completed,False
+RET000087,ORD0014535,2025-09-05,Size issue,Yes,378.96,Yes,,False,Returned,False
+RET000088,ORD0012626,2024-07-02,Defective,No,1025.82,No,flag says No but amount > 0,True,Completed,False
+RET000089,ORD0014501,2025-02-23,Wrong item,Partial,1417.48,Partial,,False,Cancelled,True
+RET000090,ORD0008670,2025-02-10,Changed mind,No,600.48,No,flag says No but amount > 0,True,Completed,False
+RET000091,ORD0001903,2025-09-23,Defective,Yes,775.26,Yes,,False,Completed,False
+RET000092,ORD0006338,2024-08-31,Size issue,No,97.59,No,flag says No but amount > 0,True,Completed,False
+RET000093,ORD0008237,2024-03-15,Wrong item,No,596.58,No,flag says No but amount > 0,True,Completed,False
+RET000094,ORD0011579,2025-02-24,Damaged item,Yes,822.18,Yes,,False,Shipped,False
+RET000095,ORD0011752,2025-08-11,Changed mind,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000096,ORD0002814,2025-12-20,Late delivery,Partial,790.74,Partial,,False,Cancelled,True
+RET000097,ORD0001089,2025-02-28,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET000098,ORD0008995,2025-10-22,Size issue,Yes,532.76,Yes,,False,Completed,False
+RET000099,ORD0010961,2024-06-13,Size issue,Partial,283.49,Partial,,False,Completed,False
+RET000100,ORD0002067,2024-07-28,Missing parts,Yes,639.0,Yes,,False,Completed,False
+RET000101,ORD0001582,2025-09-15,Wrong item,Yes,518.85,Yes,,False,Completed,False
+RET000102,ORD0009615,2024-03-03,Wrong item,No,,No,,False,Completed,False
+RET000103,ORD0000397,2025-03-19,Late delivery,No,626.84,No,flag says No but amount > 0,True,Completed,False
+RET000104,ORD0005824,2024-05-19,Late delivery,No,375.62,No,flag says No but amount > 0,True,Completed,False
+RET000105,ORD0002107,2024-05-01,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000106,ORD0010789,2025-05-05,Size issue,Partial,846.65,Partial,,False,Completed,False
+RET000107,ORD0004940,2024-10-13,Missing parts,Yes,620.6,Yes,,False,Completed,False
+RET000108,ORD0000463,2025-06-02,Damaged item,Unknown,1797.65,,flag blank but amount > 0,True,Completed,False
+RET000109,ORD0013547,2024-01-18,Defective,Yes,1508.84,Yes,,False,Completed,False
+RET000110,ORD0000337,2025-01-30,Missing parts,Yes,1385.75,Yes,,False,Completed,False
+RET000111,ORD0001996,2025-02-24,Damaged item,Yes,320.16,Yes,,False,Completed,False
+RET000112,ORD0004756,2024-07-09,Damaged item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000113,ORD0010385,2024-11-28,Wrong item,No,346.93,No,flag says No but amount > 0,True,Completed,False
+RET000114,ORD0010229,2024-07-21,Damaged item,No,942.76,No,flag says No but amount > 0,True,Completed,False
+RET000115,ORD0009809,2025-04-14,Changed mind,Yes,599.16,Yes,,False,Shipped,False
+RET000116,ORD0000511,2025-09-29,Defective,No,1716.59,No,flag says No but amount > 0,True,Completed,False
+RET000117,ORD0005314,2025-08-04,Damaged item,Yes,539.16,Yes,,False,Completed,False
+RET000118,ORD0004779,2025-09-10,Missing parts,No,912.07,No,flag says No but amount > 0,True,Pending,True
+RET000119,ORD0009991,2026-01-17,Damaged item,Yes,1538.75,Yes,,False,Completed,False
+RET000120,ORD0000475,2024-10-24,Late delivery,Unknown,938.56,,flag blank but amount > 0,True,Completed,False
+RET000121,ORD0004876,2024-11-26,Changed mind,No,1809.38,No,flag says No but amount > 0,True,Cancelled,True
+RET000122,ORD0001397,2025-03-30,Size issue,Yes,324.97,Yes,,False,Shipped,False
+RET000123,ORD0014336,2025-02-01,Damaged item,Yes,845.28,Yes,,False,Completed,False
+RET000124,ORD0000627,2024-06-07,Size issue,Unknown,358.62,,flag blank but amount > 0,True,Completed,False
+RET000125,ORD0002605,2025-03-24,Defective,Yes,773.53,Yes,,False,Completed,False
+RET000126,ORD0013271,2024-10-10,Defective,Yes,1092.71,Yes,,False,Completed,False
+RET000127,ORD0008019,2024-12-13,Defective,Yes,689.11,Yes,,False,Completed,False
+RET000128,ORD0012841,2025-01-24,Missing parts,Yes,2126.83,Yes,,False,Completed,False
+RET000129,ORD0001796,2025-03-19,Late delivery,Yes,1082.25,Yes,,False,Pending,True
+RET000130,ORD0013811,2024-09-02,Late delivery,No,0.0,No,,False,Completed,False
+RET000131,ORD0002900,2025-09-24,Wrong item,Yes,580.5,Yes,,False,Completed,False
+RET000132,ORD0004855,2025-10-21,Damaged item,No,246.39,No,flag says No but amount > 0,True,Completed,False
+RET000133,ORD0012101,2025-03-01,Defective,No,296.29,No,flag says No but amount > 0,True,Shipped,False
+RET000134,ORD0006849,2025-07-28,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000135,ORD0001311,2024-09-19,Damaged item,Yes,762.05,Yes,,False,Shipped,False
+RET000136,ORD0005309,2024-02-02,Defective,Unknown,209.97,,flag blank but amount > 0,True,Completed,False
+RET000137,ORD0006781,2024-05-16,Defective,No,0.0,No,,False,Completed,False
+RET000138,ORD0004657,2024-02-10,Size issue,Yes,,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET000139,ORD0006195,2024-04-11,Damaged item,Yes,776.36,Yes,,False,Cancelled,True
+RET000140,ORD0009789,2024-09-17,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000141,ORD0005974,2025-04-05,Damaged item,No,1063.94,No,flag says No but amount > 0,True,Completed,False
+RET000142,ORD0005057,2025-08-17,Size issue,Partial,676.48,Partial,,False,Completed,False
+RET000143,ORD0008009,2025-09-23,Wrong item,Yes,837.54,Yes,,False,Completed,False
+RET000144,ORD0006371,2024-11-22,Size issue,Yes,855.54,Yes,,False,Shipped,False
+RET000145,ORD0010642,2024-08-26,Size issue,No,57.1,No,flag says No but amount > 0,True,Completed,False
+RET000146,ORD0007004,2025-03-04,Defective,Yes,678.79,Yes,,False,Shipped,False
+RET000147,ORD0003681,2025-03-25,Late delivery,Unknown,1205.68,,flag blank but amount > 0,True,Cancelled,True
+RET000148,ORD0008735,2024-01-14,Damaged item,Partial,685.46,Partial,,False,Pending,True
+RET000149,ORD0006458,2024-07-21,Size issue,No,1392.7,No,flag says No but amount > 0,True,Completed,False
+RET000150,ORD0010277,2026-01-11,Damaged item,Yes,733.19,Yes,,False,Shipped,False
+RET000151,ORD0005742,2026-01-07,Damaged item,No,926.48,No,flag says No but amount > 0,True,Completed,False
+RET000152,ORD0012295,2024-07-29,Defective,No,,No,,False,Completed,False
+RET000153,ORD0004239,2025-06-18,Late delivery,No,653.4,No,flag says No but amount > 0,True,Completed,False
+RET000154,ORD0007668,2024-12-19,Late delivery,Unknown,776.74,,flag blank but amount > 0,True,Completed,False
+RET000155,ORD0001385,2025-02-27,Wrong item,Yes,306.54,Yes,,False,Completed,False
+RET000156,ORD0008929,2024-04-24,Wrong item,Yes,256.03,Yes,,False,Shipped,False
+RET000157,ORD0006251,2024-07-20,Damaged item,Unknown,,,,False,Completed,False
+RET000158,ORD0014180,2024-10-14,Defective,Yes,150.53,Yes,,False,Completed,False
+RET000159,ORD0010471,2024-02-26,Defective,No,1177.21,No,flag says No but amount > 0,True,Completed,False
+RET000160,ORD0012811,2025-04-18,Size issue,No,1255.22,No,flag says No but amount > 0,True,Completed,False
+RET000161,ORD0000813,2024-08-26,Wrong item,Yes,1426.49,Yes,,False,Completed,False
+RET000162,ORD0006980,2024-10-28,Wrong item,Partial,982.3,Partial,,False,Completed,False
+RET000163,ORD0002375,2025-10-15,Missing parts,Yes,995.25,Yes,,False,Cancelled,True
+RET000164,ORD0007149,2025-11-19,Late delivery,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000165,ORD0012162,2025-03-04,Size issue,Yes,731.21,Yes,,False,Shipped,False
+RET000166,ORD0010146,2025-07-09,Size issue,Yes,496.62,Yes,,False,Completed,False
+RET000167,ORD0003567,2025-01-05,Late delivery,Unknown,1223.32,,flag blank but amount > 0,True,Cancelled,True
+RET000168,ORD0013674,2024-07-14,Missing parts,Yes,545.9,Yes,,False,Completed,False
+RET000169,ORD0011137,2024-11-03,Late delivery,Unknown,125.0,,flag blank but amount > 0,True,Completed,False
+RET000170,ORD0008478,2024-05-26,Missing parts,Unknown,1468.24,,flag blank but amount > 0,True,Completed,False
+RET000171,ORD0013015,2025-01-24,Missing parts,Yes,757.31,Yes,,False,Completed,False
+RET000172,ORD0001684,2024-01-14,Damaged item,Yes,1106.45,Yes,,False,Completed,False
+RET000173,ORD0005986,2025-08-18,Defective,Unknown,,,,False,Completed,False
+RET000174,ORD0007693,2025-07-09,Missing parts,Yes,1070.09,Yes,,False,Shipped,False
+RET000175,ORD0013506,2024-04-24,Defective,Yes,622.44,Yes,,False,Completed,False
+RET000176,ORD0006557,2024-06-12,Changed mind,Partial,0.0,Partial,flag says refunded but amount missing/0,True,Returned,False
+RET000177,ORD0011121,2025-07-11,Size issue,Partial,619.64,Partial,,False,Completed,False
+RET000178,ORD0005054,2025-04-03,Missing parts,Unknown,38.43,,flag blank but amount > 0,True,Completed,False
+RET000179,ORD0001198,2025-08-29,Late delivery,No,327.34,No,flag says No but amount > 0,True,Pending,True
+RET000180,ORD0002593,2024-12-23,Damaged item,Yes,1317.69,Yes,,False,Shipped,False
+RET000181,ORD0014000,2024-09-23,Wrong item,No,230.36,No,flag says No but amount > 0,True,Completed,False
+RET000182,ORD0007128,2024-02-13,Missing parts,Yes,823.75,Yes,,False,Completed,False
+RET000183,ORD0002232,2025-05-20,Missing parts,Unknown,146.5,,flag blank but amount > 0,True,Completed,False
+RET000184,ORD0000336,2025-05-10,Size issue,Unknown,,,,False,Completed,False
+RET000185,ORD0001591,2025-09-29,Late delivery,Yes,420.33,Yes,,False,Completed,False
+RET000186,ORD0014478,2025-11-12,Defective,Yes,454.35,Yes,,False,Pending,True
+RET000187,ORD0002619,2024-09-15,Defective,Yes,1155.67,Yes,,False,Completed,False
+RET000188,ORD0000618,2025-08-07,Late delivery,Yes,874.08,Yes,,False,Completed,False
+RET000189,ORD0009062,2025-01-23,Missing parts,Yes,961.29,Yes,,False,Returned,False
+RET000190,ORD0014698,2025-05-21,Missing parts,Yes,528.21,Yes,,False,Completed,False
+RET000191,ORD0008695,2024-05-01,Size issue,No,1226.89,No,flag says No but amount > 0,True,Completed,False
+RET000192,ORD0014292,2025-04-08,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET000193,ORD0004346,2024-06-30,Defective,Yes,1109.72,Yes,,False,Completed,False
+RET000194,ORD0010236,2025-11-21,Damaged item,Yes,1049.98,Yes,,False,Cancelled,True
+RET000195,ORD0006812,2024-01-30,Defective,No,,No,,False,Pending,True
+RET000196,ORD0007970,2024-09-25,Defective,No,150.91,No,flag says No but amount > 0,True,Completed,False
+RET000197,ORD0003686,2024-07-20,Damaged item,Yes,866.63,Yes,,False,Completed,False
+RET000198,ORD0000558,2025-01-30,Defective,Unknown,1018.38,,flag blank but amount > 0,True,Completed,False
+RET000199,ORD0006485,2025-04-02,Wrong item,Unknown,442.05,,flag blank but amount > 0,True,Completed,False
+RET000200,ORD0001863,2024-03-25,Damaged item,Yes,763.03,Yes,,False,Completed,False
+RET000201,ORD0004086,2025-12-22,Damaged item,Partial,992.43,Partial,,False,Completed,False
+RET000202,ORD0005813,2024-09-23,Defective,Yes,908.77,Yes,,False,Completed,False
+RET000203,ORD0002831,2024-11-29,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000204,ORD0004486,2024-03-08,Defective,Unknown,,,,False,Completed,False
+RET000205,ORD0000424,2024-07-17,Defective,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000206,ORD0000444,2025-04-07,Damaged item,Yes,646.29,Yes,,False,Completed,False
+RET000207,ORD0008873,2024-01-06,Late delivery,Yes,846.6,Yes,,False,Completed,False
+RET000208,ORD0006567,2024-09-14,Defective,No,1264.25,No,flag says No but amount > 0,True,Shipped,False
+RET000209,ORD0011433,2025-11-10,Late delivery,No,0.0,No,,False,Completed,False
+RET000210,ORD0004744,2025-11-09,Changed mind,Yes,1313.11,Yes,,False,Cancelled,True
+RET000211,ORD0012097,2024-07-14,Changed mind,No,872.2,No,flag says No but amount > 0,True,Cancelled,True
+RET000212,ORD0010228,2025-12-12,Missing parts,Yes,64.03,Yes,,False,Completed,False
+RET000213,ORD0008610,2025-01-15,Late delivery,Partial,685.05,Partial,,False,Completed,False
+RET000214,ORD0010738,2024-06-22,Defective,No,242.52,No,flag says No but amount > 0,True,Completed,False
+RET000215,ORD0001137,2024-11-06,Size issue,No,,No,,False,Completed,False
+RET000216,ORD0004243,2024-10-08,Damaged item,Yes,1343.64,Yes,,False,Completed,False
+RET000217,ORD0003428,2024-09-30,Size issue,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET000218,ORD0012503,2025-04-12,Damaged item,No,,No,,False,Shipped,False
+RET000219,ORD0002098,2024-11-07,Changed mind,Unknown,384.35,,flag blank but amount > 0,True,Completed,False
+RET000220,ORD0007916,2025-10-24,Wrong item,Yes,138.69,Yes,,False,Pending,True
+RET000221,ORD0011102,2024-08-09,Size issue,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000222,ORD0010447,2026-01-26,Damaged item,Yes,1448.36,Yes,,False,Pending,True
+RET000223,ORD0006666,2025-07-13,Late delivery,Yes,532.59,Yes,,False,Completed,False
+RET000224,ORD0012876,2025-05-03,Wrong item,Yes,1984.48,Yes,,False,Completed,False
+RET000225,ORD0006298,2024-06-22,Defective,Partial,686.61,Partial,,False,Completed,False
+RET000226,ORD0008433,2025-05-29,Missing parts,Partial,699.15,Partial,,False,Completed,False
+RET000227,ORD0007998,2025-10-17,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000228,ORD0000250,2026-01-19,Wrong item,Yes,413.97,Yes,,False,Cancelled,True
+RET000229,ORD0007955,2024-07-01,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000230,ORD0004918,2025-03-17,Late delivery,Partial,,Partial,flag says refunded but amount missing/0,True,Shipped,False
+RET000231,ORD0005666,2024-07-18,Defective,Yes,1025.93,Yes,,False,Completed,False
+RET000232,ORD0009083,2024-11-28,Changed mind,Yes,658.08,Yes,,False,Completed,False
+RET000233,ORD0004480,2024-04-21,Late delivery,Yes,340.16,Yes,,False,Shipped,False
+RET000234,ORD0009022,2025-06-11,Size issue,Yes,,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET000235,ORD0004206,2025-05-20,Size issue,Partial,810.32,Partial,,False,Completed,False
+RET000236,ORD0006573,2024-10-15,Missing parts,No,763.55,No,flag says No but amount > 0,True,Shipped,False
+RET000237,ORD0002520,2025-01-22,Late delivery,Yes,377.31,Yes,,False,Completed,False
+RET000238,ORD0008961,2025-03-25,Defective,Yes,564.85,Yes,,False,Shipped,False
+RET000239,ORD0006907,2026-01-02,Damaged item,Partial,0.0,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000240,ORD0000733,2024-02-02,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000241,ORD0013424,2024-02-10,Size issue,No,969.81,No,flag says No but amount > 0,True,Completed,False
+RET000242,ORD0006265,2024-07-08,Changed mind,Yes,399.19,Yes,,False,Completed,False
+RET000243,ORD0002111,2024-02-07,Size issue,Yes,732.84,Yes,,False,Shipped,False
+RET000244,ORD0012604,2024-04-27,Missing parts,Yes,1016.34,Yes,,False,Completed,False
+RET000245,ORD0013127,2024-02-23,Size issue,Yes,644.46,Yes,,False,Completed,False
+RET000246,ORD0004019,2025-09-25,Changed mind,Unknown,,,,False,Cancelled,True
+RET000247,ORD0006765,2025-12-07,Missing parts,Yes,573.61,Yes,,False,Completed,False
+RET000248,ORD0004840,2025-01-01,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Returned,False
+RET000249,ORD0008004,2024-07-26,Size issue,Yes,909.05,Yes,,False,Pending,True
+RET000250,ORD0011704,2024-02-06,Wrong item,No,1562.98,No,flag says No but amount > 0,True,Completed,False
+RET000251,ORD0014611,2025-08-30,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000252,ORD0002720,2024-03-16,Defective,No,974.59,No,flag says No but amount > 0,True,Cancelled,True
+RET000253,ORD0013546,2025-10-15,Late delivery,Unknown,89.16,,flag blank but amount > 0,True,Returned,False
+RET000254,ORD0009185,2024-03-20,Changed mind,Yes,247.38,Yes,,False,Shipped,False
+RET000255,ORD0002781,2025-07-07,Changed mind,Yes,672.96,Yes,,False,Pending,True
+RET000256,ORD0005395,2024-03-23,Late delivery,Partial,,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000257,ORD0014353,2024-11-17,Defective,Partial,1164.24,Partial,,False,Returned,False
+RET000258,ORD0001045,2025-08-14,Wrong item,No,0.0,No,,False,Completed,False
+RET000259,ORD0014344,2024-07-27,Changed mind,No,578.23,No,flag says No but amount > 0,True,Completed,False
+RET000260,ORD0003907,2024-12-20,Wrong item,Partial,315.22,Partial,,False,Returned,False
+RET000261,ORD0000315,2024-01-21,Wrong item,Partial,543.55,Partial,,False,Completed,False
+RET000262,ORD0012397,2025-09-08,Late delivery,No,126.98,No,flag says No but amount > 0,True,Completed,False
+RET000263,ORD0013526,2024-10-01,Damaged item,No,1305.51,No,flag says No but amount > 0,True,Cancelled,True
+RET000264,ORD0002280,2025-05-22,Late delivery,Yes,817.28,Yes,,False,Pending,True
+RET000265,ORD0006355,2025-03-01,Size issue,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000266,ORD0007483,2024-10-15,Size issue,Yes,155.71,Yes,,False,Shipped,False
+RET000267,ORD0000052,2025-05-13,Damaged item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET000268,ORD0013193,2024-11-28,Missing parts,Yes,355.7,Yes,,False,Completed,False
+RET000269,ORD0000551,2025-06-06,Changed mind,Yes,506.54,Yes,,False,Shipped,False
+RET000270,ORD0000064,2026-01-24,Size issue,Partial,292.21,Partial,,False,Completed,False
+RET000271,ORD0006139,2025-07-16,Size issue,Yes,311.79,Yes,,False,Completed,False
+RET000272,ORD0007792,2025-12-16,Wrong item,No,,No,,False,Cancelled,True
+RET000273,ORD0013376,2025-11-29,Damaged item,Yes,1555.21,Yes,,False,Completed,False
+RET000274,ORD0007386,2025-10-01,Wrong item,No,165.72,No,flag says No but amount > 0,True,Completed,False
+RET000275,ORD0002101,2024-04-18,Size issue,No,,No,,False,Pending,True
+RET000276,ORD0012076,2024-02-09,Missing parts,Unknown,650.62,,flag blank but amount > 0,True,Completed,False
+RET000277,ORD0014560,2024-06-28,Wrong item,No,531.61,No,flag says No but amount > 0,True,Shipped,False
+RET000278,ORD0006185,2024-07-11,Late delivery,No,708.37,No,flag says No but amount > 0,True,Completed,False
+RET000279,ORD0011757,2024-11-02,Missing parts,Unknown,663.46,,flag blank but amount > 0,True,Pending,True
+RET000280,ORD0004993,2025-10-07,Damaged item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000281,ORD0014872,2025-07-23,Changed mind,Yes,652.16,Yes,,False,Completed,False
+RET000282,ORD0009174,2025-09-05,Defective,Yes,216.38,Yes,,False,Cancelled,True
+RET000283,ORD0001295,2026-01-17,Missing parts,Yes,878.22,Yes,,False,Completed,False
+RET000284,ORD0004187,2025-07-18,Missing parts,Yes,583.67,Yes,,False,Completed,False
+RET000285,ORD0002519,2025-02-23,Defective,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000286,ORD0008730,2024-10-20,Late delivery,Yes,690.28,Yes,,False,Completed,False
+RET000287,ORD0001709,2025-10-12,Defective,Yes,821.98,Yes,,False,Completed,False
+RET000288,ORD0014532,2025-04-19,Wrong item,Partial,,Partial,flag says refunded but amount missing/0,True,Pending,True
+RET000289,ORD0005098,2026-01-03,Missing parts,Partial,0.0,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000290,ORD0001539,2024-12-26,Late delivery,Yes,852.93,Yes,,False,Completed,False
+RET000291,ORD0003980,2025-06-04,Changed mind,No,843.62,No,flag says No but amount > 0,True,Shipped,False
+RET000292,ORD0009147,2024-01-13,Size issue,Yes,1119.52,Yes,,False,Completed,False
+RET000293,ORD0012464,2025-07-31,Size issue,No,,No,,False,Completed,False
+RET000294,ORD0007716,2024-10-21,Wrong item,Unknown,0.0,,,False,Shipped,False
+RET000295,ORD0003131,2025-03-11,Size issue,Yes,246.43,Yes,,False,Completed,False
+RET000296,ORD0014463,2024-02-19,Missing parts,No,416.26,No,flag says No but amount > 0,True,Cancelled,True
+RET000297,ORD0012222,2024-05-02,Changed mind,Partial,1072.32,Partial,,False,Pending,True
+RET000298,ORD0008315,2026-01-02,Late delivery,Partial,728.99,Partial,,False,Completed,False
+RET000299,ORD0006699,2024-08-27,Late delivery,Yes,863.52,Yes,,False,Completed,False
+RET000300,ORD0003654,2024-02-15,Late delivery,Yes,1622.68,Yes,,False,Completed,False
+RET000301,ORD0007262,2025-01-15,Wrong item,Unknown,578.37,,flag blank but amount > 0,True,Completed,False
+RET000302,ORD0005334,2024-02-16,Wrong item,Partial,82.7,Partial,,False,Returned,False
+RET000303,ORD0006168,2024-12-07,Wrong item,No,0.0,No,,False,Completed,False
+RET000304,ORD0005832,2025-03-15,Changed mind,Yes,862.31,Yes,,False,Completed,False
+RET000305,ORD0009457,2025-07-11,Damaged item,Yes,592.19,Yes,,False,Completed,False
+RET000306,ORD0006986,2025-04-17,Wrong item,Yes,482.41,Yes,,False,Completed,False
+RET000307,ORD0003357,2025-08-28,Missing parts,Yes,1375.12,Yes,,False,Completed,False
+RET000308,ORD0002540,2024-11-04,Defective,Partial,389.56,Partial,,False,Completed,False
+RET000309,ORD0009602,2024-04-30,Late delivery,No,257.58,No,flag says No but amount > 0,True,Completed,False
+RET000310,ORD0000345,2025-06-07,Late delivery,Unknown,,,,False,Completed,False
+RET000311,ORD0012285,2025-03-31,Changed mind,Partial,609.22,Partial,,False,Completed,False
+RET000312,ORD0005953,2025-07-01,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000313,ORD0001554,2024-06-30,Missing parts,No,215.72,No,flag says No but amount > 0,True,Returned,False
+RET000314,ORD0003860,2025-08-08,Defective,Unknown,1194.26,,flag blank but amount > 0,True,Shipped,False
+RET000315,ORD0002114,2024-09-09,Missing parts,Yes,1889.56,Yes,,False,Completed,False
+RET000316,ORD0014820,2024-11-05,Size issue,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000317,ORD0002230,2024-08-05,Changed mind,Yes,503.89,Yes,,False,Completed,False
+RET000318,ORD0003818,2024-06-04,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000319,ORD0003591,2024-04-11,Wrong item,Yes,775.14,Yes,,False,Completed,False
+RET000320,ORD0012030,2025-12-27,Changed mind,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000321,ORD0005542,2025-08-26,Size issue,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000322,ORD0001172,2025-03-30,Late delivery,No,0.0,No,,False,Completed,False
+RET000323,ORD0001009,2024-07-16,Late delivery,Partial,234.23,Partial,,False,Completed,False
+RET000324,ORD0013970,2024-11-29,Damaged item,Yes,968.22,Yes,,False,Completed,False
+RET000325,ORD0004614,2025-09-07,Size issue,Yes,858.52,Yes,,False,Cancelled,True
+RET000326,ORD0004853,2024-04-28,Wrong item,Yes,926.32,Yes,,False,Pending,True
+RET000327,ORD0014453,2025-09-14,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000328,ORD0009048,2024-02-11,Changed mind,Yes,932.9,Yes,,False,Completed,False
+RET000329,ORD0011363,2024-05-22,Late delivery,Yes,947.02,Yes,,False,Completed,False
+RET000330,ORD0013067,2025-02-19,Late delivery,No,1258.01,No,flag says No but amount > 0,True,Shipped,False
+RET000331,ORD0004645,2025-06-27,Changed mind,Yes,1266.53,Yes,,False,Completed,False
+RET000332,ORD0009520,2024-05-01,Size issue,Partial,908.85,Partial,,False,Completed,False
+RET000333,ORD0011230,2024-08-24,Size issue,Unknown,437.94,,flag blank but amount > 0,True,Shipped,False
+RET000334,ORD0002186,2025-05-20,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET000335,ORD0006443,2025-07-24,Late delivery,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET000336,ORD0013864,2024-04-03,Late delivery,Yes,755.09,Yes,,False,Completed,False
+RET000337,ORD0000826,2024-10-21,Late delivery,Yes,,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET000338,ORD0002094,2025-05-21,Late delivery,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000339,ORD0011043,2025-06-21,Defective,Yes,666.53,Yes,,False,Completed,False
+RET000340,ORD0003285,2024-09-12,Late delivery,Yes,954.16,Yes,,False,Completed,False
+RET000341,ORD0007972,2024-06-01,Size issue,Yes,858.42,Yes,,False,Completed,False
+RET000342,ORD0013688,2025-01-24,Defective,Yes,904.07,Yes,,False,Completed,False
+RET000343,ORD0005633,2024-06-20,Late delivery,No,,No,,False,Completed,False
+RET000344,ORD0012439,2025-07-20,Changed mind,Yes,566.1,Yes,,False,Completed,False
+RET000345,ORD0002434,2024-09-02,Damaged item,Yes,194.71,Yes,,False,Completed,False
+RET000346,ORD0009150,2025-06-28,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000347,ORD0007557,2024-12-06,Size issue,Yes,362.49,Yes,,False,Completed,False
+RET000348,ORD0011854,2024-03-01,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET000349,ORD0005841,2025-04-23,Missing parts,Partial,901.54,Partial,,False,Completed,False
+RET000350,ORD0014490,2025-01-16,Missing parts,Yes,298.91,Yes,,False,Completed,False
+RET000351,ORD0005890,2025-05-11,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000352,ORD0004564,2025-10-26,Defective,No,,No,,False,Completed,False
+RET000353,ORD0000700,2025-10-01,Late delivery,Yes,717.75,Yes,,False,Completed,False
+RET000354,ORD0002682,2025-05-23,Size issue,No,1622.84,No,flag says No but amount > 0,True,Completed,False
+RET000355,ORD0009347,2025-08-27,Late delivery,No,470.83,No,flag says No but amount > 0,True,Completed,False
+RET000356,ORD0005883,2025-04-22,Defective,Yes,688.65,Yes,,False,Shipped,False
+RET000357,ORD0013166,2024-03-25,Wrong item,Yes,349.9,Yes,,False,Shipped,False
+RET000358,ORD0014021,2024-08-25,Missing parts,Yes,741.69,Yes,,False,Completed,False
+RET000359,ORD0004052,2025-07-06,Changed mind,Partial,322.49,Partial,,False,Completed,False
+RET000360,ORD0009949,2025-08-04,Changed mind,No,995.28,No,flag says No but amount > 0,True,Completed,False
+RET000361,ORD0011861,2024-12-25,Missing parts,Yes,564.51,Yes,,False,Returned,False
+RET000362,ORD0009379,2025-06-04,Wrong item,No,,No,,False,Completed,False
+RET000363,ORD0000909,2025-07-12,Late delivery,Yes,957.46,Yes,,False,Completed,False
+RET000364,ORD0003753,2025-01-19,Wrong item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000365,ORD0002618,2025-01-09,Late delivery,Yes,256.99,Yes,,False,Completed,False
+RET000366,ORD0002357,2024-12-22,Missing parts,No,749.65,No,flag says No but amount > 0,True,Completed,False
+RET000367,ORD0003814,2026-01-16,Size issue,No,215.02,No,flag says No but amount > 0,True,Completed,False
+RET000368,ORD0006212,2025-04-22,Wrong item,No,676.97,No,flag says No but amount > 0,True,Completed,False
+RET000369,ORD0005298,2024-07-29,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000370,ORD0000480,2025-09-08,Late delivery,Unknown,,,,False,Completed,False
+RET000371,ORD0007898,2025-09-04,Wrong item,Yes,858.28,Yes,,False,Completed,False
+RET000372,ORD0005684,2025-02-14,Missing parts,Unknown,665.52,,flag blank but amount > 0,True,Completed,False
+RET000373,ORD0008530,2024-11-12,Damaged item,Yes,411.0,Yes,,False,Completed,False
+RET000374,ORD0012770,2025-12-14,Defective,Yes,797.77,Yes,,False,Pending,True
+RET000375,ORD0001051,2025-11-07,Defective,No,328.69,No,flag says No but amount > 0,True,Completed,False
+RET000376,ORD0012878,2024-06-26,Changed mind,Yes,968.23,Yes,,False,Shipped,False
+RET000377,ORD0009787,2024-08-01,Wrong item,Yes,942.88,Yes,,False,Completed,False
+RET000378,ORD0011963,2025-12-18,Late delivery,Yes,195.55,Yes,,False,Completed,False
+RET000379,ORD0008106,2024-06-24,Missing parts,Yes,356.31,Yes,,False,Completed,False
+RET000380,ORD0009205,2025-05-06,Size issue,No,1133.72,No,flag says No but amount > 0,True,Completed,False
+RET000381,ORD0014403,2025-03-24,Wrong item,Partial,870.34,Partial,,False,Completed,False
+RET000382,ORD0009473,2024-08-31,Defective,Unknown,302.3,,flag blank but amount > 0,True,Completed,False
+RET000383,ORD0001029,2025-12-10,Changed mind,Yes,954.88,Yes,,False,Completed,False
+RET000384,ORD0009850,2025-07-29,Size issue,No,615.49,No,flag says No but amount > 0,True,Completed,False
+RET000385,ORD0014297,2025-04-20,Late delivery,Yes,171.68,Yes,,False,Returned,False
+RET000386,ORD0012687,2024-01-03,Late delivery,Yes,602.08,Yes,,False,Shipped,False
+RET000387,ORD0004383,2024-06-22,Defective,Unknown,362.9,,flag blank but amount > 0,True,Shipped,False
+RET000388,ORD0007774,2025-05-12,Missing parts,Yes,368.92,Yes,,False,Completed,False
+RET000389,ORD0010172,2024-11-24,Size issue,Yes,898.25,Yes,,False,Completed,False
+RET000390,ORD0013349,2024-12-28,Size issue,Yes,789.52,Yes,,False,Completed,False
+RET000391,ORD0013023,2025-11-24,Defective,Unknown,449.97,,flag blank but amount > 0,True,Completed,False
+RET000392,ORD0013786,2025-02-15,Size issue,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000393,ORD0006703,2025-04-30,Defective,No,319.86,No,flag says No but amount > 0,True,Pending,True
+RET000394,ORD0006678,2025-05-27,Size issue,Yes,820.0,Yes,,False,Cancelled,True
+RET000395,ORD0002274,2025-01-02,Defective,Yes,1425.64,Yes,,False,Pending,True
+RET000396,ORD0003495,2024-11-30,Changed mind,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000397,ORD0004174,2025-08-29,Missing parts,Partial,437.35,Partial,,False,Completed,False
+RET000398,ORD0011523,2024-06-03,Size issue,Unknown,360.85,,flag blank but amount > 0,True,Shipped,False
+RET000399,ORD0000380,2024-06-06,Wrong item,Yes,979.34,Yes,,False,Completed,False
+RET000400,ORD0010487,2025-03-05,Size issue,Yes,433.19,Yes,,False,Shipped,False
+RET000401,ORD0008755,2024-04-24,Late delivery,Yes,1450.19,Yes,,False,Completed,False
+RET000402,ORD0005812,2025-01-06,Changed mind,Yes,1210.67,Yes,,False,Completed,False
+RET000403,ORD0004163,2025-01-20,Damaged item,Unknown,605.23,,flag blank but amount > 0,True,Pending,True
+RET000404,ORD0008023,2025-01-08,Damaged item,No,550.86,No,flag says No but amount > 0,True,Completed,False
+RET000405,ORD0008003,2025-09-13,Late delivery,Yes,1330.32,Yes,,False,Completed,False
+RET000406,ORD0005442,2025-04-03,Damaged item,No,,No,,False,Completed,False
+RET000407,ORD0001081,2024-04-18,Damaged item,Yes,221.24,Yes,,False,Completed,False
+RET000408,ORD0005132,2024-10-17,Damaged item,Partial,,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000409,ORD0004325,2025-01-24,Late delivery,Yes,115.87,Yes,,False,Cancelled,True
+RET000410,ORD0009498,2025-01-25,Defective,No,502.71,No,flag says No but amount > 0,True,Pending,True
+RET000411,ORD0009239,2025-12-09,Missing parts,Yes,1149.32,Yes,,False,Completed,False
+RET000412,ORD0012760,2024-07-31,Changed mind,Yes,1100.01,Yes,,False,Completed,False
+RET000413,ORD0009190,2025-12-20,Wrong item,Yes,31.7,Yes,,False,Pending,True
+RET000414,ORD0013777,2024-08-30,Defective,Yes,502.43,Yes,,False,Pending,True
+RET000415,ORD0011490,2025-03-31,Missing parts,Partial,1160.73,Partial,,False,Returned,False
+RET000416,ORD0014967,2024-11-08,Damaged item,Yes,1226.23,Yes,,False,Completed,False
+RET000417,ORD0012689,2025-03-15,Changed mind,Partial,775.32,Partial,,False,Completed,False
+RET000418,ORD0011951,2024-10-17,Late delivery,Yes,633.28,Yes,,False,Cancelled,True
+RET000419,ORD0004784,2024-12-24,Wrong item,No,850.08,No,flag says No but amount > 0,True,Completed,False
+RET000420,ORD0011535,2025-03-06,Late delivery,No,658.49,No,flag says No but amount > 0,True,Pending,True
+RET000421,ORD0001937,2025-09-26,Wrong item,Unknown,1146.87,,flag blank but amount > 0,True,Shipped,False
+RET000422,ORD0001835,2024-01-09,Damaged item,No,945.72,No,flag says No but amount > 0,True,Completed,False
+RET000423,ORD0013147,2025-12-30,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET000424,ORD0010906,2024-05-29,Wrong item,No,,No,,False,Completed,False
+RET000425,ORD0006433,2025-12-23,Late delivery,No,1424.66,No,flag says No but amount > 0,True,Completed,False
+RET000426,ORD0011923,2026-01-29,Wrong item,Partial,3.08,Partial,,False,Shipped,False
+RET000427,ORD0005993,2024-10-25,Size issue,No,,No,,False,Shipped,False
+RET000428,ORD0003280,2024-01-01,Late delivery,No,0.0,No,,False,Shipped,False
+RET000429,ORD0007329,2025-03-09,Size issue,Partial,660.48,Partial,,False,Completed,False
+RET000430,ORD0005680,2025-05-25,Defective,Unknown,369.89,,flag blank but amount > 0,True,Completed,False
+RET000431,ORD0005340,2024-06-25,Late delivery,No,354.87,No,flag says No but amount > 0,True,Completed,False
+RET000432,ORD0010886,2025-10-08,Size issue,Yes,425.01,Yes,,False,Completed,False
+RET000433,ORD0006179,2024-01-11,Wrong item,No,912.1,No,flag says No but amount > 0,True,Completed,False
+RET000434,ORD0005584,2025-06-10,Damaged item,Yes,43.35,Yes,,False,Completed,False
+RET000435,ORD0004684,2025-06-24,Size issue,Partial,914.36,Partial,,False,Shipped,False
+RET000436,ORD0001511,2025-12-10,Changed mind,Partial,656.56,Partial,,False,Completed,False
+RET000437,ORD0004672,2025-02-14,Damaged item,No,155.59,No,flag says No but amount > 0,True,Completed,False
+RET000438,ORD0012163,2025-02-21,Late delivery,Unknown,670.79,,flag blank but amount > 0,True,Completed,False
+RET000439,ORD0014429,2024-04-18,Late delivery,Unknown,1443.92,,flag blank but amount > 0,True,Shipped,False
+RET000440,ORD0004429,2024-06-25,Defective,No,,No,,False,Completed,False
+RET000441,ORD0009759,2025-07-02,Wrong item,Partial,777.49,Partial,,False,Pending,True
+RET000442,ORD0007887,2026-01-28,Damaged item,Yes,87.0,Yes,,False,Completed,False
+RET000443,ORD0001710,2025-09-07,Size issue,Yes,279.69,Yes,,False,Completed,False
+RET000444,ORD0006217,2025-08-29,Defective,Yes,385.06,Yes,,False,Completed,False
+RET000445,ORD0009860,2025-11-16,Damaged item,Yes,1099.78,Yes,,False,Completed,False
+RET000446,ORD0002570,2024-10-15,Missing parts,Yes,735.74,Yes,,False,Cancelled,True
+RET000447,ORD0004264,2024-08-09,Changed mind,Yes,308.59,Yes,,False,Completed,False
+RET000448,ORD0010511,2025-11-14,Missing parts,Yes,92.89,Yes,,False,Completed,False
+RET000449,ORD0004135,2025-05-14,Defective,No,477.2,No,flag says No but amount > 0,True,Cancelled,True
+RET000450,ORD0003901,2025-07-16,Defective,Yes,771.81,Yes,,False,Returned,False
+RET000451,ORD0012294,2025-03-21,Late delivery,Partial,388.55,Partial,,False,Completed,False
+RET000452,ORD0014458,2024-09-24,Changed mind,Yes,681.42,Yes,,False,Completed,False
+RET000453,ORD0013478,2024-06-07,Changed mind,Yes,362.96,Yes,,False,Shipped,False
+RET000454,ORD0010110,2024-02-22,Size issue,Partial,454.18,Partial,,False,Completed,False
+RET000455,ORD0007169,2024-08-01,Damaged item,Yes,1159.55,Yes,,False,Completed,False
+RET000456,ORD0011677,2024-08-11,Damaged item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000457,ORD0004175,2024-05-15,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000458,ORD0003369,2024-03-13,Defective,Yes,1846.06,Yes,,False,Cancelled,True
+RET000459,ORD0000884,2024-11-17,Missing parts,Yes,1132.13,Yes,,False,Shipped,False
+RET000460,ORD0011708,2024-01-16,Changed mind,Yes,1381.19,Yes,,False,Pending,True
+RET000461,ORD0013824,2025-06-09,Changed mind,No,1639.69,No,flag says No but amount > 0,True,Completed,False
+RET000462,ORD0005093,2024-03-21,Defective,Yes,502.58,Yes,,False,Pending,True
+RET000463,ORD0006697,2026-01-22,Missing parts,Partial,987.34,Partial,,False,Completed,False
+RET000464,ORD0006024,2025-02-12,Changed mind,Yes,236.82,Yes,,False,Shipped,False
+RET000465,ORD0013454,2024-02-01,Late delivery,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000466,ORD0000746,2025-02-13,Missing parts,Unknown,974.67,,flag blank but amount > 0,True,Completed,False
+RET000467,ORD0014193,2025-11-30,Size issue,No,232.0,No,flag says No but amount > 0,True,Completed,False
+RET000468,ORD0003380,2024-10-08,Damaged item,No,959.28,No,flag says No but amount > 0,True,Completed,False
+RET000469,ORD0012695,2024-12-07,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000470,ORD0004708,2025-12-20,Missing parts,Yes,740.04,Yes,,False,Pending,True
+RET000471,ORD0014657,2025-12-22,Changed mind,Yes,841.45,Yes,,False,Completed,False
+RET000472,ORD0004162,2025-06-12,Size issue,Partial,459.73,Partial,,False,Completed,False
+RET000473,ORD0005090,2025-02-14,Size issue,Partial,411.68,Partial,,False,Completed,False
+RET000474,ORD0008875,2025-02-13,Defective,Yes,484.94,Yes,,False,Pending,True
+RET000475,ORD0005654,2024-03-15,Size issue,No,,No,,False,Pending,True
+RET000476,ORD0005002,2025-07-30,Size issue,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000477,ORD0008094,2025-08-02,Late delivery,Partial,319.31,Partial,,False,Completed,False
+RET000478,ORD0001957,2025-08-13,Size issue,Yes,988.38,Yes,,False,Completed,False
+RET000479,ORD0001763,2025-02-19,Missing parts,No,586.87,No,flag says No but amount > 0,True,Pending,True
+RET000480,ORD0003799,2024-08-20,Missing parts,Yes,426.92,Yes,,False,Completed,False
+RET000481,ORD0013219,2025-01-23,Changed mind,Partial,828.22,Partial,,False,Completed,False
+RET000482,ORD0003186,2025-12-05,Changed mind,Yes,626.02,Yes,,False,Completed,False
+RET000483,ORD0003647,2025-03-03,Changed mind,Yes,530.59,Yes,,False,Completed,False
+RET000484,ORD0008810,2024-02-25,Wrong item,Partial,1448.46,Partial,,False,Cancelled,True
+RET000485,ORD0004088,2024-06-02,Wrong item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000486,ORD0014041,2024-02-05,Missing parts,Yes,185.65,Yes,,False,Completed,False
+RET000487,ORD0003328,2024-08-21,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000488,ORD0010398,2024-12-23,Size issue,No,617.11,No,flag says No but amount > 0,True,Completed,False
+RET000489,ORD0005261,2025-11-12,Changed mind,No,1473.96,No,flag says No but amount > 0,True,Completed,False
+RET000490,ORD0001068,2025-05-19,Missing parts,Yes,589.2,Yes,,False,Pending,True
+RET000491,ORD0003410,2025-10-18,Size issue,Yes,690.52,Yes,,False,Completed,False
+RET000492,ORD0008243,2025-12-31,Late delivery,No,969.52,No,flag says No but amount > 0,True,Pending,True
+RET000493,ORD0012134,2024-11-07,Wrong item,Partial,1127.63,Partial,,False,Completed,False
+RET000494,ORD0014128,2024-12-12,Changed mind,Partial,250.78,Partial,,False,Completed,False
+RET000495,ORD0014745,2026-01-05,Size issue,Yes,723.59,Yes,,False,Shipped,False
+RET000496,ORD0001619,2025-11-26,Size issue,Yes,236.63,Yes,,False,Completed,False
+RET000497,ORD0007509,2025-08-23,Defective,No,,No,,False,Completed,False
+RET000498,ORD0009336,2024-08-30,Late delivery,Yes,638.28,Yes,,False,Completed,False
+RET000499,ORD0009353,2024-12-23,Missing parts,Unknown,1122.83,,flag blank but amount > 0,True,Completed,False
+RET000500,ORD0009514,2024-10-05,Size issue,Yes,388.31,Yes,,False,Shipped,False
+RET000501,ORD0014625,2024-07-21,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000502,ORD0009280,2025-01-04,Damaged item,Yes,1007.34,Yes,,False,Completed,False
+RET000503,ORD0006527,2024-02-10,Wrong item,Yes,418.89,Yes,,False,Completed,False
+RET000504,ORD0014711,2025-01-16,Wrong item,Yes,539.75,Yes,,False,Shipped,False
+RET000505,ORD0005384,2025-12-16,Changed mind,Yes,896.44,Yes,,False,Completed,False
+RET000506,ORD0012096,2024-05-02,Wrong item,No,841.65,No,flag says No but amount > 0,True,Cancelled,True
+RET000507,ORD0011786,2025-01-25,Damaged item,No,0.0,No,,False,Completed,False
+RET000508,ORD0005920,2025-10-03,Size issue,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000509,ORD0001379,2025-06-13,Late delivery,Yes,1870.8,Yes,,False,Shipped,False
+RET000510,ORD0006503,2025-04-12,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000511,ORD0012810,2025-06-29,Changed mind,Yes,580.9,Yes,,False,Shipped,False
+RET000512,ORD0003076,2025-04-09,Size issue,No,371.07,No,flag says No but amount > 0,True,Completed,False
+RET000513,ORD0006513,2025-03-03,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET000514,ORD0000992,2025-07-29,Late delivery,Yes,564.8,Yes,,False,Completed,False
+RET000515,ORD0012252,2025-04-16,Defective,Yes,532.9,Yes,,False,Shipped,False
+RET000516,ORD0010597,2026-01-11,Defective,Unknown,400.21,,flag blank but amount > 0,True,Pending,True
+RET000517,ORD0013620,2024-06-06,Wrong item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000518,ORD0007283,2024-11-21,Changed mind,No,1153.24,No,flag says No but amount > 0,True,Completed,False
+RET000519,ORD0010712,2024-02-20,Defective,Yes,333.54,Yes,,False,Shipped,False
+RET000520,ORD0001260,2024-10-27,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET000521,ORD0005166,2024-09-15,Missing parts,Yes,353.76,Yes,,False,Completed,False
+RET000522,ORD0004617,2024-11-02,Defective,Yes,1105.48,Yes,,False,Completed,False
+RET000523,ORD0006814,2024-10-11,Missing parts,Unknown,0.0,,,False,Returned,False
+RET000524,ORD0010309,2024-12-11,Missing parts,No,665.8,No,flag says No but amount > 0,True,Completed,False
+RET000525,ORD0011321,2024-12-20,Damaged item,Unknown,,,,False,Completed,False
+RET000526,ORD0010808,2024-01-06,Late delivery,Yes,1075.48,Yes,,False,Cancelled,True
+RET000527,ORD0008641,2024-03-06,Missing parts,No,906.57,No,flag says No but amount > 0,True,Completed,False
+RET000528,ORD0000994,2025-08-13,Missing parts,Unknown,1056.13,,flag blank but amount > 0,True,Completed,False
+RET000529,ORD0012001,2024-10-29,Missing parts,No,753.04,No,flag says No but amount > 0,True,Completed,False
+RET000530,ORD0012902,2024-03-26,Late delivery,No,570.8,No,flag says No but amount > 0,True,Completed,False
+RET000531,ORD0005954,2025-03-16,Changed mind,No,45.01,No,flag says No but amount > 0,True,Completed,False
+RET000532,ORD0013076,2024-09-20,Missing parts,Unknown,,,,False,Cancelled,True
+RET000533,ORD0005785,2024-04-07,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000534,ORD0005438,2024-03-07,Late delivery,No,716.41,No,flag says No but amount > 0,True,Completed,False
+RET000535,ORD0002585,2024-05-18,Missing parts,No,659.4,No,flag says No but amount > 0,True,Shipped,False
+RET000536,ORD0014293,2025-03-22,Damaged item,No,405.31,No,flag says No but amount > 0,True,Completed,False
+RET000537,ORD0002066,2025-07-20,Wrong item,Yes,468.89,Yes,,False,Cancelled,True
+RET000538,ORD0005965,2024-10-24,Late delivery,No,696.67,No,flag says No but amount > 0,True,Cancelled,True
+RET000539,ORD0006967,2025-04-07,Changed mind,No,134.37,No,flag says No but amount > 0,True,Shipped,False
+RET000540,ORD0012323,2025-05-03,Missing parts,Yes,536.42,Yes,,False,Completed,False
+RET000541,ORD0012514,2025-01-12,Defective,Yes,966.26,Yes,,False,Returned,False
+RET000542,ORD0002879,2024-12-13,Late delivery,Yes,1298.34,Yes,,False,Completed,False
+RET000543,ORD0005249,2025-11-17,Changed mind,Yes,1091.07,Yes,,False,Completed,False
+RET000544,ORD0013887,2024-03-16,Changed mind,No,267.37,No,flag says No but amount > 0,True,Completed,False
+RET000545,ORD0014401,2024-05-10,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET000546,ORD0008116,2025-05-28,Defective,Yes,563.24,Yes,,False,Completed,False
+RET000547,ORD0008865,2025-03-22,Size issue,Yes,291.5,Yes,,False,Completed,False
+RET000548,ORD0003162,2025-07-24,Damaged item,Unknown,774.01,,flag blank but amount > 0,True,Completed,False
+RET000549,ORD0006345,2025-02-08,Changed mind,Unknown,976.69,,flag blank but amount > 0,True,Completed,False
+RET000550,ORD0002142,2025-03-08,Missing parts,Yes,782.48,Yes,,False,Completed,False
+RET000551,ORD0001422,2025-06-17,Missing parts,No,0.0,No,,False,Completed,False
+RET000552,ORD0010790,2024-12-03,Missing parts,No,174.84,No,flag says No but amount > 0,True,Completed,False
+RET000553,ORD0006988,2025-12-21,Defective,Yes,1116.67,Yes,,False,Completed,False
+RET000554,ORD0003275,2025-10-24,Late delivery,No,,No,,False,Completed,False
+RET000555,ORD0009538,2024-06-16,Changed mind,No,1570.05,No,flag says No but amount > 0,True,Completed,False
+RET000556,ORD0014427,2024-08-09,Missing parts,Unknown,1712.25,,flag blank but amount > 0,True,Shipped,False
+RET000557,ORD0003602,2025-04-30,Late delivery,Yes,53.36,Yes,,False,Cancelled,True
+RET000558,ORD0006058,2025-06-25,Missing parts,Yes,917.67,Yes,,False,Completed,False
+RET000559,ORD0007676,2025-03-18,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000560,ORD0010072,2024-01-03,Size issue,Partial,,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000561,ORD0002219,2024-10-08,Missing parts,Yes,1524.61,Yes,,False,Completed,False
+RET000562,ORD0004920,2025-08-21,Changed mind,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000563,ORD0006390,2024-09-22,Size issue,No,,No,,False,Completed,False
+RET000564,ORD0007851,2025-07-08,Damaged item,Yes,968.43,Yes,,False,Pending,True
+RET000565,ORD0006841,2025-11-20,Damaged item,No,1004.79,No,flag says No but amount > 0,True,Shipped,False
+RET000566,ORD0007655,2024-07-25,Missing parts,Yes,259.67,Yes,,False,Pending,True
+RET000567,ORD0012131,2025-09-14,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000568,ORD0008677,2026-01-22,Late delivery,No,262.85,No,flag says No but amount > 0,True,Completed,False
+RET000569,ORD0011503,2024-10-26,Size issue,Unknown,434.15,,flag blank but amount > 0,True,Pending,True
+RET000570,ORD0003506,2025-12-12,Size issue,Yes,556.48,Yes,,False,Completed,False
+RET000571,ORD0000712,2024-01-17,Damaged item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET000572,ORD0014013,2025-08-22,Missing parts,Yes,85.78,Yes,,False,Completed,False
+RET000573,ORD0011375,2024-02-05,Missing parts,Yes,839.46,Yes,,False,Cancelled,True
+RET000574,ORD0005044,2025-12-31,Wrong item,Yes,403.43,Yes,,False,Completed,False
+RET000575,ORD0013919,2025-09-25,Missing parts,No,1175.77,No,flag says No but amount > 0,True,Completed,False
+RET000576,ORD0010890,2024-05-24,Late delivery,No,319.22,No,flag says No but amount > 0,True,Completed,False
+RET000577,ORD0002913,2024-07-20,Damaged item,Yes,1021.95,Yes,,False,Completed,False
+RET000578,ORD0004792,2024-12-31,Defective,Unknown,0.0,,,False,Completed,False
+RET000579,ORD0010782,2025-02-20,Damaged item,Partial,,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000580,ORD0014190,2026-01-04,Size issue,Partial,729.64,Partial,,False,Completed,False
+RET000581,ORD0012171,2024-09-13,Missing parts,Unknown,484.78,,flag blank but amount > 0,True,Pending,True
+RET000582,ORD0011088,2024-01-02,Late delivery,No,591.38,No,flag says No but amount > 0,True,Completed,False
+RET000583,ORD0003666,2025-10-22,Missing parts,Yes,474.55,Yes,,False,Completed,False
+RET000584,ORD0002534,2026-01-13,Changed mind,Yes,630.21,Yes,,False,Shipped,False
+RET000585,ORD0007175,2024-10-13,Defective,Yes,664.8,Yes,,False,Completed,False
+RET000586,ORD0001829,2024-03-11,Missing parts,Yes,1123.57,Yes,,False,Shipped,False
+RET000587,ORD0002229,2024-12-06,Late delivery,Yes,271.64,Yes,,False,Completed,False
+RET000588,ORD0009224,2024-02-25,Wrong item,Yes,583.24,Yes,,False,Completed,False
+RET000589,ORD0001153,2025-07-02,Late delivery,No,424.85,No,flag says No but amount > 0,True,Completed,False
+RET000590,ORD0006238,2025-03-23,Missing parts,Unknown,833.62,,flag blank but amount > 0,True,Returned,False
+RET000591,ORD0006483,2024-11-19,Missing parts,Yes,41.53,Yes,,False,Shipped,False
+RET000592,ORD0004226,2025-03-03,Defective,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000593,ORD0000255,2024-01-22,Damaged item,Yes,937.41,Yes,,False,Pending,True
+RET000594,ORD0013425,2024-09-01,Missing parts,Yes,599.23,Yes,,False,Completed,False
+RET000595,ORD0014363,2024-12-16,Changed mind,Partial,44.83,Partial,,False,Shipped,False
+RET000596,ORD0014897,2025-03-12,Late delivery,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000597,ORD0000215,2025-07-19,Missing parts,No,537.02,No,flag says No but amount > 0,True,Shipped,False
+RET000598,ORD0000849,2025-03-19,Size issue,Yes,,Yes,flag says refunded but amount missing/0,True,Returned,False
+RET000599,ORD0014576,2024-01-05,Defective,Partial,863.59,Partial,,False,Pending,True
+RET000600,ORD0012530,2025-05-07,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000601,ORD0000753,2025-12-23,Wrong item,Yes,210.37,Yes,,False,Pending,True
+RET000602,ORD0007011,2025-11-14,Size issue,No,,No,,False,Shipped,False
+RET000603,ORD0007704,2025-03-01,Damaged item,Yes,84.63,Yes,,False,Completed,False
+RET000604,ORD0008528,2025-01-13,Wrong item,Yes,732.03,Yes,,False,Pending,True
+RET000605,ORD0014089,2024-06-29,Missing parts,Yes,458.11,Yes,,False,Completed,False
+RET000606,ORD0006766,2025-03-18,Changed mind,Partial,558.58,Partial,,False,Completed,False
+RET000607,ORD0013697,2025-05-29,Late delivery,No,407.07,No,flag says No but amount > 0,True,Completed,False
+RET000608,ORD0005028,2024-03-18,Changed mind,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000609,ORD0013724,2025-06-29,Defective,Yes,961.21,Yes,,False,Cancelled,True
+RET000610,ORD0008781,2026-01-20,Missing parts,Yes,423.61,Yes,,False,Cancelled,True
+RET000611,ORD0012264,2025-06-22,Changed mind,Yes,1519.76,Yes,,False,Returned,False
+RET000612,ORD0002837,2024-12-23,Missing parts,Yes,143.09,Yes,,False,Cancelled,True
+RET000613,ORD0013570,2025-02-24,Late delivery,Yes,583.09,Yes,,False,Completed,False
+RET000614,ORD0014790,2024-07-11,Size issue,No,519.42,No,flag says No but amount > 0,True,Pending,True
+RET000615,ORD0009183,2025-11-16,Wrong item,Yes,972.61,Yes,,False,Cancelled,True
+RET000616,ORD0004861,2025-02-02,Changed mind,Yes,1215.21,Yes,,False,Completed,False
+RET000617,ORD0011669,2024-12-16,Wrong item,No,272.11,No,flag says No but amount > 0,True,Completed,False
+RET000618,ORD0006233,2025-09-23,Size issue,Yes,1266.24,Yes,,False,Completed,False
+RET000619,ORD0014039,2024-09-17,Damaged item,Yes,848.12,Yes,,False,Completed,False
+RET000620,ORD0002679,2025-10-18,Changed mind,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000621,ORD0009962,2024-04-08,Changed mind,Yes,470.32,Yes,,False,Completed,False
+RET000622,ORD0014654,2024-04-14,Size issue,No,397.91,No,flag says No but amount > 0,True,Shipped,False
+RET000623,ORD0002246,2024-11-29,Changed mind,Partial,401.06,Partial,,False,Completed,False
+RET000624,ORD0005848,2025-01-02,Wrong item,No,857.53,No,flag says No but amount > 0,True,Completed,False
+RET000625,ORD0013131,2024-06-24,Late delivery,No,251.58,No,flag says No but amount > 0,True,Completed,False
+RET000626,ORD0001203,2025-01-26,Late delivery,Yes,2136.53,Yes,,False,Pending,True
+RET000627,ORD0006277,2025-12-07,Size issue,Yes,531.58,Yes,,False,Completed,False
+RET000628,ORD0005159,2024-08-07,Damaged item,Yes,258.64,Yes,,False,Completed,False
+RET000629,ORD0007080,2025-05-02,Missing parts,Yes,1037.1,Yes,,False,Completed,False
+RET000630,ORD0003168,2024-06-03,Wrong item,Unknown,1073.61,,flag blank but amount > 0,True,Shipped,False
+RET000631,ORD0002430,2025-10-28,Defective,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET000632,ORD0000797,2024-11-27,Defective,Partial,379.91,Partial,,False,Pending,True
+RET000633,ORD0003208,2024-10-01,Late delivery,Yes,750.59,Yes,,False,Completed,False
+RET000634,ORD0003599,2025-08-08,Changed mind,Partial,879.97,Partial,,False,Completed,False
+RET000635,ORD0014154,2024-03-19,Missing parts,Unknown,,,,False,Completed,False
+RET000636,ORD0002473,2026-01-20,Changed mind,Partial,1464.86,Partial,,False,Completed,False
+RET000637,ORD0011497,2024-05-25,Damaged item,Partial,517.09,Partial,,False,Shipped,False
+RET000638,ORD0014880,2025-05-12,Missing parts,No,539.83,No,flag says No but amount > 0,True,Completed,False
+RET000639,ORD0014772,2024-02-27,Changed mind,Yes,602.01,Yes,,False,Completed,False
+RET000640,ORD0012363,2025-06-15,Missing parts,Yes,1361.14,Yes,,False,Pending,True
+RET000641,ORD0003154,2025-09-12,Size issue,Partial,1224.63,Partial,,False,Shipped,False
+RET000642,ORD0008026,2025-03-31,Size issue,No,492.47,No,flag says No but amount > 0,True,Completed,False
+RET000643,ORD0010536,2024-02-13,Damaged item,Yes,652.06,Yes,,False,Completed,False
+RET000644,ORD0004813,2024-06-10,Size issue,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000645,ORD0000778,2024-01-05,Damaged item,Partial,1075.69,Partial,,False,Completed,False
+RET000646,ORD0001731,2024-07-30,Damaged item,No,0.0,No,,False,Completed,False
+RET000647,ORD0000852,2025-04-19,Changed mind,Yes,1206.68,Yes,,False,Cancelled,True
+RET000648,ORD0011204,2024-02-06,Missing parts,Yes,671.85,Yes,,False,Completed,False
+RET000649,ORD0002263,2024-12-18,Late delivery,Yes,557.58,Yes,,False,Completed,False
+RET000650,ORD0006514,2025-11-23,Defective,Partial,,Partial,flag says refunded but amount missing/0,True,Shipped,False
+RET000651,ORD0012108,2025-06-18,Damaged item,Yes,105.98,Yes,,False,Pending,True
+RET000652,ORD0004844,2024-11-15,Size issue,Partial,418.38,Partial,,False,Completed,False
+RET000653,ORD0014728,2025-08-19,Missing parts,No,868.95,No,flag says No but amount > 0,True,Completed,False
+RET000654,ORD0006923,2024-03-01,Wrong item,Yes,943.72,Yes,,False,Completed,False
+RET000655,ORD0014042,2024-04-07,Size issue,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET000656,ORD0009167,2024-02-23,Size issue,No,202.54,No,flag says No but amount > 0,True,Returned,False
+RET000657,ORD0009856,2024-02-03,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000658,ORD0005067,2024-07-23,Damaged item,Partial,516.71,Partial,,False,Completed,False
+RET000659,ORD0008682,2025-05-29,Defective,No,962.09,No,flag says No but amount > 0,True,Completed,False
+RET000660,ORD0003486,2025-06-19,Wrong item,No,0.0,No,,False,Completed,False
+RET000661,ORD0009931,2025-10-27,Size issue,No,624.93,No,flag says No but amount > 0,True,Completed,False
+RET000662,ORD0010760,2024-11-17,Wrong item,Yes,72.73,Yes,,False,Completed,False
+RET000663,ORD0001718,2024-09-07,Missing parts,Yes,788.85,Yes,,False,Completed,False
+RET000664,ORD0000039,2024-07-08,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000665,ORD0001256,2024-03-07,Changed mind,Yes,1442.31,Yes,,False,Cancelled,True
+RET000666,ORD0006235,2025-08-25,Defective,Yes,622.19,Yes,,False,Completed,False
+RET000667,ORD0004679,2025-12-20,Changed mind,No,983.79,No,flag says No but amount > 0,True,Completed,False
+RET000668,ORD0001202,2025-07-02,Changed mind,No,515.53,No,flag says No but amount > 0,True,Completed,False
+RET000669,ORD0000456,2025-11-06,Changed mind,Yes,323.31,Yes,,False,Completed,False
+RET000670,ORD0008316,2024-12-13,Missing parts,Yes,1240.57,Yes,,False,Completed,False
+RET000671,ORD0006591,2024-10-28,Late delivery,Yes,85.92,Yes,,False,Shipped,False
+RET000672,ORD0002016,2025-04-21,Late delivery,No,1384.2,No,flag says No but amount > 0,True,Completed,False
+RET000673,ORD0009028,2024-06-08,Wrong item,No,418.44,No,flag says No but amount > 0,True,Completed,False
+RET000674,ORD0014390,2024-04-07,Late delivery,No,159.54,No,flag says No but amount > 0,True,Completed,False
+RET000675,ORD0011039,2025-05-12,Damaged item,Unknown,1228.95,,flag blank but amount > 0,True,Completed,False
+RET000676,ORD0006047,2024-04-01,Defective,No,596.68,No,flag says No but amount > 0,True,Completed,False
+RET000677,ORD0005285,2025-02-25,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000678,ORD0009260,2024-03-21,Missing parts,No,787.29,No,flag says No but amount > 0,True,Completed,False
+RET000679,ORD0003283,2025-11-29,Size issue,Partial,338.5,Partial,,False,Shipped,False
+RET000680,ORD0009292,2025-05-26,Wrong item,Yes,646.25,Yes,,False,Cancelled,True
+RET000681,ORD0010500,2025-02-10,Changed mind,Yes,1001.45,Yes,,False,Completed,False
+RET000682,ORD0003306,2025-11-14,Defective,No,676.12,No,flag says No but amount > 0,True,Shipped,False
+RET000683,ORD0012757,2026-01-19,Wrong item,Partial,781.97,Partial,,False,Completed,False
+RET000684,ORD0001514,2025-10-22,Changed mind,Partial,273.1,Partial,,False,Completed,False
+RET000685,ORD0005284,2025-06-27,Late delivery,Unknown,677.8,,flag blank but amount > 0,True,Completed,False
+RET000686,ORD0003342,2025-06-03,Wrong item,No,643.83,No,flag says No but amount > 0,True,Completed,False
+RET000687,ORD0007330,2026-01-08,Damaged item,Partial,282.71,Partial,,False,Pending,True
+RET000688,ORD0001468,2024-03-29,Wrong item,No,,No,,False,Completed,False
+RET000689,ORD0004982,2025-03-24,Changed mind,Yes,267.55,Yes,,False,Completed,False
+RET000690,ORD0012078,2024-02-29,Size issue,Yes,721.85,Yes,,False,Completed,False
+RET000691,ORD0014027,2026-01-15,Defective,Yes,679.19,Yes,,False,Completed,False
+RET000692,ORD0013804,2025-06-22,Defective,No,149.9,No,flag says No but amount > 0,True,Completed,False
+RET000693,ORD0004171,2024-11-27,Changed mind,Yes,1481.83,Yes,,False,Completed,False
+RET000694,ORD0006879,2025-03-02,Wrong item,Unknown,801.83,,flag blank but amount > 0,True,Completed,False
+RET000695,ORD0001946,2024-07-05,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000696,ORD0008192,2024-03-12,Size issue,No,636.18,No,flag says No but amount > 0,True,Completed,False
+RET000697,ORD0012337,2024-11-14,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Returned,False
+RET000698,ORD0002218,2025-08-12,Wrong item,No,928.43,No,flag says No but amount > 0,True,Completed,False
+RET000699,ORD0001520,2024-07-30,Missing parts,Yes,446.07,Yes,,False,Completed,False
+RET000700,ORD0004526,2025-04-12,Damaged item,No,911.74,No,flag says No but amount > 0,True,Completed,False
+RET000701,ORD0009768,2025-12-17,Defective,Yes,599.26,Yes,,False,Completed,False
+RET000702,ORD0011819,2026-01-02,Wrong item,Unknown,403.28,,flag blank but amount > 0,True,Completed,False
+RET000703,ORD0001459,2025-04-08,Wrong item,Yes,433.99,Yes,,False,Shipped,False
+RET000704,ORD0009532,2024-09-15,Missing parts,Partial,873.03,Partial,,False,Completed,False
+RET000705,ORD0011973,2025-03-29,Defective,Yes,797.65,Yes,,False,Pending,True
+RET000706,ORD0014575,2024-06-26,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET000707,ORD0008717,2025-04-10,Wrong item,No,513.81,No,flag says No but amount > 0,True,Completed,False
+RET000708,ORD0003155,2025-10-16,Wrong item,Partial,493.79,Partial,,False,Completed,False
+RET000709,ORD0006551,2026-01-14,Defective,No,204.82,No,flag says No but amount > 0,True,Completed,False
+RET000710,ORD0001413,2024-09-11,Damaged item,Yes,954.76,Yes,,False,Pending,True
+RET000711,ORD0004434,2024-02-03,Damaged item,Yes,400.18,Yes,,False,Pending,True
+RET000712,ORD0006232,2024-09-06,Changed mind,No,339.24,No,flag says No but amount > 0,True,Pending,True
+RET000713,ORD0007560,2024-01-15,Late delivery,No,,No,,False,Completed,False
+RET000714,ORD0010773,2024-12-20,Damaged item,Yes,447.47,Yes,,False,Cancelled,True
+RET000715,ORD0013681,2024-05-05,Late delivery,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000716,ORD0012479,2025-01-10,Defective,No,37.11,No,flag says No but amount > 0,True,Completed,False
+RET000717,ORD0008937,2024-04-14,Changed mind,Yes,1386.35,Yes,,False,Completed,False
+RET000718,ORD0011826,2024-07-11,Defective,No,551.68,No,flag says No but amount > 0,True,Pending,True
+RET000719,ORD0002314,2024-01-13,Size issue,Yes,1121.48,Yes,,False,Completed,False
+RET000720,ORD0004790,2024-07-13,Defective,Unknown,227.91,,flag blank but amount > 0,True,Completed,False
+RET000721,ORD0007551,2025-08-19,Missing parts,No,1195.58,No,flag says No but amount > 0,True,Completed,False
+RET000722,ORD0007491,2025-09-18,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000723,ORD0006092,2025-01-12,Damaged item,Unknown,589.01,,flag blank but amount > 0,True,Completed,False
+RET000724,ORD0012350,2025-09-17,Changed mind,No,,No,,False,Completed,False
+RET000725,ORD0012958,2024-04-28,Damaged item,No,847.04,No,flag says No but amount > 0,True,Completed,False
+RET000726,ORD0006955,2024-12-04,Wrong item,Yes,1133.1,Yes,,False,Completed,False
+RET000727,ORD0001257,2024-04-06,Late delivery,No,905.91,No,flag says No but amount > 0,True,Completed,False
+RET000728,ORD0004000,2024-05-22,Wrong item,No,475.93,No,flag says No but amount > 0,True,Completed,False
+RET000729,ORD0012654,2024-10-20,Changed mind,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000730,ORD0007790,2025-02-16,Wrong item,No,,No,,False,Pending,True
+RET000731,ORD0013665,2025-01-21,Damaged item,Yes,771.78,Yes,,False,Pending,True
+RET000732,ORD0006150,2024-04-03,Damaged item,Yes,440.55,Yes,,False,Completed,False
+RET000733,ORD0007622,2026-01-25,Changed mind,No,,No,,False,Shipped,False
+RET000734,ORD0004495,2025-04-17,Changed mind,No,0.0,No,,False,Completed,False
+RET000735,ORD0000210,2024-09-22,Damaged item,No,1063.17,No,flag says No but amount > 0,True,Cancelled,True
+RET000736,ORD0004712,2025-07-26,Damaged item,Yes,58.04,Yes,,False,Completed,False
+RET000737,ORD0010764,2025-09-27,Wrong item,Yes,763.25,Yes,,False,Shipped,False
+RET000738,ORD0014686,2025-06-07,Size issue,Yes,369.19,Yes,,False,Shipped,False
+RET000739,ORD0010151,2025-02-06,Wrong item,Yes,786.5,Yes,,False,Completed,False
+RET000740,ORD0009403,2024-03-26,Defective,Yes,1191.56,Yes,,False,Completed,False
+RET000741,ORD0013768,2025-02-20,Size issue,Yes,763.92,Yes,,False,Shipped,False
+RET000742,ORD0006300,2025-01-23,Size issue,No,1148.64,No,flag says No but amount > 0,True,Completed,False
+RET000743,ORD0007893,2024-10-08,Missing parts,Yes,558.64,Yes,,False,Completed,False
+RET000744,ORD0000042,2025-09-26,Wrong item,Unknown,0.0,,,False,Returned,False
+RET000745,ORD0005082,2024-09-08,Defective,No,362.7,No,flag says No but amount > 0,True,Completed,False
+RET000746,ORD0000924,2024-09-06,Size issue,Unknown,,,,False,Completed,False
+RET000747,ORD0008132,2024-08-08,Wrong item,No,,No,,False,Completed,False
+RET000748,ORD0003286,2025-07-01,Late delivery,Yes,492.32,Yes,,False,Completed,False
+RET000749,ORD0009091,2024-04-18,Wrong item,Yes,2034.19,Yes,,False,Cancelled,True
+RET000750,ORD0001032,2024-10-31,Late delivery,Yes,906.61,Yes,,False,Completed,False
+RET000751,ORD0004421,2025-12-11,Missing parts,Yes,193.39,Yes,,False,Completed,False
+RET000752,ORD0003657,2025-02-13,Late delivery,No,904.87,No,flag says No but amount > 0,True,Shipped,False
+RET000753,ORD0003712,2024-07-25,Defective,Yes,859.01,Yes,,False,Completed,False
+RET000754,ORD0010942,2026-01-20,Missing parts,Unknown,236.67,,flag blank but amount > 0,True,Completed,False
+RET000755,ORD0012049,2025-07-22,Wrong item,Yes,193.55,Yes,,False,Completed,False
+RET000756,ORD0008830,2025-05-29,Damaged item,No,636.59,No,flag says No but amount > 0,True,Completed,False
+RET000757,ORD0007497,2024-01-18,Defective,Unknown,0.0,,,False,Completed,False
+RET000758,ORD0000731,2024-10-23,Defective,Yes,900.11,Yes,,False,Pending,True
+RET000759,ORD0008375,2025-02-13,Missing parts,No,44.7,No,flag says No but amount > 0,True,Completed,False
+RET000760,ORD0014722,2025-12-10,Late delivery,Yes,924.74,Yes,,False,Completed,False
+RET000761,ORD0012342,2025-12-07,Wrong item,No,,No,,False,Completed,False
+RET000762,ORD0005690,2024-07-02,Changed mind,Unknown,773.52,,flag blank but amount > 0,True,Completed,False
+RET000763,ORD0008065,2024-08-31,Size issue,Yes,425.81,Yes,,False,Completed,False
+RET000764,ORD0014547,2024-11-07,Changed mind,Yes,424.79,Yes,,False,Completed,False
+RET000765,ORD0009961,2025-11-07,Late delivery,No,,No,,False,Completed,False
+RET000766,ORD0013411,2024-01-22,Changed mind,No,926.93,No,flag says No but amount > 0,True,Completed,False
+RET000767,ORD0008109,2025-11-03,Missing parts,Yes,1174.82,Yes,,False,Completed,False
+RET000768,ORD0010244,2024-08-01,Damaged item,Unknown,,,,False,Completed,False
+RET000769,ORD0003613,2025-02-28,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000770,ORD0001753,2024-10-11,Late delivery,Unknown,737.57,,flag blank but amount > 0,True,Completed,False
+RET000771,ORD0009825,2024-11-16,Late delivery,No,676.22,No,flag says No but amount > 0,True,Pending,True
+RET000772,ORD0009114,2024-06-01,Damaged item,Yes,745.76,Yes,,False,Completed,False
+RET000773,ORD0003793,2024-07-06,Wrong item,Unknown,191.48,,flag blank but amount > 0,True,Cancelled,True
+RET000774,ORD0011057,2025-07-22,Wrong item,No,935.21,No,flag says No but amount > 0,True,Returned,False
+RET000775,ORD0010820,2024-02-08,Changed mind,Yes,1038.83,Yes,,False,Shipped,False
+RET000776,ORD0000508,2025-12-24,Wrong item,Yes,116.59,Yes,,False,Shipped,False
+RET000777,ORD0007523,2025-11-16,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000778,ORD0004032,2024-02-15,Changed mind,Yes,1169.75,Yes,,False,Completed,False
+RET000779,ORD0007052,2024-03-16,Defective,Yes,507.12,Yes,,False,Completed,False
+RET000780,ORD0009671,2025-09-11,Wrong item,Partial,1406.91,Partial,,False,Completed,False
+RET000781,ORD0012823,2025-06-09,Missing parts,No,583.96,No,flag says No but amount > 0,True,Shipped,False
+RET000782,ORD0009380,2025-04-22,Changed mind,Partial,773.46,Partial,,False,Pending,True
+RET000783,ORD0002452,2025-09-10,Wrong item,No,0.0,No,,False,Completed,False
+RET000784,ORD0005165,2025-10-19,Changed mind,Yes,641.28,Yes,,False,Completed,False
+RET000785,ORD0010162,2024-07-03,Defective,Partial,535.8,Partial,,False,Completed,False
+RET000786,ORD0003414,2024-10-29,Changed mind,Yes,1010.61,Yes,,False,Completed,False
+RET000787,ORD0000735,2024-01-08,Wrong item,Yes,1333.41,Yes,,False,Completed,False
+RET000788,ORD0009910,2025-04-21,Missing parts,No,920.42,No,flag says No but amount > 0,True,Completed,False
+RET000789,ORD0009771,2025-03-20,Changed mind,Yes,1007.79,Yes,,False,Shipped,False
+RET000790,ORD0014930,2025-04-06,Damaged item,Yes,616.55,Yes,,False,Completed,False
+RET000791,ORD0012330,2024-04-04,Changed mind,Unknown,569.87,,flag blank but amount > 0,True,Completed,False
+RET000792,ORD0002377,2025-12-13,Changed mind,Partial,1109.28,Partial,,False,Returned,False
+RET000793,ORD0008346,2026-01-14,Wrong item,Yes,679.59,Yes,,False,Pending,True
+RET000794,ORD0009465,2025-09-26,Changed mind,No,436.41,No,flag says No but amount > 0,True,Completed,False
+RET000795,ORD0010433,2025-07-11,Size issue,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET000796,ORD0007009,2025-05-18,Late delivery,Yes,1218.57,Yes,,False,Completed,False
+RET000797,ORD0007943,2025-09-27,Wrong item,Yes,364.34,Yes,,False,Completed,False
+RET000798,ORD0012715,2024-02-05,Wrong item,Yes,647.47,Yes,,False,Cancelled,True
+RET000799,ORD0004947,2024-07-01,Size issue,Partial,396.14,Partial,,False,Completed,False
+RET000800,ORD0004871,2025-12-11,Late delivery,Yes,190.09,Yes,,False,Cancelled,True
+RET000801,ORD0009778,2025-03-04,Damaged item,Unknown,466.25,,flag blank but amount > 0,True,Pending,True
+RET000802,ORD0002374,2025-12-03,Defective,No,615.16,No,flag says No but amount > 0,True,Completed,False
+RET000803,ORD0002441,2024-06-22,Defective,Yes,916.75,Yes,,False,Completed,False
+RET000804,ORD0010568,2025-01-13,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000805,ORD0007303,2024-06-08,Changed mind,Yes,848.95,Yes,,False,Completed,False
+RET000806,ORD0001702,2024-10-31,Size issue,Yes,830.71,Yes,,False,Completed,False
+RET000807,ORD0008797,2025-07-04,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000808,ORD0001246,2024-02-18,Changed mind,Partial,582.28,Partial,,False,Shipped,False
+RET000809,ORD0011473,2024-10-12,Wrong item,Yes,1323.02,Yes,,False,Completed,False
+RET000810,ORD0013771,2024-02-26,Size issue,Yes,867.22,Yes,,False,Completed,False
+RET000811,ORD0012502,2025-10-27,Damaged item,No,,No,,False,Completed,False
+RET000812,ORD0001359,2026-01-09,Changed mind,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET000813,ORD0005287,2024-12-21,Late delivery,Yes,830.01,Yes,,False,Returned,False
+RET000814,ORD0010113,2025-04-18,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000815,ORD0006926,2026-01-09,Wrong item,Yes,1829.66,Yes,,False,Completed,False
+RET000816,ORD0003511,2025-04-27,Missing parts,No,683.85,No,flag says No but amount > 0,True,Pending,True
+RET000817,ORD0012617,2024-04-27,Size issue,No,115.28,No,flag says No but amount > 0,True,Completed,False
+RET000818,ORD0010547,2024-12-06,Changed mind,No,448.38,No,flag says No but amount > 0,True,Completed,False
+RET000819,ORD0013637,2024-08-08,Wrong item,Yes,3.52,Yes,,False,Shipped,False
+RET000820,ORD0008888,2025-10-01,Changed mind,Yes,875.58,Yes,,False,Completed,False
+RET000821,ORD0013179,2025-05-26,Size issue,No,1411.32,No,flag says No but amount > 0,True,Completed,False
+RET000822,ORD0001446,2024-06-04,Wrong item,Unknown,,,,False,Completed,False
+RET000823,ORD0008143,2025-05-30,Late delivery,Yes,923.53,Yes,,False,Pending,True
+RET000824,ORD0014323,2025-01-11,Missing parts,Partial,,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000825,ORD0012037,2024-07-23,Missing parts,Yes,857.55,Yes,,False,Completed,False
+RET000826,ORD0007394,2024-12-25,Size issue,No,327.68,No,flag says No but amount > 0,True,Completed,False
+RET000827,ORD0008461,2024-04-24,Damaged item,Yes,532.55,Yes,,False,Completed,False
+RET000828,ORD0006519,2025-09-29,Changed mind,Unknown,0.0,,,False,Pending,True
+RET000829,ORD0013828,2024-01-05,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000830,ORD0012608,2025-01-10,Changed mind,Partial,190.45,Partial,,False,Completed,False
+RET000831,ORD0011476,2024-08-04,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000832,ORD0014294,2024-10-24,Size issue,Yes,1126.71,Yes,,False,Pending,True
+RET000833,ORD0011938,2024-11-15,Wrong item,Yes,847.38,Yes,,False,Completed,False
+RET000834,ORD0006337,2025-12-19,Late delivery,Partial,1001.87,Partial,,False,Completed,False
+RET000835,ORD0006451,2024-07-29,Wrong item,Yes,405.79,Yes,,False,Completed,False
+RET000836,ORD0002644,2024-04-26,Damaged item,Yes,1055.45,Yes,,False,Completed,False
+RET000837,ORD0000590,2024-06-02,Changed mind,Partial,155.22,Partial,,False,Shipped,False
+RET000838,ORD0011407,2024-09-17,Late delivery,No,561.91,No,flag says No but amount > 0,True,Shipped,False
+RET000839,ORD0007660,2025-11-06,Late delivery,Yes,1050.83,Yes,,False,Pending,True
+RET000840,ORD0013080,2025-08-03,Late delivery,No,226.14,No,flag says No but amount > 0,True,Pending,True
+RET000841,ORD0014958,2024-09-14,Defective,Yes,15.4,Yes,,False,Completed,False
+RET000842,ORD0000876,2024-04-02,Damaged item,Yes,888.98,Yes,,False,Shipped,False
+RET000843,ORD0005541,2024-05-28,Missing parts,Unknown,568.3,,flag blank but amount > 0,True,Completed,False
+RET000844,ORD0011800,2024-09-06,Damaged item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000845,ORD0003607,2025-02-21,Late delivery,Yes,922.46,Yes,,False,Completed,False
+RET000846,ORD0003445,2024-02-03,Wrong item,Yes,1186.19,Yes,,False,Completed,False
+RET000847,ORD0011613,2024-09-15,Size issue,No,334.23,No,flag says No but amount > 0,True,Completed,False
+RET000848,ORD0011122,2024-01-18,Defective,Partial,734.37,Partial,,False,Completed,False
+RET000849,ORD0002440,2025-01-07,Size issue,No,577.41,No,flag says No but amount > 0,True,Shipped,False
+RET000850,ORD0007904,2025-12-28,Damaged item,Unknown,,,,False,Completed,False
+RET000851,ORD0009179,2024-06-09,Size issue,Yes,534.33,Yes,,False,Pending,True
+RET000852,ORD0000763,2025-04-15,Late delivery,Yes,778.91,Yes,,False,Completed,False
+RET000853,ORD0001690,2024-12-29,Missing parts,No,987.54,No,flag says No but amount > 0,True,Completed,False
+RET000854,ORD0000750,2025-06-22,Missing parts,Yes,1332.73,Yes,,False,Shipped,False
+RET000855,ORD0003116,2025-11-21,Wrong item,Partial,697.5,Partial,,False,Completed,False
+RET000856,ORD0013439,2024-02-28,Size issue,Partial,1006.2,Partial,,False,Completed,False
+RET000857,ORD0003665,2024-05-17,Damaged item,Unknown,1375.55,,flag blank but amount > 0,True,Shipped,False
+RET000858,ORD0005879,2024-08-22,Changed mind,Yes,1123.58,Yes,,False,Cancelled,True
+RET000859,ORD0005161,2025-10-29,Defective,Yes,1073.46,Yes,,False,Completed,False
+RET000860,ORD0000205,2024-07-11,Defective,No,1623.92,No,flag says No but amount > 0,True,Completed,False
+RET000861,ORD0014763,2025-05-04,Late delivery,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000862,ORD0009795,2025-03-24,Size issue,Unknown,,,,False,Completed,False
+RET000863,ORD0011080,2024-03-31,Damaged item,Unknown,320.27,,flag blank but amount > 0,True,Completed,False
+RET000864,ORD0003316,2025-07-01,Defective,No,1277.97,No,flag says No but amount > 0,True,Completed,False
+RET000865,ORD0005549,2025-04-23,Defective,Yes,321.52,Yes,,False,Completed,False
+RET000866,ORD0011352,2024-01-16,Defective,No,968.86,No,flag says No but amount > 0,True,Completed,False
+RET000867,ORD0004556,2025-04-13,Wrong item,Yes,511.36,Yes,,False,Completed,False
+RET000868,ORD0004629,2025-06-26,Late delivery,No,,No,,False,Completed,False
+RET000869,ORD0006510,2024-01-24,Missing parts,Yes,384.33,Yes,,False,Completed,False
+RET000870,ORD0010628,2025-04-24,Changed mind,Yes,671.45,Yes,,False,Cancelled,True
+RET000871,ORD0003968,2025-01-13,Wrong item,Yes,1554.98,Yes,,False,Shipped,False
+RET000872,ORD0002431,2024-07-02,Defective,Yes,1009.99,Yes,,False,Completed,False
+RET000873,ORD0013947,2024-05-06,Missing parts,Yes,337.54,Yes,,False,Completed,False
+RET000874,ORD0013809,2025-05-11,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET000875,ORD0012961,2025-07-22,Damaged item,Partial,440.83,Partial,,False,Completed,False
+RET000876,ORD0000811,2025-03-02,Missing parts,Partial,,Partial,flag says refunded but amount missing/0,True,Pending,True
+RET000877,ORD0010567,2024-01-01,Missing parts,Yes,981.2,Yes,,False,Completed,False
+RET000878,ORD0003900,2024-08-15,Wrong item,No,911.84,No,flag says No but amount > 0,True,Completed,False
+RET000879,ORD0000385,2025-05-05,Damaged item,No,919.39,No,flag says No but amount > 0,True,Shipped,False
+RET000880,ORD0011702,2024-11-03,Defective,No,1022.73,No,flag says No but amount > 0,True,Completed,False
+RET000881,ORD0012301,2024-04-17,Defective,Yes,970.45,Yes,,False,Pending,True
+RET000882,ORD0006764,2025-07-12,Damaged item,Yes,876.59,Yes,,False,Completed,False
+RET000883,ORD0013169,2024-05-05,Missing parts,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Returned,False
+RET000884,ORD0000879,2024-05-16,Wrong item,Yes,979.36,Yes,,False,Completed,False
+RET000885,ORD0011664,2024-12-12,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000886,ORD0007056,2025-02-26,Changed mind,Yes,507.86,Yes,,False,Completed,False
+RET000887,ORD0008175,2024-01-19,Missing parts,No,908.55,No,flag says No but amount > 0,True,Completed,False
+RET000888,ORD0014751,2024-03-30,Damaged item,Yes,844.83,Yes,,False,Pending,True
+RET000889,ORD0014342,2024-01-16,Late delivery,Unknown,696.68,,flag blank but amount > 0,True,Completed,False
+RET000890,ORD0000999,2024-02-12,Changed mind,No,174.69,No,flag says No but amount > 0,True,Completed,False
+RET000891,ORD0002630,2024-11-04,Size issue,No,0.0,No,,False,Completed,False
+RET000892,ORD0005245,2024-12-01,Changed mind,Unknown,524.67,,flag blank but amount > 0,True,Completed,False
+RET000893,ORD0010652,2025-02-07,Damaged item,No,,No,,False,Shipped,False
+RET000894,ORD0008745,2025-02-23,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET000895,ORD0002388,2025-01-25,Changed mind,Unknown,415.68,,flag blank but amount > 0,True,Pending,True
+RET000896,ORD0009857,2024-08-14,Changed mind,Partial,1292.04,Partial,,False,Returned,False
+RET000897,ORD0013979,2024-11-24,Changed mind,Partial,,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000898,ORD0008123,2025-09-12,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000899,ORD0006498,2024-08-07,Damaged item,Yes,1520.67,Yes,,False,Completed,False
+RET000900,ORD0000612,2025-10-13,Missing parts,Yes,7.41,Yes,,False,Completed,False
+RET000901,ORD0009058,2024-06-26,Damaged item,No,,No,,False,Completed,False
+RET000902,ORD0007327,2024-11-30,Size issue,No,507.32,No,flag says No but amount > 0,True,Completed,False
+RET000903,ORD0010509,2024-10-28,Damaged item,Yes,132.01,Yes,,False,Shipped,False
+RET000904,ORD0004764,2025-05-02,Wrong item,Yes,1081.88,Yes,,False,Pending,True
+RET000905,ORD0011380,2024-04-30,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000906,ORD0014015,2024-11-26,Changed mind,Partial,0.0,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000907,ORD0005908,2025-09-24,Late delivery,Yes,886.74,Yes,,False,Completed,False
+RET000908,ORD0003920,2025-05-24,Changed mind,Yes,650.59,Yes,,False,Completed,False
+RET000909,ORD0012588,2024-09-02,Damaged item,Partial,1149.88,Partial,,False,Completed,False
+RET000910,ORD0011258,2024-08-29,Wrong item,No,586.55,No,flag says No but amount > 0,True,Completed,False
+RET000911,ORD0011555,2024-06-14,Late delivery,No,876.02,No,flag says No but amount > 0,True,Completed,False
+RET000912,ORD0010243,2024-01-22,Missing parts,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000913,ORD0004132,2025-08-20,Late delivery,Yes,732.65,Yes,,False,Completed,False
+RET000914,ORD0012705,2025-05-29,Wrong item,Yes,314.69,Yes,,False,Completed,False
+RET000915,ORD0002418,2025-03-04,Damaged item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000916,ORD0010726,2025-12-26,Defective,Yes,808.27,Yes,,False,Cancelled,True
+RET000917,ORD0014791,2025-05-14,Changed mind,Yes,1293.58,Yes,,False,Shipped,False
+RET000918,ORD0005071,2025-07-28,Defective,Yes,1074.39,Yes,,False,Completed,False
+RET000919,ORD0008898,2024-12-03,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET000920,ORD0009540,2024-03-19,Wrong item,Yes,1324.15,Yes,,False,Completed,False
+RET000921,ORD0008727,2024-08-02,Defective,Yes,594.92,Yes,,False,Completed,False
+RET000922,ORD0010627,2025-07-29,Size issue,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000923,ORD0014094,2025-03-10,Missing parts,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000924,ORD0003683,2024-10-25,Damaged item,Unknown,347.06,,flag blank but amount > 0,True,Completed,False
+RET000925,ORD0007138,2025-04-20,Changed mind,Yes,678.28,Yes,,False,Completed,False
+RET000926,ORD0007354,2024-09-07,Late delivery,Partial,581.2,Partial,,False,Completed,False
+RET000927,ORD0005830,2024-10-08,Wrong item,Yes,565.8,Yes,,False,Pending,True
+RET000928,ORD0007577,2024-08-09,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000929,ORD0006507,2024-06-03,Defective,Partial,,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000930,ORD0005034,2024-06-12,Defective,Unknown,593.02,,flag blank but amount > 0,True,Completed,False
+RET000931,ORD0002877,2024-03-03,Size issue,Yes,231.33,Yes,,False,Cancelled,True
+RET000932,ORD0004332,2025-04-02,Missing parts,Yes,790.83,Yes,,False,Completed,False
+RET000933,ORD0005050,2025-07-10,Late delivery,Yes,,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000934,ORD0007829,2025-12-30,Defective,No,966.04,No,flag says No but amount > 0,True,Completed,False
+RET000935,ORD0007545,2025-03-11,Size issue,Yes,253.42,Yes,,False,Shipped,False
+RET000936,ORD0005072,2024-11-24,Damaged item,No,429.23,No,flag says No but amount > 0,True,Shipped,False
+RET000937,ORD0002309,2024-12-26,Wrong item,Yes,895.59,Yes,,False,Completed,False
+RET000938,ORD0013191,2024-06-01,Changed mind,Yes,334.98,Yes,,False,Completed,False
+RET000939,ORD0014644,2025-04-14,Missing parts,No,297.28,No,flag says No but amount > 0,True,Completed,False
+RET000940,ORD0014881,2025-09-04,Defective,Yes,391.83,Yes,,False,Pending,True
+RET000941,ORD0007868,2024-02-26,Missing parts,Yes,708.23,Yes,,False,Completed,False
+RET000942,ORD0002307,2025-06-09,Late delivery,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000943,ORD0004964,2025-07-13,Missing parts,No,1035.49,No,flag says No but amount > 0,True,Completed,False
+RET000944,ORD0001701,2024-10-26,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000945,ORD0006639,2024-04-13,Size issue,Partial,759.85,Partial,,False,Completed,False
+RET000946,ORD0002581,2025-12-20,Size issue,No,985.14,No,flag says No but amount > 0,True,Pending,True
+RET000947,ORD0013535,2024-02-04,Size issue,Partial,427.59,Partial,,False,Shipped,False
+RET000948,ORD0006164,2025-08-24,Changed mind,Yes,367.56,Yes,,False,Returned,False
+RET000949,ORD0004825,2024-10-11,Wrong item,No,0.0,No,,False,Completed,False
+RET000950,ORD0005215,2024-09-03,Defective,No,101.75,No,flag says No but amount > 0,True,Pending,True
+RET000951,ORD0010600,2026-01-23,Size issue,Partial,767.76,Partial,,False,Completed,False
+RET000952,ORD0009475,2024-06-19,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000953,ORD0014370,2025-01-08,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET000954,ORD0007321,2025-08-10,Size issue,Yes,934.89,Yes,,False,Completed,False
+RET000955,ORD0001224,2024-02-29,Damaged item,Partial,742.5,Partial,,False,Completed,False
+RET000956,ORD0004685,2025-10-14,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000957,ORD0009703,2025-06-17,Late delivery,Yes,856.92,Yes,,False,Pending,True
+RET000958,ORD0003367,2026-01-15,Defective,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000959,ORD0011865,2025-11-06,Late delivery,No,926.74,No,flag says No but amount > 0,True,Pending,True
+RET000960,ORD0000572,2024-12-23,Changed mind,Yes,940.91,Yes,,False,Completed,False
+RET000961,ORD0011964,2025-10-08,Wrong item,Yes,83.69,Yes,,False,Pending,True
+RET000962,ORD0009570,2026-01-04,Changed mind,No,488.33,No,flag says No but amount > 0,True,Cancelled,True
+RET000963,ORD0008736,2024-12-14,Defective,No,562.93,No,flag says No but amount > 0,True,Completed,False
+RET000964,ORD0011792,2024-11-06,Changed mind,Partial,441.02,Partial,,False,Returned,False
+RET000965,ORD0006682,2024-11-02,Size issue,Yes,239.84,Yes,,False,Shipped,False
+RET000966,ORD0006705,2025-04-29,Missing parts,No,720.06,No,flag says No but amount > 0,True,Completed,False
+RET000967,ORD0012930,2025-04-17,Changed mind,Partial,1041.3,Partial,,False,Completed,False
+RET000968,ORD0014115,2024-07-30,Missing parts,Yes,330.73,Yes,,False,Completed,False
+RET000969,ORD0014608,2025-09-11,Changed mind,Unknown,,,,False,Shipped,False
+RET000970,ORD0008782,2024-09-29,Damaged item,No,447.72,No,flag says No but amount > 0,True,Completed,False
+RET000971,ORD0013139,2024-10-20,Defective,No,839.38,No,flag says No but amount > 0,True,Completed,False
+RET000972,ORD0002253,2025-02-07,Defective,Yes,175.1,Yes,,False,Completed,False
+RET000973,ORD0012722,2025-08-15,Changed mind,No,,No,,False,Completed,False
+RET000974,ORD0012793,2025-04-21,Damaged item,Yes,1338.18,Yes,,False,Completed,False
+RET000975,ORD0002028,2024-12-18,Missing parts,Yes,1086.27,Yes,,False,Shipped,False
+RET000976,ORD0012346,2024-12-10,Wrong item,Yes,1261.3,Yes,,False,Cancelled,True
+RET000977,ORD0008066,2024-11-18,Defective,Unknown,159.94,,flag blank but amount > 0,True,Completed,False
+RET000978,ORD0001040,2025-02-13,Late delivery,Yes,378.15,Yes,,False,Completed,False
+RET000979,ORD0009557,2024-10-15,Late delivery,Yes,1157.84,Yes,,False,Completed,False
+RET000980,ORD0011924,2024-03-06,Late delivery,Partial,239.8,Partial,,False,Completed,False
+RET000981,ORD0001716,2024-01-31,Wrong item,Yes,706.89,Yes,,False,Completed,False
+RET000982,ORD0002972,2025-12-21,Size issue,Yes,1016.29,Yes,,False,Completed,False
+RET000983,ORD0012154,2025-05-16,Missing parts,No,1130.7,No,flag says No but amount > 0,True,Shipped,False
+RET000984,ORD0007070,2024-08-19,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET000985,ORD0006913,2024-09-27,Wrong item,Yes,1170.52,Yes,,False,Completed,False
+RET000986,ORD0008049,2024-11-02,Defective,Yes,355.32,Yes,,False,Completed,False
+RET000987,ORD0014879,2025-03-30,Wrong item,No,,No,,False,Completed,False
+RET000988,ORD0002580,2024-06-16,Defective,Partial,1131.7,Partial,,False,Completed,False
+RET000989,ORD0004065,2025-12-26,Size issue,Partial,,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET000990,ORD0010497,2025-02-11,Defective,Unknown,713.02,,flag blank but amount > 0,True,Shipped,False
+RET000991,ORD0012519,2025-03-14,Defective,No,621.92,No,flag says No but amount > 0,True,Completed,False
+RET000992,ORD0006550,2024-05-11,Late delivery,No,,No,,False,Shipped,False
+RET000993,ORD0011282,2025-07-09,Defective,No,,No,,False,Completed,False
+RET000994,ORD0014924,2024-10-27,Changed mind,Yes,354.03,Yes,,False,Completed,False
+RET000995,ORD0006334,2025-05-06,Changed mind,No,481.74,No,flag says No but amount > 0,True,Completed,False
+RET000996,ORD0007538,2024-10-16,Wrong item,Partial,,Partial,flag says refunded but amount missing/0,True,Shipped,False
+RET000997,ORD0005729,2024-04-27,Wrong item,Yes,1211.61,Yes,,False,Shipped,False
+RET000998,ORD0003864,2024-02-13,Changed mind,No,,No,,False,Completed,False
+RET000999,ORD0013896,2025-05-15,Missing parts,Yes,579.9,Yes,,False,Completed,False
+RET001000,ORD0011607,2025-12-14,Defective,Yes,659.48,Yes,,False,Completed,False
+RET001001,ORD0001609,2024-05-17,Wrong item,Yes,1050.74,Yes,,False,Shipped,False
+RET001002,ORD0008864,2024-02-15,Wrong item,No,169.33,No,flag says No but amount > 0,True,Shipped,False
+RET001003,ORD0001601,2025-03-05,Changed mind,No,354.55,No,flag says No but amount > 0,True,Completed,False
+RET001004,ORD0011047,2024-09-11,Size issue,Partial,453.85,Partial,,False,Pending,True
+RET001005,ORD0001291,2024-03-15,Defective,Partial,590.9,Partial,,False,Pending,True
+RET001006,ORD0007403,2025-11-22,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001007,ORD0014187,2025-07-20,Wrong item,Yes,381.45,Yes,,False,Completed,False
+RET001008,ORD0001373,2025-07-15,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001009,ORD0005130,2024-07-20,Missing parts,No,566.25,No,flag says No but amount > 0,True,Shipped,False
+RET001010,ORD0010267,2024-05-21,Damaged item,No,,No,,False,Completed,False
+RET001011,ORD0002690,2025-09-01,Missing parts,Yes,184.9,Yes,,False,Completed,False
+RET001012,ORD0007100,2025-06-06,Late delivery,Yes,782.67,Yes,,False,Completed,False
+RET001013,ORD0009536,2025-11-16,Size issue,No,436.52,No,flag says No but amount > 0,True,Completed,False
+RET001014,ORD0008210,2025-07-02,Size issue,Yes,731.53,Yes,,False,Cancelled,True
+RET001015,ORD0011010,2024-01-06,Changed mind,No,929.37,No,flag says No but amount > 0,True,Completed,False
+RET001016,ORD0001497,2025-12-31,Size issue,Unknown,726.2,,flag blank but amount > 0,True,Cancelled,True
+RET001017,ORD0003716,2025-05-09,Size issue,Yes,1186.91,Yes,,False,Completed,False
+RET001018,ORD0001639,2025-03-10,Damaged item,Yes,207.8,Yes,,False,Completed,False
+RET001019,ORD0002622,2024-02-07,Changed mind,No,783.17,No,flag says No but amount > 0,True,Completed,False
+RET001020,ORD0014814,2024-09-24,Defective,Yes,350.19,Yes,,False,Completed,False
+RET001021,ORD0000783,2025-05-04,Defective,Yes,255.44,Yes,,False,Completed,False
+RET001022,ORD0006935,2024-04-29,Late delivery,No,1228.8,No,flag says No but amount > 0,True,Completed,False
+RET001023,ORD0014739,2025-01-02,Damaged item,Yes,187.95,Yes,,False,Completed,False
+RET001024,ORD0002381,2025-05-03,Missing parts,Yes,883.96,Yes,,False,Completed,False
+RET001025,ORD0004668,2025-08-08,Late delivery,No,267.25,No,flag says No but amount > 0,True,Completed,False
+RET001026,ORD0001667,2025-09-03,Late delivery,Yes,968.02,Yes,,False,Shipped,False
+RET001027,ORD0010802,2025-12-31,Damaged item,No,843.82,No,flag says No but amount > 0,True,Completed,False
+RET001028,ORD0006944,2025-05-28,Missing parts,Yes,522.22,Yes,,False,Completed,False
+RET001029,ORD0011970,2025-06-10,Defective,Yes,819.87,Yes,,False,Completed,False
+RET001030,ORD0001125,2024-09-13,Missing parts,Yes,586.98,Yes,,False,Pending,True
+RET001031,ORD0007015,2025-03-17,Changed mind,Yes,485.05,Yes,,False,Completed,False
+RET001032,ORD0008648,2024-06-18,Size issue,Yes,972.78,Yes,,False,Shipped,False
+RET001033,ORD0005748,2026-01-24,Damaged item,Yes,1497.29,Yes,,False,Completed,False
+RET001034,ORD0000429,2025-12-02,Changed mind,No,,No,,False,Completed,False
+RET001035,ORD0012374,2024-09-18,Missing parts,Yes,786.18,Yes,,False,Pending,True
+RET001036,ORD0002362,2025-06-06,Changed mind,Yes,795.56,Yes,,False,Completed,False
+RET001037,ORD0007341,2025-02-14,Size issue,Unknown,,,,False,Completed,False
+RET001038,ORD0000669,2024-04-05,Size issue,Yes,955.82,Yes,,False,Completed,False
+RET001039,ORD0011085,2024-06-28,Missing parts,Yes,827.34,Yes,,False,Completed,False
+RET001040,ORD0004066,2025-08-20,Late delivery,Unknown,385.17,,flag blank but amount > 0,True,Cancelled,True
+RET001041,ORD0004413,2025-05-24,Missing parts,Yes,1029.79,Yes,,False,Pending,True
+RET001042,ORD0013921,2025-08-04,Missing parts,Yes,105.92,Yes,,False,Shipped,False
+RET001043,ORD0004169,2024-07-17,Missing parts,Partial,1412.16,Partial,,False,Completed,False
+RET001044,ORD0005886,2025-09-20,Missing parts,Yes,1020.27,Yes,,False,Completed,False
+RET001045,ORD0009094,2025-03-03,Missing parts,No,,No,,False,Shipped,False
+RET001046,ORD0009155,2025-07-04,Damaged item,Yes,,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET001047,ORD0005173,2025-12-15,Size issue,Partial,808.84,Partial,,False,Pending,True
+RET001048,ORD0012940,2024-07-14,Late delivery,Yes,531.68,Yes,,False,Completed,False
+RET001049,ORD0001160,2024-07-31,Missing parts,No,832.11,No,flag says No but amount > 0,True,Completed,False
+RET001050,ORD0007739,2024-07-02,Late delivery,Yes,,Yes,flag says refunded but amount missing/0,True,Pending,True
+RET001051,ORD0012020,2025-07-17,Wrong item,Yes,324.03,Yes,,False,Cancelled,True
+RET001052,ORD0014826,2025-08-27,Changed mind,Yes,853.65,Yes,,False,Shipped,False
+RET001053,ORD0004778,2025-10-06,Late delivery,No,,No,,False,Completed,False
+RET001054,ORD0013405,2025-08-01,Changed mind,Partial,0.0,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET001055,ORD0002329,2024-11-26,Missing parts,Yes,308.69,Yes,,False,Completed,False
+RET001056,ORD0012812,2025-06-06,Damaged item,Yes,870.96,Yes,,False,Completed,False
+RET001057,ORD0003729,2025-06-04,Changed mind,Yes,597.75,Yes,,False,Completed,False
+RET001058,ORD0002826,2024-11-25,Damaged item,Yes,561.52,Yes,,False,Completed,False
+RET001059,ORD0012580,2024-01-22,Wrong item,No,1215.66,No,flag says No but amount > 0,True,Cancelled,True
+RET001060,ORD0013234,2024-11-10,Missing parts,No,118.5,No,flag says No but amount > 0,True,Pending,True
+RET001061,ORD0001138,2025-04-10,Wrong item,No,963.68,No,flag says No but amount > 0,True,Completed,False
+RET001062,ORD0001502,2025-09-13,Late delivery,No,982.59,No,flag says No but amount > 0,True,Completed,False
+RET001063,ORD0012548,2025-04-13,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001064,ORD0011657,2026-01-29,Size issue,Yes,763.3,Yes,,False,Completed,False
+RET001065,ORD0009015,2025-09-25,Changed mind,Yes,793.1,Yes,,False,Completed,False
+RET001066,ORD0007617,2024-12-10,Size issue,Unknown,713.55,,flag blank but amount > 0,True,Cancelled,True
+RET001067,ORD0003113,2024-02-29,Changed mind,Yes,749.95,Yes,,False,Completed,False
+RET001068,ORD0010874,2024-07-29,Changed mind,Unknown,342.61,,flag blank but amount > 0,True,Completed,False
+RET001069,ORD0006444,2024-08-31,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001070,ORD0001671,2024-07-13,Defective,Yes,898.7,Yes,,False,Shipped,False
+RET001071,ORD0008815,2025-12-10,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001072,ORD0010986,2024-08-05,Missing parts,No,382.68,No,flag says No but amount > 0,True,Shipped,False
+RET001073,ORD0007869,2025-04-23,Late delivery,No,,No,,False,Returned,False
+RET001074,ORD0010725,2025-03-26,Changed mind,Unknown,1407.53,,flag blank but amount > 0,True,Completed,False
+RET001075,ORD0009917,2025-06-19,Late delivery,No,955.57,No,flag says No but amount > 0,True,Completed,False
+RET001076,ORD0004537,2025-05-20,Damaged item,Yes,910.78,Yes,,False,Completed,False
+RET001077,ORD0010199,2024-02-08,Damaged item,No,0.0,No,,False,Completed,False
+RET001078,ORD0011799,2025-02-17,Changed mind,Yes,309.14,Yes,,False,Completed,False
+RET001079,ORD0009076,2025-01-09,Defective,Yes,648.93,Yes,,False,Completed,False
+RET001080,ORD0003769,2024-09-23,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Shipped,False
+RET001081,ORD0004517,2024-12-18,Late delivery,No,857.72,No,flag says No but amount > 0,True,Pending,True
+RET001082,ORD0003640,2024-09-19,Changed mind,Yes,407.27,Yes,,False,Completed,False
+RET001083,ORD0006332,2024-06-02,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET001084,ORD0010149,2025-12-15,Defective,No,143.77,No,flag says No but amount > 0,True,Shipped,False
+RET001085,ORD0000787,2025-11-05,Changed mind,Yes,183.15,Yes,,False,Completed,False
+RET001086,ORD0001393,2024-08-25,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001087,ORD0012699,2024-07-27,Changed mind,Partial,41.81,Partial,,False,Completed,False
+RET001088,ORD0003223,2025-01-10,Changed mind,Yes,1099.2,Yes,,False,Completed,False
+RET001089,ORD0001374,2025-01-20,Wrong item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001090,ORD0001669,2024-09-25,Missing parts,No,874.95,No,flag says No but amount > 0,True,Returned,False
+RET001091,ORD0011372,2024-01-17,Changed mind,No,1358.12,No,flag says No but amount > 0,True,Completed,False
+RET001092,ORD0012381,2024-08-10,Defective,Yes,656.38,Yes,,False,Pending,True
+RET001093,ORD0014953,2024-10-15,Wrong item,Partial,446.3,Partial,,False,Completed,False
+RET001094,ORD0006899,2025-07-11,Damaged item,Yes,319.41,Yes,,False,Completed,False
+RET001095,ORD0010911,2024-04-19,Size issue,Yes,972.69,Yes,,False,Completed,False
+RET001096,ORD0009916,2024-07-01,Wrong item,Unknown,861.03,,flag blank but amount > 0,True,Shipped,False
+RET001097,ORD0011279,2024-11-26,Late delivery,Yes,1197.65,Yes,,False,Pending,True
+RET001098,ORD0000087,2024-05-07,Late delivery,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001099,ORD0014033,2025-04-03,Size issue,No,432.32,No,flag says No but amount > 0,True,Completed,False
+RET001100,ORD0010727,2025-06-04,Defective,No,1264.23,No,flag says No but amount > 0,True,Shipped,False
+RET001101,ORD0001174,2024-06-17,Late delivery,Yes,1003.92,Yes,,False,Completed,False
+RET001102,ORD0008207,2025-04-17,Size issue,No,674.37,No,flag says No but amount > 0,True,Pending,True
+RET001103,ORD0002486,2025-10-08,Defective,Unknown,1112.94,,flag blank but amount > 0,True,Cancelled,True
+RET001104,ORD0010251,2025-06-12,Wrong item,Unknown,1400.03,,flag blank but amount > 0,True,Completed,False
+RET001105,ORD0006279,2024-07-18,Changed mind,Partial,1127.5,Partial,,False,Pending,True
+RET001106,ORD0008618,2025-11-01,Damaged item,No,957.67,No,flag says No but amount > 0,True,Completed,False
+RET001107,ORD0000386,2024-12-29,Size issue,Unknown,,,,False,Completed,False
+RET001108,ORD0001355,2024-03-24,Size issue,Yes,739.41,Yes,,False,Completed,False
+RET001109,ORD0014780,2024-01-13,Defective,Yes,1057.51,Yes,,False,Completed,False
+RET001110,ORD0014934,2025-05-16,Changed mind,Yes,661.59,Yes,,False,Completed,False
+RET001111,ORD0010283,2024-03-07,Late delivery,Partial,832.93,Partial,,False,Pending,True
+RET001112,ORD0012459,2024-07-07,Damaged item,Yes,864.12,Yes,,False,Completed,False
+RET001113,ORD0013066,2024-05-05,Size issue,Yes,604.16,Yes,,False,Shipped,False
+RET001114,ORD0005647,2025-07-31,Late delivery,Partial,406.85,Partial,,False,Completed,False
+RET001115,ORD0013719,2025-04-29,Size issue,Yes,686.57,Yes,,False,Completed,False
+RET001116,ORD0014609,2025-12-29,Damaged item,Yes,569.76,Yes,,False,Returned,False
+RET001117,ORD0004880,2025-05-28,Defective,No,,No,,False,Cancelled,True
+RET001118,ORD0003290,2024-03-30,Size issue,Yes,,Yes,flag says refunded but amount missing/0,True,Cancelled,True
+RET001119,ORD0008409,2025-03-07,Changed mind,Yes,1390.64,Yes,,False,Completed,False
+RET001120,ORD0003825,2025-11-19,Size issue,Yes,1076.48,Yes,,False,Completed,False
+RET001121,ORD0000285,2025-06-03,Size issue,No,795.04,No,flag says No but amount > 0,True,Completed,False
+RET001122,ORD0009485,2024-03-23,Missing parts,No,,No,,False,Completed,False
+RET001123,ORD0007715,2024-12-10,Wrong item,No,251.45,No,flag says No but amount > 0,True,Completed,False
+RET001124,ORD0006521,2025-12-08,Wrong item,Yes,723.94,Yes,,False,Completed,False
+RET001125,ORD0010418,2024-08-24,Size issue,Yes,993.82,Yes,,False,Completed,False
+RET001126,ORD0009358,2024-05-18,Late delivery,Yes,314.26,Yes,,False,Shipped,False
+RET001127,ORD0000542,2025-09-07,Changed mind,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001128,ORD0005178,2024-07-27,Size issue,Yes,332.86,Yes,,False,Completed,False
+RET001129,ORD0011110,2025-02-22,Damaged item,Yes,1306.07,Yes,,False,Completed,False
+RET001130,ORD0014616,2024-09-12,Damaged item,No,265.0,No,flag says No but amount > 0,True,Completed,False
+RET001131,ORD0013878,2024-05-17,Missing parts,Yes,587.06,Yes,,False,Completed,False
+RET001132,ORD0003935,2025-08-23,Missing parts,Yes,361.67,Yes,,False,Completed,False
+RET001133,ORD0003085,2025-10-27,Size issue,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001134,ORD0002458,2026-01-20,Wrong item,Yes,0.0,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001135,ORD0013189,2024-05-05,Missing parts,Yes,263.04,Yes,,False,Returned,False
+RET001136,ORD0004095,2025-10-10,Size issue,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001137,ORD0008193,2025-01-17,Late delivery,Unknown,263.47,,flag blank but amount > 0,True,Completed,False
+RET001138,ORD0011064,2024-11-15,Size issue,Partial,,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET001139,ORD0003534,2025-04-27,Late delivery,Yes,2194.43,Yes,,False,Completed,False
+RET001140,ORD0008556,2024-03-06,Defective,Yes,281.42,Yes,,False,Shipped,False
+RET001141,ORD0012801,2024-10-05,Defective,Partial,55.05,Partial,,False,Completed,False
+RET001142,ORD0006004,2024-10-08,Missing parts,Yes,901.96,Yes,,False,Completed,False
+RET001143,ORD0009882,2024-07-04,Changed mind,Partial,575.4,Partial,,False,Completed,False
+RET001144,ORD0001984,2024-07-14,Defective,Partial,,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET001145,ORD0000111,2024-07-01,Defective,Unknown,0.0,,,False,Completed,False
+RET001146,ORD0013505,2025-07-27,Late delivery,Yes,1515.01,Yes,,False,Pending,True
+RET001147,ORD0002038,2025-06-30,Size issue,No,827.16,No,flag says No but amount > 0,True,Completed,False
+RET001148,ORD0012390,2025-08-04,Defective,Yes,708.17,Yes,,False,Returned,False
+RET001149,ORD0013315,2024-07-02,Damaged item,Unknown,308.33,,flag blank but amount > 0,True,Pending,True
+RET001150,ORD0010237,2024-09-29,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001151,ORD0013044,2024-02-07,Wrong item,Unknown,832.79,,flag blank but amount > 0,True,Completed,False
+RET001152,ORD0003639,2025-11-09,Changed mind,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001153,ORD0000208,2025-07-16,Changed mind,Yes,499.93,Yes,,False,Completed,False
+RET001154,ORD0000353,2024-09-30,Wrong item,No,1135.8,No,flag says No but amount > 0,True,Completed,False
+RET001155,ORD0013087,2024-11-19,Damaged item,Yes,284.68,Yes,,False,Cancelled,True
+RET001156,ORD0003237,2024-04-18,Size issue,Unknown,489.58,,flag blank but amount > 0,True,Returned,False
+RET001157,ORD0013575,2024-07-14,Size issue,Partial,0.0,Partial,flag says refunded but amount missing/0,True,Completed,False
+RET001158,ORD0005838,2025-04-26,Missing parts,No,122.39,No,flag says No but amount > 0,True,Completed,False
+RET001159,ORD0007926,2025-02-17,Defective,Unknown,1227.8,,flag blank but amount > 0,True,Completed,False
+RET001160,ORD0008264,2024-03-07,Size issue,No,,No,,False,Pending,True
+RET001161,ORD0000653,2025-08-29,Late delivery,No,,No,,False,Completed,False
+RET001162,ORD0012897,2025-06-22,Damaged item,No,413.73,No,flag says No but amount > 0,True,Shipped,False
+RET001163,ORD0008151,2024-01-13,Late delivery,No,,No,,False,Returned,False
+RET001164,ORD0005513,2024-04-24,Wrong item,No,122.34,No,flag says No but amount > 0,True,Shipped,False
+RET001165,ORD0012735,2024-11-27,Size issue,Yes,522.7,Yes,,False,Pending,True
+RET001166,ORD0002036,2024-09-11,Defective,No,631.97,No,flag says No but amount > 0,True,Completed,False
+RET001167,ORD0012327,2024-10-24,Defective,Yes,650.8,Yes,,False,Completed,False
+RET001168,ORD0006728,2024-02-11,Size issue,Yes,634.75,Yes,,False,Completed,False
+RET001169,ORD0010949,2024-09-10,Missing parts,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001170,ORD0000124,2025-06-29,Changed mind,No,,No,,False,Shipped,False
+RET001171,ORD0001885,2025-04-02,Changed mind,Yes,883.96,Yes,,False,Completed,False
+RET001172,ORD0004636,2024-04-22,Defective,No,953.34,No,flag says No but amount > 0,True,Completed,False
+RET001173,ORD0009425,2025-10-05,Damaged item,Yes,1165.31,Yes,,False,Completed,False
+RET001174,ORD0009660,2025-08-04,Late delivery,Yes,1095.8,Yes,,False,Completed,False
+RET001175,ORD0011356,2025-07-25,Late delivery,No,382.71,No,flag says No but amount > 0,True,Pending,True
+RET001176,ORD0005320,2025-01-21,Defective,Yes,763.31,Yes,,False,Shipped,False
+RET001177,ORD0014759,2024-05-29,Defective,Partial,1137.43,Partial,,False,Completed,False
+RET001178,ORD0006831,2024-08-08,Defective,Yes,617.89,Yes,,False,Completed,False
+RET001179,ORD0010115,2025-05-18,Changed mind,Partial,1111.69,Partial,,False,Pending,True
+RET001180,ORD0010249,2024-06-21,Late delivery,Partial,,Partial,flag says refunded but amount missing/0,True,Pending,True
+RET001181,ORD0007719,2024-08-25,Damaged item,Yes,651.38,Yes,,False,Completed,False
+RET001182,ORD0007909,2024-10-29,Missing parts,No,222.75,No,flag says No but amount > 0,True,Completed,False
+RET001183,ORD0001132,2025-05-26,Size issue,Yes,1247.42,Yes,,False,Completed,False
+RET001184,ORD0000710,2024-03-18,Wrong item,Yes,,Yes,flag says refunded but amount missing/0,True,Completed,False
+RET001185,ORD0005869,2024-05-27,Changed mind,Yes,615.12,Yes,,False,Shipped,False
+RET001186,ORD0011823,2024-12-25,Size issue,No,761.12,No,flag says No but amount > 0,True,Completed,False
+RET001187,ORD0007094,2024-01-10,Changed mind,Unknown,98.79,,flag blank but amount > 0,True,Completed,False
+RET001188,ORD0014756,2024-02-27,Defective,Yes,705.34,Yes,,False,Completed,False
+RET001189,ORD0000821,2024-10-27,Defective,Unknown,916.48,,flag blank but amount > 0,True,Cancelled,True
+RET001190,ORD0001686,2024-08-30,Damaged item,Yes,1509.53,Yes,,False,Completed,False
+RET001191,ORD0007621,2024-09-03,Missing parts,Yes,622.72,Yes,,False,Completed,False
+RET001192,ORD0009930,2024-07-17,Damaged item,Yes,1109.62,Yes,,False,Completed,False
+RET001193,ORD0008027,2024-03-03,Size issue,Partial,301.48,Partial,,False,Completed,False
+RET001194,ORD0007425,2025-07-18,Wrong item,No,560.99,No,flag says No but amount > 0,True,Completed,False
+RET001195,ORD0012656,2024-03-06,Late delivery,Yes,61.29,Yes,,False,Completed,False
+RET001196,ORD0008236,2024-11-02,Wrong item,Yes,1094.79,Yes,,False,Completed,False
+RET001197,ORD0011974,2024-10-10,Late delivery,No,356.74,No,flag says No but amount > 0,True,Completed,False
+RET001198,ORD0014526,2025-06-25,Size issue,Partial,500.08,Partial,,False,Completed,False
+RET001199,ORD0011487,2024-02-20,Late delivery,No,171.28,No,flag says No but amount > 0,True,Completed,False
+RET001200,ORD0013304,2025-08-12,Damaged item,Yes,857.96,Yes,,False,Returned,False

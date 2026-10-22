@@ -1,0 +1,11 @@
+table,flag,rows_flagged
+customers,Invalid age (negative),48
+customers,Missing age,197
+customers,Malformed email (no @ / bad format),225
+customers,Invalid phone format,133
+order_items,Zero quantity,372
+order_items,Orphan product_id,129
+orders,Orphan customer_id,43
+returns,Inconsistent refund record,481
+returns,Return attached to Cancelled/Pending order,201
+shipments,Status vs delivered_date conflict,3707

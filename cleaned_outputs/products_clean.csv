@@ -1,0 +1,801 @@
+product_id,product_name,brand,category,unit_cost,unit_price,stock_qty,uom,launch_date,price_below_cost,stock_missing
+PROD00001,KidJoy Beauty 963,KidJoy,Beauty,44.17,64.5,125.0,pc,2022-01-18,False,False
+PROD00002,HomeEase Home 368,HomeEase,Home & Kitchen,37.18,70.39,131.0,pc,2022-11-25,False,False
+PROD00003,FreshCart Fashion 911,FreshCart,Fashion,46.29,70.26,41.0,pc,2023-09-04,False,False
+PROD00004,NovaTech Toys 753,NovaTech,Toys,43.66,62.46,149.0,pc,2023-08-12,False,False
+PROD00005,GlowCo Books 916,GlowCo,Books,64.59,82.02,162.0,bottle,2024-05-12,False,False
+PROD00006,UrbanWear Toys 473,UrbanWear,Toys,120.33,225.17,120.0,bottle,2023-02-15,False,False
+PROD00007,HomeEase Fashion 125,HomeEase,Fashion,57.48,97.28,,pack,2023-08-26,False,True
+PROD00008,NovaTech Fashon 325,NovaTech,Fashion,97.94,124.98,37.0,bottle,2022-07-07,False,False
+PROD00009,SunPeak Groceries 617,SunPeak,Groceries,58.38,99.25,176.0,pc,2023-08-26,False,False
+PROD00010,UrbanWear Fashion 789,UrbanWear,Fashion,22.76,40.85,17.0,pc,2024-05-19,False,False
+PROD00011,UrbanWear Groceries 787,UrbanWear,Groceries,71.34,127.26,157.0,pc,2022-06-01,False,False
+PROD00012,BookNest electronics 536,BookNest,Electronics,45.86,68.12,186.0,pc,2024-06-03,False,False
+PROD00013,Acme Home 695,Acme,Home & Kitchen,64.15,76.62,105.0,pc,2024-09-07,False,False
+PROD00014,FreshCart Sports 956,FreshCart,Sports,24.87,35.87,68.0,set,2023-04-08,False,False
+PROD00015,GlowCo Fashion 176,GlowCo,Fashion,44.95,59.97,160.0,pc,2022-03-24,False,False
+PROD00016,GlowCo Beauty 695,GlowCo,Beauty,44.99,53.61,66.0,pc,2023-02-18,False,False
+PROD00017,FitPro Electronics 378,FitPro,Electronics,60.05,109.58,117.0,pc,2022-10-17,False,False
+PROD00018,KidJoy Toys 225,KidJoy,Toys,19.22,24.3,109.0,pc,2024-03-12,False,False
+PROD00019,FitPro Beauty 168,FitPro,Beauty,62.83,73.91,172.0,pack,2024-02-06,False,False
+PROD00020,FreshCart Toys 187,FreshCart,Toys,23.02,27.2,186.0,pack,2022-11-12,False,False
+PROD00021,FreshCart Electronics 722,FreshCart,Electronics,47.22,88.58,126.0,bottle,2024-04-24,False,False
+PROD00022,KidJoy Toys 220,KidJoy,Toys,37.93,54.41,170.0,set,2022-08-03,False,False
+PROD00023,UrbanWear Grocery 890,UrbanWear,Groceries,39.86,49.92,202.0,pc,2023-05-10,False,False
+PROD00024,NovaTech Electronics 485,NovaTech,Electronics,93.72,153.34,137.0,pack,2022-03-27,False,False
+PROD00025,Acme Beauty 851,Acme,Beauty,58.84,98.01,179.0,pc,2022-10-17,False,False
+PROD00026,KidJoy Toys 560,KidJoy,Toys,74.41,99.95,163.0,pc,2023-05-20,False,False
+PROD00027,FitPro Electronics 445,FitPro,Electronics,71.98,127.4,105.0,set,2022-01-23,False,False
+PROD00028,HomeEase Fashion 857,HomeEase,Fashion,63.05,86.9,177.0,bottle,2023-02-02,False,False
+PROD00029,Acme Home 197,Acme,Home & Kitchen,114.07,153.71,161.0,pc,2023-03-26,False,False
+PROD00030,BookNest Groceries 479,BookNest,Groceries,60.56,84.41,190.0,pack,2024-08-17,False,False
+PROD00031,NovaTech Toys 685,NovaTech,Toys,66.86,104.83,224.0,pc,2022-01-03,False,False
+PROD00032,FitPro Books 568,FitPro,Books,71.8,121.5,156.0,pc,2022-11-23,False,False
+PROD00033,KidJoy Books 880,KidJoy,Books,40.94,54.23,101.0,set,2023-01-25,False,False
+PROD00034,NovaTech Sports 936,NovaTech,Sports,26.15,33.38,153.0,pc,2024-06-03,False,False
+PROD00035,Acme Home 452,Acme,Home & Kitchen,58.66,93.41,97.0,pc,2023-10-15,False,False
+PROD00036,KidJoy Books 183,KidJoy,Books,105.78,145.14,156.0,bottle,2022-02-12,False,False
+PROD00037,Acme Sports 474,Acme,Sports,76.56,106.97,117.0,pc,2023-01-19,False,False
+PROD00038,NovaTech Groceries 794,NovaTech,Groceries,64.5,90.06,259.0,pc,2023-09-28,False,False
+PROD00039,NovaTech Beauty 869,NovaTech,Beauty,48.17,63.49,63.0,pc,2023-01-12,False,False
+PROD00040,HomeEase Home 868,HomeEase,Home & Kitchen,162.89,203.82,100.0,pc,2024-01-03,False,False
+PROD00041,GlowCo Beauty 355,GlowCo,Beauty,71.28,89.76,133.0,pack,2024-01-23,False,False
+PROD00042,Acme Fashion 553,Acme,Fashion,97.29,162.07,,pc,2023-10-03,False,True
+PROD00043,HomeEase Elec 432,HomeEase,Electronics,102.83,191.87,116.0,pack,2024-08-04,False,False
+PROD00044,Acme Fashion 480,Acme,Fashion,65.88,83.94,159.0,pack,2024-01-23,False,False
+PROD00045,UrbanWear Electronics 232,UrbanWear,Electronics,15.95,21.3,96.0,pack,2022-03-03,False,False
+PROD00046,Acme Electronics 362,Acme,Electronics,16.84,22.67,134.0,pc,2023-01-16,False,False
+PROD00047,GlowCo Groceries 711,GlowCo,Groceries,91.76,127.26,130.0,pc,2022-11-03,False,False
+PROD00048,KidJoy Beauty 271,KidJoy,Beauty,33.47,43.86,133.0,pc,2022-05-19,False,False
+PROD00049,UrbanWear Books 187,UrbanWear,Books,46.73,84.81,123.0,bottle,2023-02-01,False,False
+PROD00050,NovaTech Beauty 833,NovaTech,Beauty,38.46,62.15,67.0,pc,2022-08-18,False,False
+PROD00051,KidJoy Beauty 603,KidJoy,Beauty,39.17,47.52,5.0,pc,2023-11-23,False,False
+PROD00052,FreshCart Beauty 986,FreshCart,Beauty,40.31,50.96,154.0,pc,2022-07-01,False,False
+PROD00053,GlowCo Grocery 697,GlowCo,Groceries,21.87,29.44,169.0,pc,2023-03-22,False,False
+PROD00054,HomeEase electronics 473,HomeEase,Electronics,75.45,88.26,152.0,pc,2022-05-18,False,False
+PROD00055,FitPro Sports 604,FitPro,Sports,52.47,99.26,90.0,pc,2023-11-26,False,False
+PROD00056,KidJoy Toys 564,KidJoy,Toys,60.91,103.82,65.0,set,2023-07-14,False,False
+PROD00057,UrbanWear Electronics 810,UrbanWear,Electronics,31.5,51.65,93.0,set,2024-01-19,False,False
+PROD00058,UrbanWear Sports 328,UrbanWear,Sports,90.5,106.27,167.0,pack,2024-01-06,False,False
+PROD00059,BookNest Beauty 615,BookNest,Beauty,46.19,72.24,92.0,set,2024-04-08,False,False
+PROD00060,FreshCart Beauty 753,FreshCart,Beauty,82.71,154.17,98.0,pc,2022-07-30,False,False
+PROD00061,UrbanWear Groceries 328,UrbanWear,Groceries,127.39,213.43,116.0,pc,2022-05-30,False,False
+PROD00062,GlowCo Fashion 131,GlowCo,Fashion,35.61,65.24,163.0,pc,2024-06-11,False,False
+PROD00063,HomeEase Groceries 891,HomeEase,Groceries,36.03,41.92,115.0,pc,2022-01-07,False,False
+PROD00064,HomeEase Fashion 918,HomeEase,Fashion,48.83,90.72,113.0,pc,2023-02-21,False,False
+PROD00065,FitPro Electronics 406,FitPro,Electronics,118.32,208.43,73.0,pc,2022-07-27,False,False
+PROD00066,SunPeak Fashion 882,SunPeak,Fashion,52.64,77.69,80.0,pc,2022-07-14,False,False
+PROD00067,FitPro Electronics 641,FitPro,Electronics,26.91,33.61,44.0,pc,2024-06-05,False,False
+PROD00068,Acme Toys 760,Acme,Toys,51.22,65.67,168.0,pc,2024-05-06,False,False
+PROD00069,UrbanWear Home 764,UrbanWear,Home & Kitchen,31.47,56.83,228.0,pc,2022-09-07,False,False
+PROD00070,FitPro Grocery 800,FitPro,Groceries,107.15,191.37,69.0,bottle,2022-08-27,False,False
+PROD00071,SunPeak Electronics 253,SunPeak,Electronics,29.25,52.41,,pc,2023-04-13,False,True
+PROD00072,KidJoy Beauty 507,KidJoy,Beauty,60.04,98.77,165.0,pc,2024-01-14,False,False
+PROD00073,NovaTech Groceries 179,NovaTech,Groceries,90.64,142.23,172.0,set,2024-06-11,False,False
+PROD00074,SunPeak Grocery 986,SunPeak,Groceries,20.66,25.18,128.0,bottle,2024-03-24,False,False
+PROD00075,HomeEase Sports 155,HomeEase,Sports,33.35,42.93,114.0,pack,2022-12-25,False,False
+PROD00076,Acme Toys 268,Acme,Toys,44.34,56.27,137.0,pc,2024-05-21,False,False
+PROD00077,FreshCart Electronics 292,FreshCart,Electronics,76.87,135.59,69.0,pc,2023-05-03,False,False
+PROD00078,FitPro Toys 792,FitPro,Toys,62.47,87.88,,pc,2023-01-19,False,True
+PROD00079,Acme Books 748,Acme,Books,91.7,129.15,59.0,pc,2023-06-29,False,False
+PROD00080,NovaTech Fashion 949,NovaTech,Fashion,48.81,86.12,140.0,pc,2024-07-12,False,False
+PROD00081,GlowCo Sports 978,GlowCo,Sports,67.98,101.63,2.0,pack,2022-10-19,False,False
+PROD00082,NovaTech Beauty 720,NovaTech,Beauty,45.76,81.12,74.0,pc,2023-09-30,False,False
+PROD00083,HomeEase Groceries 542,HomeEase,Groceries,33.7,44.94,115.0,pc,2023-07-21,False,False
+PROD00084,FitPro Groceries 742,FitPro,Groceries,43.17,60.55,10.0,pc,2023-12-26,False,False
+PROD00085,BookNest Home 663,BookNest,Home & Kitchen,43.37,60.83,34.0,bottle,2023-03-17,False,False
+PROD00086,HomeEase Books 368,HomeEase,Books,46.09,70.29,128.0,pack,2023-12-20,False,False
+PROD00087,UrbanWear Books 372,UrbanWear,Books,38.46,51.35,,pc,2022-10-27,False,True
+PROD00088,HomeEase Toys 155,HomeEase,Toys,75.36,123.95,63.0,pc,2022-06-24,False,False
+PROD00089,GlowCo Toys 199,GlowCo,Toys,26.77,35.52,51.0,bottle,2022-05-29,False,False
+PROD00090,BookNest Home 591,BookNest,Home & Kitchen,74.36,109.18,322.0,pc,2024-04-03,False,False
+PROD00091,SunPeak Home 587,SunPeak,Home & Kitchen,52.35,69.92,148.0,pc,2024-04-03,False,False
+PROD00092,SunPeak Toys 947,SunPeak,Toys,104.4,187.23,124.0,pack,2023-04-20,False,False
+PROD00093,FreshCart Toys 770,FreshCart,Toys,57.6,99.31,0.0,set,2023-03-22,False,False
+PROD00094,NovaTech Toys 885,NovaTech,Toys,76.01,125.9,113.0,pc,2024-02-15,False,False
+PROD00095,HomeEase Elec 482,HomeEase,Electronics,41.14,48.27,144.0,bottle,2024-02-11,False,False
+PROD00096,NovaTech Sports 426,NovaTech,Sports,126.07,197.81,127.0,set,2024-04-14,False,False
+PROD00097,HomeEase Sports 702,HomeEase,Sports,115.0,154.32,149.0,pc,2023-04-24,False,False
+PROD00098,FitPro Books 290,FitPro,Books,54.96,77.09,107.0,bottle,2023-04-09,False,False
+PROD00099,FitPro Sports 711,FitPro,Sports,67.24,90.22,80.0,pack,2024-08-13,False,False
+PROD00100,SunPeak Electronics 657,SunPeak,Electronics,135.4,217.11,160.0,pc,2023-11-01,False,False
+PROD00101,KidJoy Toys 593,KidJoy,Toys,48.27,64.74,223.0,pc,2022-12-03,False,False
+PROD00102,KidJoy Grocery 214,KidJoy,Groceries,44.71,74.31,44.0,bottle,2022-02-21,False,False
+PROD00103,HomeEase electronics 640,HomeEase,Electronics,32.0,46.54,37.0,pack,2022-07-28,False,False
+PROD00104,HomeEase Home 231,HomeEase,Home & Kitchen,78.83,102.71,189.0,pc,2023-06-24,False,False
+PROD00105,BookNest Home 382,BookNest,Home & Kitchen,48.95,67.62,43.0,set,2022-11-06,False,False
+PROD00106,Acme Beauty 561,Acme,Beauty,51.96,94.63,92.0,pack,2022-12-02,False,False
+PROD00107,GlowCo Toys 957,GlowCo,Toys,34.8,61.54,142.0,set,2022-08-31,False,False
+PROD00108,SunPeak Electronics 149,SunPeak,Electronics,80.81,127.69,262.0,pc,2023-03-18,False,False
+PROD00109,FreshCart Sports 935,FreshCart,Sports,102.86,169.14,70.0,pc,2023-10-14,False,False
+PROD00110,SunPeak Toy 719,SunPeak,Toys,107.9,158.8,180.0,bottle,2024-03-28,False,False
+PROD00111,NovaTech Books 161,NovaTech,Books,33.55,55.15,188.0,pc,2023-03-29,False,False
+PROD00112,KidJoy Electronics 871,KidJoy,Electronics,60.92,85.94,28.0,bottle,2022-03-11,False,False
+PROD00113,Acme Books 209,Acme,Books,35.02,63.45,66.0,pc,2023-01-01,False,False
+PROD00114,UrbanWear Electronics 598,UrbanWear,Electronics,57.41,96.59,,pc,2022-05-12,False,True
+PROD00115,Acme Beauty 585,Acme,Beauty,33.97,58.98,91.0,pc,2022-09-08,False,False
+PROD00116,NovaTech Fashion 862,NovaTech,Fashion,75.75,111.78,227.0,pc,2022-03-10,False,False
+PROD00117,FreshCart Toys 371,FreshCart,Toys,57.64,79.77,235.0,pc,2023-04-24,False,False
+PROD00118,GlowCo Beauty 287,GlowCo,Beauty,80.47,145.94,49.0,pc,2024-08-06,False,False
+PROD00119,UrbanWear Books 217,UrbanWear,Books,42.91,64.56,120.0,pc,2022-01-21,False,False
+PROD00120,FreshCart Books 446,FreshCart,Books,120.14,174.62,45.0,set,2024-04-29,False,False
+PROD00121,SunPeak Sports 536,SunPeak,Sports,20.38,30.99,140.0,pc,2023-02-08,False,False
+PROD00122,UrbanWear Beauty 232,UrbanWear,Beauty,42.74,65.52,85.0,pc,2022-04-22,False,False
+PROD00123,Acme Books 559,Acme,Books,104.9,184.18,76.0,bottle,2024-06-12,False,False
+PROD00124,NovaTech Beauty 892,NovaTech,Beauty,63.11,83.58,48.0,set,2023-08-24,False,False
+PROD00125,BookNest Fashion 424,BookNest,Fashion,49.4,91.81,126.0,pc,2024-05-27,False,False
+PROD00126,Acme Books 438,Acme,Books,46.04,75.13,200.0,pack,2023-11-20,False,False
+PROD00127,Acme Home 249,Acme,Home & Kitchen,53.28,82.91,114.0,pack,2022-10-10,False,False
+PROD00128,NovaTech Home 380,NovaTech,Home & Kitchen,41.88,66.39,96.0,pc,2022-01-25,False,False
+PROD00129,HomeEase Beauty 231,HomeEase,Beauty,37.7,67.4,122.0,pc,2022-09-08,False,False
+PROD00130,Acme Books 620,Acme,Books,100.43,165.22,71.0,pc,2022-12-16,False,False
+PROD00131,UrbanWear Toys 585,UrbanWear,Toys,21.76,34.76,217.0,pc,2022-05-10,False,False
+PROD00132,SunPeak Sports 307,SunPeak,Sports,46.51,81.04,27.0,set,2024-01-07,False,False
+PROD00133,BookNest Home 381,BookNest,Home & Kitchen,52.95,84.05,113.0,pack,2023-04-23,False,False
+PROD00134,FitPro Electronics 203,FitPro,Electronics,42.37,60.38,86.0,pack,2023-12-29,False,False
+PROD00135,NovaTech Toys 727,NovaTech,Toys,29.16,35.4,63.0,pc,2024-04-03,False,False
+PROD00136,GlowCo Groceries 689,GlowCo,Groceries,55.82,100.59,11.0,pc,2022-07-15,False,False
+PROD00137,FreshCart Fashion 562,FreshCart,Fashion,201.14,381.39,182.0,bottle,2023-05-14,False,False
+PROD00138,KidJoy Toys 976,KidJoy,Toys,96.76,128.96,30.0,pack,2024-02-21,False,False
+PROD00139,BookNest Electronics 119,BookNest,Electronics,64.26,116.76,170.0,pack,2022-05-06,False,False
+PROD00140,HomeEase Groceries 786,HomeEase,Groceries,73.51,139.25,153.0,pc,2022-08-02,False,False
+PROD00141,HomeEase Sports 598,HomeEase,Sports,66.4,123.54,65.0,pack,2022-02-26,False,False
+PROD00142,SunPeak Fashion 834,SunPeak,Fashion,48.16,66.72,111.0,set,2023-02-27,False,False
+PROD00143,NovaTech Home 224,NovaTech,Home & Kitchen,58.85,87.1,107.0,pc,2022-01-12,False,False
+PROD00144,UrbanWear Books 565,UrbanWear,Books,34.96,45.41,163.0,pc,2024-05-10,False,False
+PROD00145,SunPeak Books 590,SunPeak,Books,40.11,51.91,157.0,pc,2024-05-25,False,False
+PROD00146,UrbanWear Home 768,UrbanWear,Home & Kitchen,27.48,49.74,57.0,set,2022-07-27,False,False
+PROD00147,Acme Books 958,Acme,Books,36.43,61.32,85.0,pc,2022-12-04,False,False
+PROD00148,SunPeak Books 482,SunPeak,Books,19.96,25.61,47.0,set,2024-02-23,False,False
+PROD00149,FreshCart Fashion 287,FreshCart,Fashion,32.99,62.13,86.0,pc,2023-06-08,False,False
+PROD00150,FreshCart Book 614,FreshCart,Books,47.85,65.57,170.0,pc,2022-04-24,False,False
+PROD00151,HomeEase Sports 975,HomeEase,Sports,96.84,161.2,180.0,pc,2024-03-23,False,False
+PROD00152,NovaTech Sports 827,NovaTech,Sports,85.83,107.39,52.0,bottle,2023-03-27,False,False
+PROD00153,FitPro Toys 681,FitPro,Toys,52.66,63.95,162.0,pack,2022-10-22,False,False
+PROD00154,HomeEase Toy 989,HomeEase,Toys,46.02,83.57,41.0,pc,2024-04-01,False,False
+PROD00155,KidJoy Books 350,KidJoy,Books,19.71,36.43,162.0,pc,2024-04-11,False,False
+PROD00156,SunPeak Electronics 710,SunPeak,Electronics,37.03,57.81,54.0,pc,2023-01-22,False,False
+PROD00157,KidJoy Book 123,KidJoy,Books,59.31,71.01,114.0,set,2023-11-25,False,False
+PROD00158,KidJoy Fashion 368,KidJoy,Fashion,51.09,66.15,234.0,pack,2022-07-31,False,False
+PROD00159,UrbanWear Books 229,UrbanWear,Books,85.19,132.27,44.0,set,2024-02-24,False,False
+PROD00160,FreshCart Toys 266,FreshCart,Toys,37.16,61.89,177.0,pc,2023-01-09,False,False
+PROD00161,FitPro Electronics 683,FitPro,Electronics,22.95,35.97,6.0,set,2022-04-22,False,False
+PROD00162,SunPeak Beauty 436,SunPeak,Beauty,45.42,59.4,127.0,pc,2022-03-26,False,False
+PROD00163,UrbanWear Books 433,UrbanWear,Books,33.42,50.34,106.0,set,2022-12-04,False,False
+PROD00164,HomeEase Toys 104,HomeEase,Toys,30.94,39.36,161.0,pc,2023-01-09,False,False
+PROD00165,UrbanWear Fashion 160,UrbanWear,Fashion,36.73,49.18,88.0,pack,2023-07-03,False,False
+PROD00166,SunPeak Fashon 951,SunPeak,Fashion,66.01,85.65,95.0,pc,2024-09-22,False,False
+PROD00167,FitPro electronics 264,FitPro,Electronics,53.3,79.74,,pc,2022-07-11,False,True
+PROD00168,SunPeak Home 843,SunPeak,Home & Kitchen,26.5,34.13,81.0,set,2022-12-24,False,False
+PROD00169,KidJoy Electronics 334,KidJoy,Electronics,77.92,98.5,24.0,bottle,2022-09-13,False,False
+PROD00170,SunPeak Electronics 969,SunPeak,Electronics,51.17,62.69,90.0,pack,2024-03-26,False,False
+PROD00171,FreshCart Home 205,FreshCart,Home & Kitchen,63.85,90.39,147.0,pc,2024-01-07,False,False
+PROD00172,KidJoy Sports 566,KidJoy,Sports,83.13,97.49,,pc,2023-06-06,False,True
+PROD00173,HomeEase Sports 288,HomeEase,Sports,122.71,224.17,143.0,pc,2024-07-23,False,False
+PROD00174,KidJoy Home 325,KidJoy,Home & Kitchen,46.0,72.33,29.0,bottle,2023-12-05,False,False
+PROD00175,NovaTech Toys 424,NovaTech,Toys,65.39,80.11,154.0,bottle,2024-04-13,False,False
+PROD00176,NovaTech Books 515,NovaTech,Books,39.6,74.21,156.0,set,2023-02-06,False,False
+PROD00177,KidJoy Toys 603,KidJoy,Toys,57.03,93.1,28.0,pc,2023-08-01,False,False
+PROD00178,SunPeak Book 882,SunPeak,Books,111.33,193.62,180.0,pc,2024-02-11,False,False
+PROD00179,FitPro Fashion 682,FitPro,Fashion,38.68,70.11,52.0,pc,2022-12-28,False,False
+PROD00180,GlowCo Groceries 809,GlowCo,Groceries,64.6,121.41,98.0,pack,2023-12-24,False,False
+PROD00181,HomeEase Electronics 987,HomeEase,Electronics,58.09,103.94,109.0,pack,2024-05-16,False,False
+PROD00182,Acme Fashion 382,Acme,Fashion,69.99,129.28,237.0,pc,2022-09-15,False,False
+PROD00183,SunPeak Home 110,SunPeak,Home & Kitchen,44.96,77.0,205.0,bottle,2022-08-06,False,False
+PROD00184,NovaTech Toys 484,NovaTech,Toys,38.27,44.35,30.0,pc,2023-07-17,False,False
+PROD00185,HomeEase Fashion 605,HomeEase,Fashion,20.56,24.53,131.0,pc,2023-02-13,False,False
+PROD00186,KidJoy Groceries 482,KidJoy,Groceries,67.71,99.41,214.0,pack,2024-05-02,False,False
+PROD00187,HomeEase Home 884,HomeEase,Home & Kitchen,41.24,50.99,66.0,pc,2023-10-13,False,False
+PROD00188,HomeEase Fashion 822,HomeEase,Fashion,75.82,130.35,99.0,pc,2023-09-05,False,False
+PROD00189,KidJoy Books 607,KidJoy,Books,79.9,127.22,65.0,pc,2023-05-28,False,False
+PROD00190,GlowCo Toys 161,GlowCo,Toys,114.98,159.74,32.0,pc,2023-02-18,False,False
+PROD00191,SunPeak Toys 525,SunPeak,Toys,63.69,78.47,28.0,set,2024-06-19,False,False
+PROD00192,FreshCart Home 468,FreshCart,Home & Kitchen,51.95,75.26,104.0,pc,2023-01-14,False,False
+PROD00193,NovaTech Toys 971,NovaTech,Toys,55.12,103.43,112.0,set,2022-01-12,False,False
+PROD00194,FreshCart Home 743,FreshCart,Home & Kitchen,56.45,69.64,135.0,pc,2023-08-30,False,False
+PROD00195,BookNest Beauty 849,BookNest,Beauty,48.96,62.65,203.0,pc,2024-06-25,False,False
+PROD00196,Acme Fashion 487,Acme,Fashion,83.35,131.24,69.0,pc,2022-04-14,False,False
+PROD00197,KidJoy Beauty 183,KidJoy,Beauty,86.68,104.78,61.0,pack,2023-04-30,False,False
+PROD00198,NovaTech Sports 590,NovaTech,Sports,64.46,101.99,152.0,pc,2022-07-29,False,False
+PROD00199,HomeEase Toys 246,HomeEase,Toys,22.02,36.53,165.0,pc,2024-01-07,False,False
+PROD00200,KidJoy Electronics 910,KidJoy,Electronics,181.22,342.97,169.0,pack,2022-07-13,False,False
+PROD00201,Acme Books 933,Acme,Books,25.51,39.99,63.0,pc,2022-02-27,False,False
+PROD00202,NovaTech Books 277,NovaTech,Books,50.71,96.32,138.0,set,2022-11-27,False,False
+PROD00203,GlowCo Fashion 554,GlowCo,Fashion,62.61,73.02,173.0,pack,2022-05-05,False,False
+PROD00204,FitPro Electronics 232,FitPro,Electronics,58.56,77.46,151.0,bottle,2024-07-08,False,False
+PROD00205,Acme Book 620,Acme,Books,41.09,59.92,124.0,pc,2022-04-01,False,False
+PROD00206,NovaTech Home 542,NovaTech,Home & Kitchen,42.17,53.08,76.0,pack,2024-01-09,False,False
+PROD00207,KidJoy Electronics 356,KidJoy,Electronics,58.79,78.58,35.0,pc,2022-05-18,False,False
+PROD00208,GlowCo Fashion 535,GlowCo,Fashion,109.98,188.5,160.0,pc,2024-07-30,False,False
+PROD00209,GlowCo Fashion 951,GlowCo,Fashion,60.5,111.07,,pack,2023-04-03,False,True
+PROD00210,FreshCart Fashion 684,FreshCart,Fashion,101.16,142.42,89.0,pc,2023-01-25,False,False
+PROD00211,UrbanWear Groceries 826,UrbanWear,Groceries,108.33,169.77,140.0,pack,2024-08-22,False,False
+PROD00212,SunPeak Fashion 912,SunPeak,Fashion,86.27,137.74,135.0,bottle,2023-11-20,False,False
+PROD00213,Acme Sports 547,Acme,Sports,24.09,35.26,65.0,set,2023-12-24,False,False
+PROD00214,FreshCart electronics 129,FreshCart,Electronics,115.96,154.7,160.0,pack,2024-09-19,False,False
+PROD00215,NovaTech Toys 605,NovaTech,Toys,95.4,135.17,116.0,pack,2024-07-13,False,False
+PROD00216,KidJoy Electronics 445,KidJoy,Electronics,31.39,45.32,208.0,pc,2024-03-31,False,False
+PROD00217,BookNest Home 227,BookNest,Home & Kitchen,64.29,83.73,135.0,bottle,2024-02-23,False,False
+PROD00218,SunPeak Home 554,SunPeak,Home & Kitchen,43.13,76.65,126.0,set,2022-06-04,False,False
+PROD00219,Acme Grocery 121,Acme,Groceries,61.58,106.11,129.0,pc,2022-04-02,False,False
+PROD00220,FreshCart Fashion 753,FreshCart,Fashion,41.42,63.64,185.0,set,2022-01-19,False,False
+PROD00221,GlowCo Home 522,GlowCo,Home & Kitchen,70.69,112.08,187.0,pc,2022-01-24,False,False
+PROD00222,GlowCo Toys 215,GlowCo,Toys,33.52,63.15,106.0,pc,2022-07-23,False,False
+PROD00223,FitPro Beauty 534,FitPro,Beauty,44.81,75.76,83.0,pc,2023-08-11,False,False
+PROD00224,GlowCo Fashion 821,GlowCo,Fashion,60.89,73.9,63.0,pc,2022-10-20,False,False
+PROD00225,NovaTech Grocery 918,NovaTech,Groceries,61.87,106.33,98.0,bottle,2024-04-17,False,False
+PROD00226,BookNest Fashion 977,BookNest,Fashion,41.09,70.67,71.0,pc,2023-10-07,False,False
+PROD00227,SunPeak Sports 668,SunPeak,Sports,39.33,46.71,88.0,pc,2023-02-28,False,False
+PROD00228,HomeEase Toys 134,HomeEase,Toys,80.64,97.48,0.0,bottle,2023-07-08,False,False
+PROD00229,Acme Beauty 364,Acme,Beauty,36.8,58.72,0.0,set,2022-03-14,False,False
+PROD00230,Acme Home 885,Acme,Home & Kitchen,44.29,64.78,139.0,pc,2023-11-26,False,False
+PROD00231,UrbanWear Beauty 969,UrbanWear,Beauty,48.34,56.21,153.0,bottle,2022-01-20,False,False
+PROD00232,GlowCo Beauty 474,GlowCo,Beauty,58.93,89.07,89.0,pack,2022-01-28,False,False
+PROD00233,SunPeak Groceries 416,SunPeak,Groceries,40.98,75.24,174.0,bottle,2023-02-23,False,False
+PROD00234,SunPeak Electronics 927,SunPeak,Electronics,53.53,70.0,168.0,pc,2023-09-17,False,False
+PROD00235,FitPro Groceries 303,FitPro,Groceries,94.39,158.86,34.0,pc,2022-12-20,False,False
+PROD00236,GlowCo Home 951,GlowCo,Home & Kitchen,39.88,60.63,110.0,pack,2022-11-19,False,False
+PROD00237,FreshCart Electronics 990,FreshCart,Electronics,69.22,126.61,164.0,bottle,2024-03-07,False,False
+PROD00238,BookNest Electronics 340,BookNest,Electronics,58.11,101.36,,bottle,2023-04-02,False,True
+PROD00239,NovaTech Beauty 284,NovaTech,Beauty,57.56,90.83,185.0,pc,2023-04-21,False,False
+PROD00240,NovaTech Sports 300,NovaTech,Sports,65.24,96.3,239.0,bottle,2023-09-05,False,False
+PROD00241,SunPeak Home 679,SunPeak,Home & Kitchen,87.87,135.29,115.0,pc,2024-08-13,False,False
+PROD00242,KidJoy Home 195,KidJoy,Home & Kitchen,44.92,75.47,161.0,pc,2023-10-29,False,False
+PROD00243,BookNest Home 812,BookNest,Home & Kitchen,22.13,31.69,182.0,pc,2022-06-13,False,False
+PROD00244,SunPeak Book 950,SunPeak,Books,101.78,141.07,77.0,pack,2023-01-10,False,False
+PROD00245,BookNest Home 953,BookNest,Home & Kitchen,44.64,78.24,31.0,pack,2022-03-19,False,False
+PROD00246,UrbanWear Fashion 780,UrbanWear,Fashion,91.52,109.44,173.0,set,2023-08-05,False,False
+PROD00247,SunPeak Home 819,SunPeak,Home & Kitchen,54.86,94.57,227.0,pc,2022-09-05,False,False
+PROD00248,HomeEase Beauty 290,HomeEase,Beauty,58.89,106.09,80.0,pc,2023-09-01,False,False
+PROD00249,FreshCart Toys 136,FreshCart,Toys,49.16,58.45,185.0,pc,2022-07-04,False,False
+PROD00250,UrbanWear Electronics 548,UrbanWear,Electronics,18.03,29.81,39.0,set,2024-09-22,False,False
+PROD00251,FitPro Sports 540,FitPro,Sports,93.98,130.86,74.0,pack,2023-02-05,False,False
+PROD00252,KidJoy Toy 603,KidJoy,Toys,75.34,100.62,115.0,pc,2024-05-27,False,False
+PROD00253,GlowCo Beauty 469,GlowCo,Beauty,37.03,52.61,,pc,2022-09-24,False,True
+PROD00254,UrbanWear Beauty 303,UrbanWear,Beauty,55.92,91.36,200.0,set,2023-11-28,False,False
+PROD00255,BookNest Books 251,BookNest,Books,30.19,54.59,39.0,pc,2022-07-20,False,False
+PROD00256,GlowCo Home 263,GlowCo,Home & Kitchen,95.24,119.03,99.0,bottle,2023-04-15,False,False
+PROD00257,HomeEase Books 195,HomeEase,Books,77.62,113.1,83.0,set,2023-06-24,False,False
+PROD00258,Acme Groceries 739,Acme,Groceries,48.91,90.28,166.0,pc,2022-02-08,False,False
+PROD00259,UrbanWear Toys 852,UrbanWear,Toys,24.45,36.41,133.0,pc,2023-08-29,False,False
+PROD00260,FitPro Beauty 338,FitPro,Beauty,67.64,100.99,182.0,pack,2024-06-13,False,False
+PROD00261,FreshCart Beauty 243,FreshCart,Beauty,94.04,144.3,99.0,pc,2024-05-16,False,False
+PROD00262,FreshCart Books 163,FreshCart,Books,19.99,31.84,202.0,pc,2023-10-12,False,False
+PROD00263,HomeEase Books 717,HomeEase,Books,31.38,54.43,96.0,pc,2022-10-18,False,False
+PROD00264,UrbanWear Electronics 547,UrbanWear,Electronics,51.5,87.34,47.0,set,2024-01-11,False,False
+PROD00265,SunPeak Books 646,SunPeak,Books,28.28,46.17,58.0,pc,2023-01-10,False,False
+PROD00266,GlowCo Sports 454,GlowCo,Sports,50.12,79.03,137.0,pc,2022-11-18,False,False
+PROD00267,UrbanWear Beauty 990,UrbanWear,Beauty,58.99,105.43,162.0,pack,2022-05-20,False,False
+PROD00268,BookNest Books 853,BookNest,Books,59.77,70.82,52.0,pack,2023-02-23,False,False
+PROD00269,HomeEase Beauty 907,HomeEase,Beauty,34.03,50.87,0.0,pc,2024-06-19,False,False
+PROD00270,NovaTech Beauty 620,NovaTech,Beauty,40.05,74.7,99.0,bottle,2022-05-07,False,False
+PROD00271,SunPeak Sports 730,SunPeak,Sports,40.49,50.42,122.0,pc,2023-11-25,False,False
+PROD00272,UrbanWear Books 107,UrbanWear,Books,52.68,87.14,165.0,set,2023-01-20,False,False
+PROD00273,KidJoy Toys 485,KidJoy,Toys,135.0,235.02,209.0,pc,2024-03-02,False,False
+PROD00274,FitPro Groceries 578,FitPro,Groceries,35.65,58.95,1.0,set,2022-09-04,False,False
+PROD00275,NovaTech Fashion 102,NovaTech,Fashion,101.94,159.62,122.0,pc,2024-09-01,False,False
+PROD00276,BookNest Groceries 131,BookNest,Groceries,49.01,56.84,76.0,set,2023-06-18,False,False
+PROD00277,NovaTech Electronics 822,NovaTech,Electronics,27.71,34.81,235.0,pack,2023-10-03,False,False
+PROD00278,NovaTech Toys 320,NovaTech,Toys,38.02,62.68,137.0,bottle,2022-10-11,False,False
+PROD00279,Acme Sports 901,Acme,Sports,61.42,102.68,103.0,pc,2023-03-07,False,False
+PROD00280,SunPeak Sports 321,SunPeak,Sports,119.74,150.91,0.0,pc,2024-03-06,False,False
+PROD00281,HomeEase Book 900,HomeEase,Books,46.05,69.32,121.0,set,2022-07-09,False,False
+PROD00282,GlowCo Beauty 264,GlowCo,Beauty,61.54,85.29,164.0,pack,2022-12-07,False,False
+PROD00283,SunPeak Toy 255,SunPeak,Toys,59.06,72.97,200.0,pc,2022-09-15,False,False
+PROD00284,BookNest Fashion 733,BookNest,Fashion,49.37,84.87,106.0,bottle,2022-07-29,False,False
+PROD00285,HomeEase Fashion 235,HomeEase,Fashion,38.99,70.18,176.0,pc,2024-05-29,False,False
+PROD00286,GlowCo Fashion 799,GlowCo,Fashion,66.61,87.15,109.0,pack,2024-06-10,False,False
+PROD00287,HomeEase electronics 198,HomeEase,Electronics,64.32,107.28,83.0,set,2024-03-26,False,False
+PROD00288,FreshCart Fashion 125,FreshCart,Fashion,59.74,92.39,159.0,pc,2024-04-27,False,False
+PROD00289,HomeEase Toys 626,HomeEase,Toys,35.42,46.5,102.0,set,2023-11-09,False,False
+PROD00290,FreshCart Fashion 927,FreshCart,Fashion,35.87,63.69,156.0,pc,2024-03-21,False,False
+PROD00291,GlowCo Books 574,GlowCo,Books,74.2,136.91,51.0,pc,2023-06-11,False,False
+PROD00292,FitPro Groceries 421,FitPro,Groceries,92.32,167.66,167.0,pc,2023-01-05,False,False
+PROD00293,FreshCart Beauty 694,FreshCart,Beauty,19.78,29.9,171.0,pc,2024-06-06,False,False
+PROD00294,Acme Home 526,Acme,Home & Kitchen,65.34,119.08,127.0,pc,2023-09-14,False,False
+PROD00295,FreshCart Beauty 450,FreshCart,Beauty,20.57,23.71,105.0,pc,2023-10-21,False,False
+PROD00296,KidJoy Sports 137,KidJoy,Sports,64.62,78.7,96.0,pc,2023-08-23,False,False
+PROD00297,FitPro Electronics 261,FitPro,Electronics,34.19,56.61,113.0,pack,2022-08-04,False,False
+PROD00298,BookNest Groceries 969,BookNest,Groceries,51.02,84.94,109.0,pc,2022-01-06,False,False
+PROD00299,NovaTech Home 726,NovaTech,Home & Kitchen,40.1,54.59,17.0,pc,2024-05-18,False,False
+PROD00300,FreshCart Home 810,FreshCart,Home & Kitchen,18.11,30.0,156.0,pack,2023-09-13,False,False
+PROD00301,NovaTech Grocery 603,NovaTech,Groceries,110.76,175.87,201.0,pc,2023-08-17,False,False
+PROD00302,KidJoy Groceries 661,KidJoy,Groceries,107.15,138.26,91.0,bottle,2023-03-10,False,False
+PROD00303,FreshCart Beauty 464,FreshCart,Beauty,121.75,141.13,141.0,pc,2024-02-17,False,False
+PROD00304,Acme Books 292,Acme,Books,43.33,73.81,96.0,set,2023-12-25,False,False
+PROD00305,HomeEase Electronics 312,HomeEase,Electronics,24.99,30.07,188.0,pack,2023-04-17,False,False
+PROD00306,FitPro Books 174,FitPro,Books,33.4,58.87,85.0,pack,2022-12-07,False,False
+PROD00307,BookNest Books 529,BookNest,Books,34.8,52.16,96.0,bottle,2023-08-31,False,False
+PROD00308,FreshCart Beauty 248,FreshCart,Beauty,43.42,59.57,138.0,pc,2023-10-09,False,False
+PROD00309,Acme Fashion 775,Acme,Fashion,56.15,79.96,207.0,pack,2024-01-23,False,False
+PROD00310,HomeEase Books 694,HomeEase,Books,43.48,51.6,77.0,pack,2022-03-19,False,False
+PROD00311,BookNest Toys 490,BookNest,Toys,25.1,28.92,120.0,pc,2024-09-26,False,False
+PROD00312,HomeEase Toy 292,HomeEase,Toys,56.53,105.15,221.0,set,2024-03-31,False,False
+PROD00313,NovaTech Beauty 662,NovaTech,Beauty,54.89,86.36,67.0,pc,2022-06-04,False,False
+PROD00314,FreshCart Electronics 654,FreshCart,Electronics,52.4,79.19,159.0,bottle,2022-02-13,False,False
+PROD00315,HomeEase Electronics 998,HomeEase,Electronics,47.44,59.6,99.0,pc,2023-03-12,False,False
+PROD00316,SunPeak Sports 855,SunPeak,Sports,56.54,74.26,95.0,pc,2022-08-20,False,False
+PROD00317,KidJoy Beauty 543,KidJoy,Beauty,88.39,160.28,157.0,pc,2024-03-07,False,False
+PROD00318,SunPeak Groceries 527,SunPeak,Groceries,43.96,61.87,178.0,pc,2023-12-18,False,False
+PROD00319,GlowCo Books 934,GlowCo,Books,23.14,42.88,186.0,pc,2024-01-19,False,False
+PROD00320,SunPeak Home 170,SunPeak,Home & Kitchen,44.8,56.68,169.0,pc,2023-11-08,False,False
+PROD00321,FitPro Electronics 665,FitPro,Electronics,52.65,81.32,172.0,pack,2023-08-24,False,False
+PROD00322,GlowCo Beauty 908,GlowCo,Beauty,66.29,123.75,108.0,pack,2023-08-04,False,False
+PROD00323,GlowCo Beauty 169,GlowCo,Beauty,27.96,35.32,42.0,pack,2024-01-23,False,False
+PROD00324,GlowCo Sports 944,GlowCo,Sports,53.87,78.38,195.0,pc,2023-04-11,False,False
+PROD00325,FreshCart Toys 571,FreshCart,Toys,34.01,43.01,42.0,pc,2022-09-16,False,False
+PROD00326,KidJoy Home 174,KidJoy,Home & Kitchen,82.44,124.51,189.0,pc,2023-11-06,False,False
+PROD00327,KidJoy Fashion 105,KidJoy,Fashion,101.96,176.06,44.0,pc,2022-01-06,False,False
+PROD00328,SunPeak Beauty 728,SunPeak,Beauty,70.32,131.85,178.0,set,2023-07-05,False,False
+PROD00329,BookNest Beauty 302,BookNest,Beauty,45.99,69.44,126.0,pc,2024-01-27,False,False
+PROD00330,FreshCart Books 817,FreshCart,Books,38.98,67.47,0.0,pc,2022-01-03,False,False
+PROD00331,BookNest Books 782,BookNest,Books,29.28,39.1,119.0,pc,2023-04-23,False,False
+PROD00332,HomeEase Groceries 309,HomeEase,Groceries,36.01,61.86,67.0,pc,2022-12-23,False,False
+PROD00333,HomeEase Groceries 562,HomeEase,Groceries,22.23,33.53,165.0,pc,2023-06-01,False,False
+PROD00334,FitPro Fashon 465,FitPro,Fashion,43.51,59.8,214.0,bottle,2023-08-16,False,False
+PROD00335,FreshCart Home 882,FreshCart,Home & Kitchen,42.45,79.53,141.0,set,2024-05-04,False,False
+PROD00336,GlowCo Electronics 267,GlowCo,Electronics,37.46,51.29,52.0,pc,2022-11-05,False,False
+PROD00337,BookNest Beauty 240,BookNest,Beauty,56.94,95.84,64.0,pc,2024-02-01,False,False
+PROD00338,GlowCo Sports 856,GlowCo,Sports,28.54,50.51,43.0,bottle,2024-02-21,False,False
+PROD00339,HomeEase Elec 131,HomeEase,Electronics,90.39,157.63,94.0,pc,2022-04-14,False,False
+PROD00340,BookNest Electronics 256,BookNest,Electronics,32.05,60.25,62.0,pc,2024-03-13,False,False
+PROD00341,GlowCo Fashion 384,GlowCo,Fashion,74.02,115.87,89.0,pc,2024-02-04,False,False
+PROD00342,FreshCart Toys 651,FreshCart,Toys,23.86,28.7,77.0,pc,2023-09-22,False,False
+PROD00343,NovaTech Book 986,NovaTech,Books,51.23,61.2,134.0,pc,2024-03-25,False,False
+PROD00344,HomeEase Fashion 153,HomeEase,Fashion,92.6,166.83,231.0,pack,2022-08-26,False,False
+PROD00345,HomeEase Beauty 955,HomeEase,Beauty,57.92,77.91,76.0,pack,2023-07-10,False,False
+PROD00346,NovaTech Home 630,NovaTech,Home & Kitchen,58.26,98.4,128.0,pc,2023-09-26,False,False
+PROD00347,Acme Sports 186,Acme,Sports,66.09,98.76,144.0,pack,2022-12-06,False,False
+PROD00348,FitPro Beauty 495,FitPro,Beauty,50.13,69.49,129.0,bottle,2022-01-15,False,False
+PROD00349,SunPeak Electronics 328,SunPeak,Electronics,63.21,99.87,118.0,bottle,2023-09-12,False,False
+PROD00350,Acme Toys 414,Acme,Toys,42.14,61.41,133.0,pc,2022-06-25,False,False
+PROD00351,HomeEase electronics 625,HomeEase,Electronics,59.16,102.88,80.0,bottle,2022-01-21,False,False
+PROD00352,HomeEase Books 490,HomeEase,Books,45.21,69.21,161.0,pc,2023-12-31,False,False
+PROD00353,HomeEase Toys 566,HomeEase,Toys,44.72,77.96,127.0,pc,2022-07-27,False,False
+PROD00354,NovaTech Books 771,NovaTech,Books,62.02,117.35,180.0,pc,2023-07-26,False,False
+PROD00355,UrbanWear Sports 980,UrbanWear,Sports,55.3,104.93,154.0,set,2023-05-30,False,False
+PROD00356,BookNest Electronics 754,BookNest,Electronics,80.45,123.8,100.0,pc,2023-07-10,False,False
+PROD00357,FitPro Home 146,FitPro,Home & Kitchen,98.73,187.33,127.0,pc,2024-04-05,False,False
+PROD00358,SunPeak Sports 544,SunPeak,Sports,97.05,130.84,216.0,pc,2023-08-22,False,False
+PROD00359,NovaTech Groceries 206,NovaTech,Groceries,43.99,67.47,97.0,bottle,2022-05-18,False,False
+PROD00360,GlowCo Groceries 586,GlowCo,Groceries,77.74,115.62,88.0,pc,2024-08-01,False,False
+PROD00361,UrbanWear Electronics 877,UrbanWear,Electronics,94.8,112.74,96.0,set,2022-02-06,False,False
+PROD00362,HomeEase Groceries 527,HomeEase,Groceries,24.93,42.46,140.0,pc,2023-06-11,False,False
+PROD00363,FreshCart Home 376,FreshCart,Home & Kitchen,106.89,192.58,105.0,bottle,2024-03-27,False,False
+PROD00364,BookNest Groceries 575,BookNest,Groceries,34.34,45.18,2.0,pc,2024-05-22,False,False
+PROD00365,HomeEase Electronics 303,HomeEase,Electronics,34.01,41.53,57.0,pc,2022-12-17,False,False
+PROD00366,NovaTech Toys 472,NovaTech,Toys,39.1,59.79,181.0,pc,2023-12-28,False,False
+PROD00367,NovaTech Books 667,NovaTech,Books,77.07,117.13,158.0,pack,2023-09-17,False,False
+PROD00368,SunPeak Groceries 467,SunPeak,Groceries,44.75,52.4,106.0,pc,2022-01-26,False,False
+PROD00369,HomeEase electronics 920,HomeEase,Electronics,118.75,178.58,163.0,set,2024-07-02,False,False
+PROD00370,Acme Books 749,Acme,Books,39.61,52.19,181.0,set,2023-08-02,False,False
+PROD00371,KidJoy Toys 894,KidJoy,Toys,67.51,91.77,185.0,pack,2024-09-01,False,False
+PROD00372,FreshCart Sports 992,FreshCart,Sports,100.15,171.37,196.0,pc,2022-03-21,False,False
+PROD00373,FreshCart Toys 444,FreshCart,Toys,54.59,66.18,91.0,bottle,2022-10-21,False,False
+PROD00374,NovaTech Toys 474,NovaTech,Toys,139.0,258.22,230.0,pc,2022-06-11,False,False
+PROD00375,NovaTech Toys 294,NovaTech,Toys,33.92,49.68,0.0,pc,2023-02-11,False,False
+PROD00376,KidJoy Beauty 728,KidJoy,Beauty,124.37,208.44,16.0,pc,2022-10-29,False,False
+PROD00377,FreshCart Groceries 831,FreshCart,Groceries,40.65,56.11,118.0,pc,2022-07-04,False,False
+PROD00378,KidJoy Sports 538,KidJoy,Sports,75.89,141.53,83.0,bottle,2022-10-09,False,False
+PROD00379,KidJoy Book 999,KidJoy,Books,53.07,76.91,242.0,pc,2024-08-25,False,False
+PROD00380,FreshCart Electronics 277,FreshCart,Electronics,77.11,131.16,159.0,pack,2023-08-19,False,False
+PROD00381,KidJoy Books 119,KidJoy,Books,21.8,36.72,158.0,pack,2023-01-04,False,False
+PROD00382,Acme Sports 202,Acme,Sports,95.01,131.56,138.0,bottle,2023-01-29,False,False
+PROD00383,GlowCo Fashion 513,GlowCo,Fashion,89.69,151.75,117.0,pc,2023-09-16,False,False
+PROD00384,KidJoy Toys 913,KidJoy,Toys,26.17,30.56,114.0,bottle,2024-07-09,False,False
+PROD00385,GlowCo Beauty 147,GlowCo,Beauty,27.57,47.54,258.0,pc,2023-09-26,False,False
+PROD00386,HomeEase Beauty 255,HomeEase,Beauty,63.69,81.46,150.0,bottle,2024-01-25,False,False
+PROD00387,FreshCart Electronics 367,FreshCart,Electronics,24.46,44.38,154.0,pc,2022-07-29,False,False
+PROD00388,HomeEase Home 684,HomeEase,Home & Kitchen,22.21,38.91,0.0,pc,2024-06-13,False,False
+PROD00389,KidJoy Electronics 413,KidJoy,Electronics,40.46,51.45,104.0,pc,2022-03-29,False,False
+PROD00390,HomeEase Home 769,HomeEase,Home & Kitchen,54.79,99.16,123.0,pc,2022-10-18,False,False
+PROD00391,SunPeak Books 666,SunPeak,Books,49.03,85.34,101.0,pc,2022-10-15,False,False
+PROD00392,FitPro Fashon 115,FitPro,Fashion,108.95,146.2,107.0,pc,2023-04-01,False,False
+PROD00393,GlowCo Fashion 913,GlowCo,Fashion,55.77,102.67,175.0,pc,2022-07-29,False,False
+PROD00394,HomeEase Electronics 508,HomeEase,Electronics,30.36,39.1,130.0,pc,2024-07-07,False,False
+PROD00395,BookNest Home 414,BookNest,Home & Kitchen,25.7,42.05,181.0,set,2022-11-08,False,False
+PROD00396,HomeEase Books 258,HomeEase,Books,47.89,85.54,102.0,pc,2023-10-04,False,False
+PROD00397,NovaTech Home 161,NovaTech,Home & Kitchen,73.67,114.64,151.0,pc,2024-04-29,False,False
+PROD00398,Acme Book 377,Acme,Books,49.25,66.38,119.0,set,2023-07-06,False,False
+PROD00399,GlowCo Grocery 304,GlowCo,Groceries,69.27,120.47,124.0,set,2023-05-01,False,False
+PROD00400,BookNest Fashion 414,BookNest,Fashion,78.78,95.57,159.0,bottle,2024-02-21,False,False
+PROD00401,BookNest Toys 521,BookNest,Toys,28.06,41.41,89.0,pc,2024-03-04,False,False
+PROD00402,GlowCo Home 248,GlowCo,Home & Kitchen,51.15,68.62,94.0,pack,2024-03-19,False,False
+PROD00403,HomeEase Toys 579,HomeEase,Toys,67.28,117.68,155.0,pc,2024-09-03,False,False
+PROD00404,GlowCo Toys 235,GlowCo,Toys,82.12,148.26,143.0,pc,2023-10-01,False,False
+PROD00405,FreshCart Home 659,FreshCart,Home & Kitchen,94.67,157.28,96.0,set,2022-03-13,False,False
+PROD00406,BookNest Groceries 366,BookNest,Groceries,34.65,47.33,99.0,set,2024-02-14,False,False
+PROD00407,UrbanWear Sports 251,UrbanWear,Sports,59.55,89.65,112.0,set,2023-07-28,False,False
+PROD00408,UrbanWear Electronics 977,UrbanWear,Electronics,39.73,48.76,216.0,bottle,2023-01-31,False,False
+PROD00409,Acme Beauty 353,Acme,Beauty,51.55,66.65,189.0,pc,2022-08-17,False,False
+PROD00410,NovaTech Beauty 398,NovaTech,Beauty,120.9,157.73,79.0,pc,2023-06-25,False,False
+PROD00411,FreshCart Groceries 794,FreshCart,Groceries,64.85,75.66,102.0,pc,2022-04-06,False,False
+PROD00412,GlowCo Fashion 931,GlowCo,Fashion,174.43,213.73,146.0,pc,2024-03-19,False,False
+PROD00413,BookNest Home 886,BookNest,Home & Kitchen,120.28,140.66,187.0,bottle,2024-09-22,False,False
+PROD00414,FreshCart Sports 255,FreshCart,Sports,101.43,178.96,225.0,pc,2022-11-26,False,False
+PROD00415,GlowCo Books 491,GlowCo,Books,73.98,95.39,104.0,pack,2022-12-31,False,False
+PROD00416,HomeEase Groceries 103,HomeEase,Groceries,33.3,50.66,17.0,pc,2024-01-06,False,False
+PROD00417,UrbanWear Fashion 892,UrbanWear,Fashion,68.49,81.88,185.0,pc,2023-02-11,False,False
+PROD00418,BookNest Toys 692,BookNest,Toys,57.76,108.05,,bottle,2022-05-02,False,True
+PROD00419,UrbanWear Toys 653,UrbanWear,Toys,96.31,131.08,139.0,pc,2022-10-16,False,False
+PROD00420,SunPeak Fashion 539,SunPeak,Fashion,48.93,63.17,0.0,pc,2023-12-12,False,False
+PROD00421,UrbanWear Toys 862,UrbanWear,Toys,66.5,123.51,82.0,pc,2023-07-11,False,False
+PROD00422,UrbanWear Fashion 875,UrbanWear,Fashion,46.83,61.82,185.0,pc,2024-09-20,False,False
+PROD00423,FreshCart Home 530,FreshCart,Home & Kitchen,76.95,140.84,151.0,set,2023-11-21,False,False
+PROD00424,FreshCart Toys 662,FreshCart,Toys,33.48,41.07,78.0,pc,2024-04-10,False,False
+PROD00425,UrbanWear Groceries 527,UrbanWear,Groceries,57.73,69.98,157.0,set,2022-11-26,False,False
+PROD00426,KidJoy Electronics 341,KidJoy,Electronics,24.31,36.38,82.0,pc,2023-03-17,False,False
+PROD00427,GlowCo Home 423,GlowCo,Home & Kitchen,142.02,179.04,171.0,set,2023-03-24,False,False
+PROD00428,GlowCo Fashion 100,GlowCo,Fashion,39.02,48.11,163.0,pc,2023-02-14,False,False
+PROD00429,NovaTech Sports 410,NovaTech,Sports,118.43,185.43,102.0,pc,2022-09-29,False,False
+PROD00430,FitPro Fashion 509,FitPro,Fashion,81.75,98.2,255.0,set,2022-11-06,False,False
+PROD00431,FreshCart Electronics 163,FreshCart,Electronics,28.68,41.03,96.0,pc,2024-01-07,False,False
+PROD00432,KidJoy Electronics 716,KidJoy,Electronics,41.0,59.53,96.0,bottle,2024-02-01,False,False
+PROD00433,FitPro Sports 444,FitPro,Sports,46.5,67.19,101.0,pc,2024-07-27,False,False
+PROD00434,FreshCart Beauty 217,FreshCart,Beauty,42.42,69.99,276.0,set,2022-02-14,False,False
+PROD00435,SunPeak Toys 942,SunPeak,Toys,76.85,134.32,25.0,pc,2023-08-19,False,False
+PROD00436,GlowCo Electronics 568,GlowCo,Electronics,33.12,48.92,126.0,pc,2022-04-04,False,False
+PROD00437,FitPro Electronics 632,FitPro,Electronics,125.59,224.6,167.0,bottle,2022-12-26,False,False
+PROD00438,SunPeak Books 289,SunPeak,Books,64.49,82.62,135.0,pc,2023-10-23,False,False
+PROD00439,NovaTech Beauty 434,NovaTech,Beauty,97.6,130.76,174.0,bottle,2023-11-14,False,False
+PROD00440,UrbanWear Home 626,UrbanWear,Home & Kitchen,150.1,208.62,15.0,pc,2024-08-09,False,False
+PROD00441,BookNest Groceries 294,BookNest,Groceries,42.76,62.86,96.0,pc,2023-10-27,False,False
+PROD00442,NovaTech Sports 677,NovaTech,Sports,45.71,63.98,147.0,pack,2022-10-05,False,False
+PROD00443,BookNest Groceries 219,BookNest,Groceries,123.39,188.24,25.0,pc,2022-12-13,False,False
+PROD00444,UrbanWear Sports 673,UrbanWear,Sports,26.66,31.49,145.0,pack,2024-01-18,False,False
+PROD00445,KidJoy Electronics 570,KidJoy,Electronics,52.26,89.03,,pack,2023-01-23,False,True
+PROD00446,FitPro electronics 236,FitPro,Electronics,48.03,90.74,139.0,pack,2024-06-10,False,False
+PROD00447,FreshCart Books 495,FreshCart,Books,36.26,65.84,135.0,bottle,2022-07-28,False,False
+PROD00448,KidJoy Toys 910,KidJoy,Toys,97.67,181.73,0.0,bottle,2023-11-26,False,False
+PROD00449,GlowCo Elec 747,GlowCo,Electronics,97.87,170.07,81.0,pack,2022-08-15,False,False
+PROD00450,Acme Groceries 768,Acme,Groceries,125.35,158.03,124.0,set,2023-08-01,False,False
+PROD00451,GlowCo Books 219,GlowCo,Books,21.37,31.09,0.0,pc,2024-04-30,False,False
+PROD00452,HomeEase Groceries 174,HomeEase,Groceries,110.01,186.71,200.0,set,2024-03-10,False,False
+PROD00453,KidJoy Electronics 952,KidJoy,Electronics,67.16,90.23,113.0,pc,2022-08-08,False,False
+PROD00454,FreshCart Home 957,FreshCart,Home & Kitchen,40.33,49.93,28.0,pack,2023-05-05,False,False
+PROD00455,UrbanWear Grocery 342,UrbanWear,Groceries,31.87,59.07,227.0,pc,2024-08-26,False,False
+PROD00456,KidJoy Electronics 256,KidJoy,Electronics,92.03,155.07,216.0,bottle,2024-08-20,False,False
+PROD00457,BookNest Fashion 907,BookNest,Fashion,56.26,74.49,98.0,set,2022-01-30,False,False
+PROD00458,GlowCo Home 147,GlowCo,Home & Kitchen,67.23,84.7,96.0,pack,2023-05-13,False,False
+PROD00459,BookNest Sports 327,BookNest,Sports,50.05,71.62,179.0,bottle,2023-10-26,False,False
+PROD00460,FitPro Groceries 235,FitPro,Groceries,30.71,56.63,238.0,pc,2024-04-17,False,False
+PROD00461,SunPeak Sports 182,SunPeak,Sports,30.28,35.48,97.0,pc,2024-03-06,False,False
+PROD00462,HomeEase Groceries 318,HomeEase,Groceries,90.15,132.49,126.0,bottle,2024-01-02,False,False
+PROD00463,NovaTech Books 382,NovaTech,Books,55.53,83.0,,pc,2024-06-12,False,True
+PROD00464,FreshCart Books 543,FreshCart,Books,65.48,106.63,165.0,pc,2023-07-18,False,False
+PROD00465,Acme Fashion 818,Acme,Fashion,90.04,111.87,164.0,pack,2022-12-27,False,False
+PROD00466,NovaTech Beauty 656,NovaTech,Beauty,54.43,71.4,173.0,pc,2023-10-15,False,False
+PROD00467,HomeEase Fashion 245,HomeEase,Fashion,51.44,79.86,82.0,pc,2024-04-19,False,False
+PROD00468,KidJoy Beauty 438,KidJoy,Beauty,74.21,139.25,92.0,pc,2023-10-08,False,False
+PROD00469,Acme Fashion 485,Acme,Fashion,53.9,78.58,162.0,pc,2023-06-27,False,False
+PROD00470,UrbanWear electronics 585,UrbanWear,Electronics,94.8,135.83,100.0,set,2024-09-23,False,False
+PROD00471,SunPeak Home 254,SunPeak,Home & Kitchen,46.08,85.84,23.0,pack,2022-11-25,False,False
+PROD00472,UrbanWear Home 802,UrbanWear,Home & Kitchen,88.58,119.32,157.0,pc,2023-04-21,False,False
+PROD00473,Acme Beauty 853,Acme,Beauty,89.88,137.67,49.0,pack,2024-02-05,False,False
+PROD00474,KidJoy Home 771,KidJoy,Home & Kitchen,110.99,147.48,,pack,2022-08-24,False,True
+PROD00475,BookNest Toy 862,BookNest,Toys,44.3,67.05,128.0,pc,2023-11-09,False,False
+PROD00476,FitPro electronics 522,FitPro,Electronics,34.47,55.25,82.0,pc,2023-03-23,False,False
+PROD00477,NovaTech Toys 471,NovaTech,Toys,58.88,100.62,157.0,set,2022-11-06,False,False
+PROD00478,HomeEase Toys 472,HomeEase,Toys,94.97,147.8,129.0,bottle,2023-04-01,False,False
+PROD00479,NovaTech Fashion 781,NovaTech,Fashion,33.42,51.9,155.0,pc,2022-05-06,False,False
+PROD00480,Acme Home 663,Acme,Home & Kitchen,79.4,112.03,197.0,pack,2023-12-09,False,False
+PROD00481,Acme Toy 590,Acme,Toys,76.69,106.81,119.0,bottle,2024-05-08,False,False
+PROD00482,FreshCart Electronics 410,FreshCart,Electronics,47.77,65.4,80.0,set,2023-06-25,False,False
+PROD00483,FitPro Fashion 209,FitPro,Fashion,82.09,146.04,184.0,set,2022-10-16,False,False
+PROD00484,GlowCo Beauty 939,GlowCo,Beauty,95.42,154.52,81.0,set,2024-03-08,False,False
+PROD00485,BookNest Elec 763,BookNest,Electronics,60.87,72.21,43.0,pc,2024-08-21,False,False
+PROD00486,Acme Home 268,Acme,Home & Kitchen,55.12,81.85,118.0,pack,2024-08-30,False,False
+PROD00487,HomeEase Fashon 933,HomeEase,Fashion,18.61,24.94,115.0,set,2024-02-24,False,False
+PROD00488,FitPro Toys 449,FitPro,Toys,61.18,83.9,194.0,bottle,2024-02-13,False,False
+PROD00489,NovaTech Electronics 912,NovaTech,Electronics,13.93,19.17,239.0,pc,2024-04-02,False,False
+PROD00490,Acme Groceries 644,Acme,Groceries,93.08,130.65,111.0,pc,2023-06-02,False,False
+PROD00491,Acme Beauty 660,Acme,Beauty,78.43,107.37,80.0,pc,2024-02-10,False,False
+PROD00492,Acme Book 417,Acme,Books,64.42,121.96,86.0,pc,2023-01-06,False,False
+PROD00493,FreshCart Sports 195,FreshCart,Sports,72.93,97.9,34.0,set,2022-09-09,False,False
+PROD00494,NovaTech Beauty 359,NovaTech,Beauty,60.71,70.11,67.0,pc,2023-09-03,False,False
+PROD00495,FitPro Fashion 529,FitPro,Fashion,93.97,125.05,104.0,bottle,2022-05-26,False,False
+PROD00496,HomeEase Beauty 360,HomeEase,Beauty,62.55,99.06,97.0,set,2023-07-11,False,False
+PROD00497,FitPro Fashion 736,FitPro,Fashion,37.87,57.09,125.0,set,2022-01-20,False,False
+PROD00498,UrbanWear Groceries 234,UrbanWear,Groceries,35.65,56.24,134.0,pc,2023-12-26,False,False
+PROD00499,NovaTech Book 622,NovaTech,Books,79.09,128.39,121.0,set,2023-12-03,False,False
+PROD00500,NovaTech Sports 294,NovaTech,Sports,115.17,159.18,28.0,bottle,2024-06-20,False,False
+PROD00501,BookNest Book 899,BookNest,Books,45.83,57.6,174.0,pc,2022-12-21,False,False
+PROD00502,FreshCart Toys 886,FreshCart,Toys,49.19,69.02,51.0,bottle,2024-04-03,False,False
+PROD00503,NovaTech Beauty 348,NovaTech,Beauty,58.4,90.42,3.0,pc,2023-12-15,False,False
+PROD00504,KidJoy Toys 813,KidJoy,Toys,82.19,95.17,114.0,pc,2023-01-04,False,False
+PROD00505,FitPro Groceries 982,FitPro,Groceries,75.89,100.11,173.0,pc,2024-08-02,False,False
+PROD00506,GlowCo Fashion 950,GlowCo,Fashion,60.35,99.4,188.0,pc,2023-09-09,False,False
+PROD00507,GlowCo Toy 566,GlowCo,Toys,93.48,163.98,139.0,pc,2022-08-13,False,False
+PROD00508,KidJoy Sports 481,KidJoy,Sports,80.45,129.24,91.0,set,2024-07-19,False,False
+PROD00509,FitPro electronics 350,FitPro,Electronics,30.26,48.63,153.0,set,2023-10-03,False,False
+PROD00510,HomeEase Sports 332,HomeEase,Sports,45.39,84.34,140.0,pc,2023-03-11,False,False
+PROD00511,GlowCo Fashion 758,GlowCo,Fashion,109.66,199.91,60.0,pc,2022-07-13,False,False
+PROD00512,SunPeak Groceries 448,SunPeak,Groceries,66.44,101.6,35.0,pc,2022-12-26,False,False
+PROD00513,HomeEase Sports 313,HomeEase,Sports,71.15,120.67,184.0,pc,2023-09-22,False,False
+PROD00514,UrbanWear Fashion 271,UrbanWear,Fashion,54.44,79.55,181.0,pack,2023-07-23,False,False
+PROD00515,SunPeak Books 881,SunPeak,Books,68.24,89.45,188.0,set,2023-11-24,False,False
+PROD00516,FitPro Beauty 367,FitPro,Beauty,57.27,78.97,104.0,pc,2023-04-09,False,False
+PROD00517,UrbanWear Home 354,UrbanWear,Home & Kitchen,152.47,232.49,46.0,pc,2022-05-19,False,False
+PROD00518,FitPro Fashion 573,FitPro,Fashion,48.4,83.34,82.0,bottle,2022-11-30,False,False
+PROD00519,KidJoy Groceries 181,KidJoy,Groceries,41.37,56.39,102.0,bottle,2022-10-28,False,False
+PROD00520,SunPeak Fashon 510,SunPeak,Fashion,27.55,35.11,198.0,pc,2023-06-28,False,False
+PROD00521,GlowCo Toys 914,GlowCo,Toys,46.04,69.67,144.0,set,2023-01-17,False,False
+PROD00522,Acme Books 529,Acme,Books,104.5,162.46,64.0,pc,2023-11-21,False,False
+PROD00523,HomeEase Groceries 198,HomeEase,Groceries,51.13,69.87,135.0,pc,2023-06-19,False,False
+PROD00524,UrbanWear Toys 752,UrbanWear,Toys,31.67,47.24,92.0,bottle,2023-10-08,False,False
+PROD00525,SunPeak Home 236,SunPeak,Home & Kitchen,72.06,102.1,137.0,pc,2023-05-26,False,False
+PROD00526,SunPeak Groceries 688,SunPeak,Groceries,55.61,73.32,180.0,pc,2024-07-24,False,False
+PROD00527,UrbanWear electronics 769,UrbanWear,Electronics,85.5,126.8,115.0,bottle,2024-03-27,False,False
+PROD00528,Acme Beauty 106,Acme,Beauty,51.42,79.67,78.0,pc,2023-11-09,False,False
+PROD00529,SunPeak Fashion 666,SunPeak,Fashion,63.95,103.04,108.0,bottle,2022-09-24,False,False
+PROD00530,SunPeak Groceries 547,SunPeak,Groceries,70.69,106.4,175.0,bottle,2024-07-23,False,False
+PROD00531,KidJoy Home 143,KidJoy,Home & Kitchen,87.46,146.79,93.0,bottle,2022-01-11,False,False
+PROD00532,HomeEase electronics 861,HomeEase,Electronics,66.68,91.38,163.0,bottle,2023-07-24,False,False
+PROD00533,UrbanWear Toys 936,UrbanWear,Toys,116.54,186.7,120.0,pack,2024-04-09,False,False
+PROD00534,FitPro Books 512,FitPro,Books,25.38,34.75,146.0,pc,2024-09-18,False,False
+PROD00535,FreshCart Sports 948,FreshCart,Sports,71.75,89.27,18.0,pc,2024-07-28,False,False
+PROD00536,GlowCo Beauty 531,GlowCo,Beauty,64.48,91.52,274.0,pack,2022-01-29,False,False
+PROD00537,NovaTech Fashon 786,NovaTech,Fashion,108.05,147.08,118.0,bottle,2023-10-15,False,False
+PROD00538,GlowCo Books 730,GlowCo,Books,119.22,161.46,87.0,pc,2024-02-27,False,False
+PROD00539,GlowCo Books 705,GlowCo,Books,82.83,99.27,188.0,pc,2023-09-19,False,False
+PROD00540,UrbanWear Groceries 118,UrbanWear,Groceries,25.14,45.94,104.0,pc,2023-07-14,False,False
+PROD00541,GlowCo Sports 719,GlowCo,Sports,71.42,121.88,90.0,bottle,2022-01-11,False,False
+PROD00542,FreshCart electronics 311,FreshCart,Electronics,48.65,82.33,223.0,pc,2024-02-17,False,False
+PROD00543,FitPro Electronics 987,FitPro,Electronics,46.01,68.64,187.0,pc,2022-02-23,False,False
+PROD00544,NovaTech Fashion 315,NovaTech,Fashion,52.83,61.27,150.0,pc,2022-05-05,False,False
+PROD00545,FitPro Toys 292,FitPro,Toys,143.17,225.86,193.0,pack,2022-09-26,False,False
+PROD00546,GlowCo Book 682,GlowCo,Books,75.8,110.44,136.0,pc,2023-08-04,False,False
+PROD00547,HomeEase Books 812,HomeEase,Books,24.82,36.87,75.0,bottle,2024-04-10,False,False
+PROD00548,Acme Beauty 409,Acme,Beauty,73.0,114.69,151.0,set,2024-05-14,False,False
+PROD00549,KidJoy Groceries 355,KidJoy,Groceries,35.86,41.38,239.0,pc,2024-09-15,False,False
+PROD00550,BookNest Toys 764,BookNest,Toys,71.23,129.99,26.0,pc,2023-02-18,False,False
+PROD00551,HomeEase Toys 991,HomeEase,Toys,70.0,126.92,115.0,bottle,2024-08-12,False,False
+PROD00552,KidJoy Books 627,KidJoy,Books,56.68,85.09,47.0,set,2024-07-22,False,False
+PROD00553,GlowCo Books 628,GlowCo,Books,34.18,54.57,96.0,pc,2023-07-09,False,False
+PROD00554,UrbanWear Electronics 664,UrbanWear,Electronics,70.92,107.0,92.0,pack,2024-04-19,False,False
+PROD00555,Acme Electronics 775,Acme,Electronics,54.93,95.78,,bottle,2024-07-02,False,True
+PROD00556,UrbanWear Groceries 581,UrbanWear,Groceries,73.74,119.27,107.0,pc,2022-05-01,False,False
+PROD00557,BookNest Beauty 494,BookNest,Beauty,54.24,100.12,124.0,pack,2022-05-10,False,False
+PROD00558,GlowCo Fashion 230,GlowCo,Fashion,29.81,56.57,134.0,pack,2022-12-27,False,False
+PROD00559,FreshCart Electronics 973,FreshCart,Electronics,33.01,58.05,231.0,pc,2024-09-14,False,False
+PROD00560,BookNest Toys 644,BookNest,Toys,118.19,222.01,93.0,pc,2023-09-27,False,False
+PROD00561,GlowCo Fashion 520,GlowCo,Fashion,79.56,147.77,31.0,pc,2022-07-04,False,False
+PROD00562,FitPro Books 582,FitPro,Books,71.63,86.08,106.0,set,2023-11-09,False,False
+PROD00563,UrbanWear Electronics 449,UrbanWear,Electronics,96.99,177.29,81.0,pc,2022-05-18,False,False
+PROD00564,NovaTech Groceries 642,NovaTech,Groceries,82.65,152.27,56.0,pc,2024-03-02,False,False
+PROD00565,UrbanWear Home 695,UrbanWear,Home & Kitchen,59.36,94.46,47.0,set,2022-08-01,False,False
+PROD00566,BookNest Groceries 826,BookNest,Groceries,28.13,37.2,138.0,pc,2022-07-25,False,False
+PROD00567,BookNest Sports 856,BookNest,Sports,52.95,77.46,103.0,pc,2024-01-02,False,False
+PROD00568,BookNest Toys 579,BookNest,Toys,81.37,134.22,94.0,set,2022-12-03,False,False
+PROD00569,Acme Electronics 274,Acme,Electronics,60.29,102.89,19.0,pc,2024-06-30,False,False
+PROD00570,FitPro Beauty 172,FitPro,Beauty,37.85,63.9,208.0,pc,2023-02-17,False,False
+PROD00571,KidJoy Books 242,KidJoy,Books,52.0,84.44,40.0,pc,2023-03-03,False,False
+PROD00572,SunPeak Electronics 223,SunPeak,Electronics,47.31,88.53,246.0,pc,2024-09-03,False,False
+PROD00573,UrbanWear Sports 739,UrbanWear,Sports,31.24,53.62,243.0,set,2022-10-14,False,False
+PROD00574,BookNest Fashion 775,BookNest,Fashion,85.24,118.18,43.0,pc,2024-08-21,False,False
+PROD00575,Acme Beauty 993,Acme,Beauty,117.37,209.13,80.0,pc,2024-09-08,False,False
+PROD00576,HomeEase Beauty 486,HomeEase,Beauty,42.57,66.71,106.0,pack,2023-05-09,False,False
+PROD00577,UrbanWear Electronics 837,UrbanWear,Electronics,40.94,76.97,132.0,pack,2022-11-07,False,False
+PROD00578,FreshCart electronics 506,FreshCart,Electronics,85.09,119.26,28.0,bottle,2024-08-25,False,False
+PROD00579,HomeEase Fashion 664,HomeEase,Fashion,32.31,53.63,123.0,pc,2024-08-14,False,False
+PROD00580,BookNest Sports 953,BookNest,Sports,41.53,50.19,177.0,pack,2022-06-09,False,False
+PROD00581,BookNest Books 873,BookNest,Books,44.16,65.07,175.0,bottle,2022-04-21,False,False
+PROD00582,GlowCo electronics 453,GlowCo,Electronics,38.15,67.73,100.0,bottle,2024-04-04,False,False
+PROD00583,KidJoy Toys 204,KidJoy,Toys,86.72,130.83,61.0,pack,2024-05-21,False,False
+PROD00584,HomeEase Electronics 592,HomeEase,Electronics,40.73,63.2,104.0,pc,2022-10-22,False,False
+PROD00585,HomeEase Book 967,HomeEase,Books,46.94,76.6,107.0,pc,2023-03-16,False,False
+PROD00586,SunPeak Fashion 246,SunPeak,Fashion,30.83,43.35,200.0,pack,2024-02-18,False,False
+PROD00587,HomeEase Books 786,HomeEase,Books,73.49,110.46,109.0,bottle,2023-12-13,False,False
+PROD00588,BookNest Toys 658,BookNest,Toys,47.7,57.73,124.0,bottle,2023-04-27,False,False
+PROD00589,UrbanWear Home 587,UrbanWear,Home & Kitchen,41.46,51.13,147.0,pack,2022-09-15,False,False
+PROD00590,FreshCart Electronics 404,FreshCart,Electronics,44.25,71.67,98.0,pc,2022-10-28,False,False
+PROD00591,HomeEase Groceries 301,HomeEase,Groceries,10.99,20.52,109.0,set,2024-02-10,False,False
+PROD00592,FreshCart Home 683,FreshCart,Home & Kitchen,38.72,56.04,161.0,set,2024-04-26,False,False
+PROD00593,NovaTech Electronics 161,NovaTech,Electronics,19.31,36.04,99.0,bottle,2023-05-21,False,False
+PROD00594,FreshCart Home 730,FreshCart,Home & Kitchen,51.85,88.91,118.0,set,2022-06-29,False,False
+PROD00595,KidJoy Home 304,KidJoy,Home & Kitchen,62.72,99.91,137.0,set,2023-06-08,False,False
+PROD00596,UrbanWear Toys 872,UrbanWear,Toys,37.13,66.02,156.0,pc,2024-07-08,False,False
+PROD00597,FreshCart Fashon 459,FreshCart,Fashion,124.74,231.92,56.0,pc,2022-11-25,False,False
+PROD00598,BookNest Book 318,BookNest,Books,48.28,59.05,4.0,pc,2022-08-22,False,False
+PROD00599,Acme Home 385,Acme,Home & Kitchen,90.98,134.99,81.0,set,2023-02-14,False,False
+PROD00600,SunPeak Beauty 827,SunPeak,Beauty,56.98,76.66,170.0,pc,2022-06-06,False,False
+PROD00601,GlowCo Sports 448,GlowCo,Sports,38.14,53.43,96.0,pc,2024-05-20,False,False
+PROD00602,KidJoy Books 176,KidJoy,Books,54.37,75.81,99.0,pc,2023-08-12,False,False
+PROD00603,KidJoy Home 947,KidJoy,Home & Kitchen,102.4,159.14,119.0,pc,2023-09-24,False,False
+PROD00604,FreshCart Books 557,FreshCart,Books,48.52,55.93,201.0,pc,2023-05-04,False,False
+PROD00605,Acme Sports 964,Acme,Sports,63.21,96.57,0.0,set,2022-08-13,False,False
+PROD00606,SunPeak Book 229,SunPeak,Books,52.04,61.41,45.0,bottle,2023-05-15,False,False
+PROD00607,KidJoy Home 741,KidJoy,Home & Kitchen,54.94,90.23,125.0,set,2022-03-22,False,False
+PROD00608,KidJoy Toys 607,KidJoy,Toys,264.82,438.77,156.0,pc,2023-05-09,False,False
+PROD00609,UrbanWear Home 859,UrbanWear,Home & Kitchen,27.27,48.15,223.0,pc,2024-01-15,False,False
+PROD00610,UrbanWear Books 347,UrbanWear,Books,20.8,38.93,177.0,pc,2022-06-14,False,False
+PROD00611,FitPro Toys 856,FitPro,Toys,92.68,160.15,34.0,pc,2022-04-29,False,False
+PROD00612,NovaTech Electronics 398,NovaTech,Electronics,12.73,19.67,93.0,bottle,2022-12-01,False,False
+PROD00613,HomeEase Sports 145,HomeEase,Sports,36.96,65.52,127.0,set,2022-01-03,False,False
+PROD00614,SunPeak Beauty 626,SunPeak,Beauty,37.66,62.6,113.0,set,2023-01-23,False,False
+PROD00615,BookNest Fashion 937,BookNest,Fashion,81.04,110.2,128.0,bottle,2022-01-27,False,False
+PROD00616,BookNest Sports 396,BookNest,Sports,122.3,192.76,171.0,pc,2022-06-03,False,False
+PROD00617,GlowCo Beauty 517,GlowCo,Beauty,42.52,66.6,236.0,pc,2023-03-05,False,False
+PROD00618,HomeEase Toys 553,HomeEase,Toys,78.74,149.45,122.0,pc,2024-09-16,False,False
+PROD00619,Acme Toys 958,Acme,Toys,83.52,127.73,62.0,pc,2023-04-07,False,False
+PROD00620,HomeEase Sports 325,HomeEase,Sports,40.02,58.62,167.0,pc,2023-01-20,False,False
+PROD00621,BookNest Toys 761,BookNest,Toys,144.92,210.86,72.0,pc,2023-03-09,False,False
+PROD00622,UrbanWear Toys 783,UrbanWear,Toys,101.67,146.14,203.0,set,2023-11-12,False,False
+PROD00623,HomeEase Elec 600,HomeEase,Electronics,49.07,64.95,133.0,pc,2023-02-04,False,False
+PROD00624,UrbanWear electronics 531,UrbanWear,Electronics,70.41,115.1,75.0,pc,2022-09-08,False,False
+PROD00625,FreshCart Toys 677,FreshCart,Toys,52.29,71.98,128.0,pc,2022-12-04,False,False
+PROD00626,UrbanWear Sports 860,UrbanWear,Sports,73.06,117.33,69.0,pc,2023-04-30,False,False
+PROD00627,FreshCart Books 254,FreshCart,Books,56.28,69.78,204.0,pack,2023-08-24,False,False
+PROD00628,SunPeak Fashion 524,SunPeak,Fashion,55.19,93.09,136.0,pc,2023-09-28,False,False
+PROD00629,SunPeak Toys 127,SunPeak,Toys,45.6,77.53,77.0,pc,2022-09-21,False,False
+PROD00630,NovaTech Groceries 734,NovaTech,Groceries,50.37,93.46,69.0,pack,2022-12-10,False,False
+PROD00631,BookNest Electronics 252,BookNest,Electronics,30.08,46.96,129.0,pc,2022-06-23,False,False
+PROD00632,NovaTech Books 972,NovaTech,Books,41.36,63.58,90.0,pack,2023-03-13,False,False
+PROD00633,FreshCart Books 626,FreshCart,Books,44.5,68.79,37.0,bottle,2023-11-07,False,False
+PROD00634,GlowCo Home 160,GlowCo,Home & Kitchen,46.83,67.23,116.0,pc,2022-12-19,False,False
+PROD00635,KidJoy Beauty 977,KidJoy,Beauty,73.07,137.51,0.0,bottle,2023-08-25,False,False
+PROD00636,SunPeak Home 779,SunPeak,Home & Kitchen,46.83,78.24,76.0,pack,2022-12-03,False,False
+PROD00637,FreshCart Groceries 103,FreshCart,Groceries,44.21,77.48,144.0,pc,2022-06-03,False,False
+PROD00638,HomeEase Fashion 525,HomeEase,Fashion,44.35,72.79,186.0,bottle,2022-05-26,False,False
+PROD00639,FitPro Books 581,FitPro,Books,105.72,131.32,,pack,2022-03-14,False,True
+PROD00640,FitPro Grocery 316,FitPro,Groceries,95.46,146.74,140.0,bottle,2022-03-18,False,False
+PROD00641,FitPro Toys 810,FitPro,Toys,103.33,174.38,108.0,pc,2022-04-09,False,False
+PROD00642,GlowCo Groceries 715,GlowCo,Groceries,57.04,106.02,228.0,set,2024-02-20,False,False
+PROD00643,Acme Electronics 183,Acme,Electronics,39.8,58.28,55.0,bottle,2022-05-03,False,False
+PROD00644,SunPeak Electronics 128,SunPeak,Electronics,38.02,43.95,180.0,set,2022-11-06,False,False
+PROD00645,UrbanWear Sports 721,UrbanWear,Sports,76.52,96.54,,pc,2024-03-28,False,True
+PROD00646,HomeEase Toy 289,HomeEase,Toys,45.12,72.73,0.0,pc,2023-04-21,False,False
+PROD00647,FitPro Sports 285,FitPro,Sports,43.28,60.39,68.0,pc,2024-04-14,False,False
+PROD00648,FreshCart Beauty 175,FreshCart,Beauty,52.41,97.69,209.0,pc,2024-01-30,False,False
+PROD00649,FreshCart Sports 239,FreshCart,Sports,63.78,117.72,185.0,pc,2023-04-15,False,False
+PROD00650,UrbanWear Toys 589,UrbanWear,Toys,30.85,57.8,85.0,pack,2022-09-04,False,False
+PROD00651,FitPro Home 691,FitPro,Home & Kitchen,192.76,301.87,12.0,bottle,2022-04-18,False,False
+PROD00652,Acme electronics 119,Acme,Electronics,55.33,75.47,157.0,set,2024-02-12,False,False
+PROD00653,NovaTech Sports 827,NovaTech,Sports,85.9,116.57,143.0,pc,2022-11-09,False,False
+PROD00654,FitPro Electronics 262,FitPro,Electronics,53.31,82.42,85.0,pack,2024-02-05,False,False
+PROD00655,FitPro Sports 594,FitPro,Sports,76.91,124.79,257.0,pc,2022-10-13,False,False
+PROD00656,KidJoy Groceries 240,KidJoy,Groceries,72.1,119.65,183.0,pack,2024-02-06,False,False
+PROD00657,SunPeak Books 458,SunPeak,Books,46.49,75.14,0.0,pc,2023-01-14,False,False
+PROD00658,GlowCo Beauty 101,GlowCo,Beauty,41.5,73.55,199.0,pc,2022-07-05,False,False
+PROD00659,BookNest Groceries 527,BookNest,Groceries,113.95,156.17,0.0,pc,2023-09-03,False,False
+PROD00660,BookNest Books 522,BookNest,Books,51.82,90.89,142.0,bottle,2022-04-24,False,False
+PROD00661,BookNest Beauty 653,BookNest,Beauty,29.56,42.36,138.0,pc,2022-11-24,False,False
+PROD00662,FitPro Sports 658,FitPro,Sports,44.02,73.63,126.0,pc,2022-06-06,False,False
+PROD00663,KidJoy Elec 853,KidJoy,Electronics,147.74,173.22,150.0,set,2024-05-30,False,False
+PROD00664,HomeEase Books 761,HomeEase,Books,64.04,96.84,110.0,set,2022-01-18,False,False
+PROD00665,HomeEase Elec 960,HomeEase,Electronics,32.94,60.98,125.0,bottle,2024-02-07,False,False
+PROD00666,FreshCart Home 148,FreshCart,Home & Kitchen,65.54,99.54,46.0,bottle,2024-01-15,False,False
+PROD00667,BookNest Books 370,BookNest,Books,114.02,135.51,128.0,pc,2023-06-23,False,False
+PROD00668,Acme Beauty 386,Acme,Beauty,36.5,64.74,121.0,pc,2022-09-24,False,False
+PROD00669,FitPro Sports 864,FitPro,Sports,55.41,105.16,95.0,pc,2024-06-14,False,False
+PROD00670,Acme Beauty 260,Acme,Beauty,25.65,43.13,71.0,pack,2023-11-11,False,False
+PROD00671,KidJoy Sports 946,KidJoy,Sports,35.75,45.08,194.0,pc,2023-08-16,False,False
+PROD00672,HomeEase Sports 275,HomeEase,Sports,58.31,104.31,141.0,pc,2023-05-29,False,False
+PROD00673,SunPeak Fashion 993,SunPeak,Fashion,46.34,76.69,278.0,set,2023-12-09,False,False
+PROD00674,UrbanWear Sports 328,UrbanWear,Sports,100.29,131.1,229.0,pc,2023-06-17,False,False
+PROD00675,SunPeak Electronics 811,SunPeak,Electronics,28.71,40.24,127.0,pack,2024-01-03,False,False
+PROD00676,FreshCart Book 483,FreshCart,Books,45.12,60.47,177.0,set,2023-06-07,False,False
+PROD00677,Acme Sports 177,Acme,Sports,16.82,23.64,107.0,pc,2023-02-13,False,False
+PROD00678,NovaTech Sports 206,NovaTech,Sports,45.6,53.26,103.0,pc,2022-04-14,False,False
+PROD00679,UrbanWear Groceries 562,UrbanWear,Groceries,41.93,73.26,237.0,bottle,2023-10-23,False,False
+PROD00680,NovaTech Fashion 632,NovaTech,Fashion,24.17,37.07,128.0,pc,2024-05-18,False,False
+PROD00681,NovaTech Groceries 498,NovaTech,Groceries,58.7,109.79,71.0,pc,2023-05-24,False,False
+PROD00682,HomeEase Groceries 895,HomeEase,Groceries,24.27,32.99,116.0,pc,2024-03-12,False,False
+PROD00683,BookNest Sports 583,BookNest,Sports,135.12,236.79,142.0,pc,2022-05-30,False,False
+PROD00684,HomeEase Fashion 315,HomeEase,Fashion,22.27,30.34,137.0,pc,2024-07-03,False,False
+PROD00685,FitPro Home 945,FitPro,Home & Kitchen,49.08,91.84,94.0,pc,2024-09-17,False,False
+PROD00686,FreshCart Books 148,FreshCart,Books,81.66,130.53,97.0,bottle,2022-12-14,False,False
+PROD00687,KidJoy Groceries 970,KidJoy,Groceries,97.69,121.97,39.0,bottle,2023-02-09,False,False
+PROD00688,UrbanWear Electronics 529,UrbanWear,Electronics,99.24,184.62,1.0,set,2022-11-22,False,False
+PROD00689,FreshCart Sports 375,FreshCart,Sports,50.53,62.63,115.0,pc,2023-08-21,False,False
+PROD00690,KidJoy Home 456,KidJoy,Home & Kitchen,26.8,46.91,57.0,pc,2022-10-09,False,False
+PROD00691,FitPro Fashion 525,FitPro,Fashion,30.7,43.55,86.0,pc,2024-05-16,False,False
+PROD00692,HomeEase Groceries 795,HomeEase,Groceries,64.0,121.53,132.0,pc,2024-09-07,False,False
+PROD00693,FreshCart Books 188,FreshCart,Books,31.88,40.16,197.0,pc,2023-02-27,False,False
+PROD00694,FitPro Toy 219,FitPro,Toys,61.44,70.81,116.0,pack,2023-09-30,False,False
+PROD00695,Acme Fashion 767,Acme,Fashion,117.38,217.27,223.0,pc,2023-03-11,False,False
+PROD00696,SunPeak Groceries 734,SunPeak,Groceries,86.42,129.99,171.0,pc,2024-01-12,False,False
+PROD00697,UrbanWear Fashion 229,UrbanWear,Fashion,129.54,241.85,62.0,pc,2022-11-02,False,False
+PROD00698,BookNest Home 378,BookNest,Home & Kitchen,97.87,122.33,89.0,pc,2023-01-24,False,False
+PROD00699,FreshCart Books 335,FreshCart,Books,98.57,144.53,219.0,pc,2023-11-06,False,False
+PROD00700,SunPeak Sports 625,SunPeak,Sports,35.68,64.13,105.0,pc,2022-04-08,False,False
+PROD00701,FitPro Home 132,FitPro,Home & Kitchen,55.5,84.19,101.0,pc,2022-09-14,False,False
+PROD00702,UrbanWear Toys 354,UrbanWear,Toys,37.78,46.31,60.0,pc,2023-01-24,False,False
+PROD00703,FreshCart Electronics 674,FreshCart,Electronics,68.27,104.97,88.0,set,2022-10-04,False,False
+PROD00704,NovaTech Beauty 728,NovaTech,Beauty,124.36,170.53,191.0,bottle,2023-02-03,False,False
+PROD00705,KidJoy Electronics 732,KidJoy,Electronics,30.67,49.52,112.0,bottle,2023-10-07,False,False
+PROD00706,HomeEase Beauty 844,HomeEase,Beauty,71.41,105.69,106.0,pack,2024-08-10,False,False
+PROD00707,FreshCart Electronics 460,FreshCart,Electronics,33.34,60.42,98.0,pc,2022-05-20,False,False
+PROD00708,BookNest Beauty 585,BookNest,Beauty,50.62,94.5,213.0,pc,2023-01-18,False,False
+PROD00709,HomeEase Electronics 576,HomeEase,Electronics,40.5,71.36,61.0,bottle,2022-01-22,False,False
+PROD00710,UrbanWear Book 517,UrbanWear,Books,44.72,75.86,116.0,pack,2023-01-19,False,False
+PROD00711,HomeEase Books 373,HomeEase,Books,34.85,59.36,253.0,pack,2022-10-02,False,False
+PROD00712,FitPro Toys 178,FitPro,Toys,32.42,53.62,126.0,pack,2023-09-30,False,False
+PROD00713,FitPro Fashion 357,FitPro,Fashion,59.62,73.57,234.0,set,2024-03-02,False,False
+PROD00714,BookNest Beauty 683,BookNest,Beauty,86.85,151.98,89.0,pack,2024-09-25,False,False
+PROD00715,UrbanWear Grocery 363,UrbanWear,Groceries,84.8,105.59,68.0,pc,2024-05-09,False,False
+PROD00716,BookNest Home 115,BookNest,Home & Kitchen,120.18,142.11,219.0,bottle,2022-06-11,False,False
+PROD00717,NovaTech Beauty 156,NovaTech,Beauty,21.72,29.04,95.0,pc,2022-04-06,False,False
+PROD00718,GlowCo Books 544,GlowCo,Books,42.64,54.06,79.0,set,2022-01-19,False,False
+PROD00719,GlowCo Home 415,GlowCo,Home & Kitchen,43.36,77.17,114.0,bottle,2024-05-12,False,False
+PROD00720,BookNest Toys 264,BookNest,Toys,142.51,263.09,58.0,bottle,2022-05-09,False,False
+PROD00721,UrbanWear Home 701,UrbanWear,Home & Kitchen,60.28,107.98,146.0,set,2022-01-20,False,False
+PROD00722,BookNest Home 237,BookNest,Home & Kitchen,38.44,55.17,158.0,pc,2022-12-30,False,False
+PROD00723,KidJoy Beauty 258,KidJoy,Beauty,50.69,59.3,167.0,pc,2024-09-13,False,False
+PROD00724,HomeEase Groceries 593,HomeEase,Groceries,58.73,74.89,207.0,pack,2023-07-13,False,False
+PROD00725,GlowCo Beauty 761,GlowCo,Beauty,61.43,88.25,65.0,pc,2022-05-31,False,False
+PROD00726,HomeEase Fashion 863,HomeEase,Fashion,21.74,27.27,192.0,pack,2023-06-21,False,False
+PROD00727,FreshCart Home 101,FreshCart,Home & Kitchen,71.11,94.01,186.0,pc,2022-12-07,False,False
+PROD00728,UrbanWear Fashion 742,UrbanWear,Fashion,119.15,139.0,106.0,pc,2023-11-21,False,False
+PROD00729,FreshCart Beauty 516,FreshCart,Beauty,76.39,128.83,214.0,pack,2024-09-10,False,False
+PROD00730,UrbanWear Beauty 979,UrbanWear,Beauty,21.51,29.32,52.0,pc,2022-10-08,False,False
+PROD00731,HomeEase Books 515,HomeEase,Books,38.21,46.59,162.0,pc,2022-04-24,False,False
+PROD00732,KidJoy Groceries 479,KidJoy,Groceries,31.84,36.93,180.0,set,2023-05-04,False,False
+PROD00733,KidJoy Beauty 857,KidJoy,Beauty,10.0,18.43,127.0,bottle,2022-09-18,False,False
+PROD00734,SunPeak Fashion 273,SunPeak,Fashion,66.09,87.48,68.0,bottle,2022-04-26,False,False
+PROD00735,Acme Fashion 348,Acme,Fashion,55.96,80.46,95.0,bottle,2024-04-02,False,False
+PROD00736,SunPeak Sports 701,SunPeak,Sports,90.99,164.99,63.0,set,2023-09-20,False,False
+PROD00737,KidJoy Beauty 941,KidJoy,Beauty,67.98,81.45,119.0,bottle,2022-08-20,False,False
+PROD00738,GlowCo Home 734,GlowCo,Home & Kitchen,33.38,45.11,71.0,bottle,2023-03-21,False,False
+PROD00739,KidJoy Groceries 228,KidJoy,Groceries,43.59,73.64,149.0,pc,2023-10-02,False,False
+PROD00740,NovaTech Book 861,NovaTech,Books,25.58,31.52,16.0,pc,2022-03-22,False,False
+PROD00741,BookNest Elec 212,BookNest,Electronics,117.28,162.9,151.0,pc,2024-09-12,False,False
+PROD00742,GlowCo Electronics 370,GlowCo,Electronics,42.26,77.36,134.0,set,2022-07-17,False,False
+PROD00743,GlowCo Toys 513,GlowCo,Toys,64.56,82.41,188.0,pack,2022-02-21,False,False
+PROD00744,SunPeak Beauty 386,SunPeak,Beauty,66.04,115.32,63.0,set,2022-02-13,False,False
+PROD00745,FitPro Groceries 144,FitPro,Groceries,85.16,126.15,89.0,set,2024-03-22,False,False
+PROD00746,SunPeak Fashion 200,SunPeak,Fashion,29.74,47.18,132.0,set,2022-06-20,False,False
+PROD00747,KidJoy Groceries 182,KidJoy,Groceries,46.27,68.47,29.0,bottle,2023-02-22,False,False
+PROD00748,KidJoy Sports 975,KidJoy,Sports,74.33,125.74,218.0,pack,2023-03-06,False,False
+PROD00749,UrbanWear Home 592,UrbanWear,Home & Kitchen,74.45,105.31,178.0,pc,2023-12-25,False,False
+PROD00750,Acme Fashion 367,Acme,Fashion,57.62,69.3,165.0,pack,2023-10-12,False,False
+PROD00751,HomeEase Fashion 990,HomeEase,Fashion,40.37,63.47,157.0,pc,2022-01-05,False,False
+PROD00752,SunPeak Electronics 775,SunPeak,Electronics,96.62,120.62,227.0,pack,2024-09-01,False,False
+PROD00753,Acme Home 542,Acme,Home & Kitchen,133.26,175.23,132.0,pc,2024-02-04,False,False
+PROD00754,UrbanWear Books 990,UrbanWear,Books,104.31,187.58,27.0,pc,2023-07-04,False,False
+PROD00755,NovaTech Toy 935,NovaTech,Toys,30.66,49.01,147.0,pc,2024-09-17,False,False
+PROD00756,NovaTech Book 436,NovaTech,Books,36.81,68.23,96.0,pack,2022-03-14,False,False
+PROD00757,NovaTech Toys 605,NovaTech,Toys,50.81,87.14,245.0,bottle,2023-01-12,False,False
+PROD00758,GlowCo Beauty 566,GlowCo,Beauty,149.16,202.98,52.0,pc,2023-11-27,False,False
+PROD00759,NovaTech Beauty 670,NovaTech,Beauty,129.79,164.18,,pc,2023-06-14,False,True
+PROD00760,FreshCart Electronics 395,FreshCart,Electronics,44.29,71.09,132.0,pc,2022-09-19,False,False
+PROD00761,FitPro Beauty 682,FitPro,Beauty,53.52,74.63,93.0,bottle,2023-10-25,False,False
+PROD00762,FreshCart Toys 647,FreshCart,Toys,20.47,38.14,81.0,bottle,2022-10-27,False,False
+PROD00763,FreshCart Beauty 669,FreshCart,Beauty,40.11,62.99,168.0,set,2024-04-04,False,False
+PROD00764,SunPeak Beauty 628,SunPeak,Beauty,36.47,63.29,117.0,pc,2024-01-20,False,False
+PROD00765,HomeEase Home 455,HomeEase,Home & Kitchen,62.91,115.82,88.0,bottle,2022-11-11,False,False
+PROD00766,BookNest Electronics 705,BookNest,Electronics,112.64,201.19,23.0,pc,2022-10-12,False,False
+PROD00767,FreshCart Beauty 268,FreshCart,Beauty,40.5,65.37,113.0,pc,2022-06-19,False,False
+PROD00768,FreshCart Home 122,FreshCart,Home & Kitchen,53.53,92.64,97.0,pc,2024-03-11,False,False
+PROD00769,HomeEase Electronics 838,HomeEase,Electronics,12.01,20.68,255.0,set,2023-03-09,False,False
+PROD00770,UrbanWear Sports 750,UrbanWear,Sports,32.62,43.06,156.0,set,2024-03-29,False,False
+PROD00771,BookNest Books 447,BookNest,Books,97.42,150.18,69.0,pc,2023-01-12,False,False
+PROD00772,SunPeak Beauty 414,SunPeak,Beauty,21.45,36.02,137.0,pc,2023-07-09,False,False
+PROD00773,NovaTech Groceries 233,NovaTech,Groceries,26.14,38.04,46.0,pc,2024-02-09,False,False
+PROD00774,NovaTech Electronics 253,NovaTech,Electronics,29.92,49.26,73.0,set,2024-08-13,False,False
+PROD00775,Acme Fashion 471,Acme,Fashion,53.66,74.15,109.0,pack,2023-03-29,False,False
+PROD00776,NovaTech Elec 359,NovaTech,Electronics,59.08,96.86,167.0,pack,2022-12-08,False,False
+PROD00777,KidJoy Groceries 765,KidJoy,Groceries,91.51,166.09,143.0,pc,2024-06-23,False,False
+PROD00778,NovaTech Books 904,NovaTech,Books,51.49,87.49,2.0,pc,2024-05-14,False,False
+PROD00779,KidJoy Home 780,KidJoy,Home & Kitchen,58.91,78.82,230.0,set,2023-09-25,False,False
+PROD00780,KidJoy Beauty 583,KidJoy,Beauty,145.83,220.77,128.0,pc,2024-09-11,False,False
+PROD00781,GlowCo Home 163,GlowCo,Home & Kitchen,41.99,71.06,51.0,pack,2023-03-30,False,False
+PROD00782,GlowCo Electronics 922,GlowCo,Electronics,29.42,54.28,47.0,pack,2023-12-06,False,False
+PROD00783,Acme Books 505,Acme,Books,45.74,76.86,61.0,set,2023-09-17,False,False
+PROD00784,FitPro Groceries 390,FitPro,Groceries,75.55,117.74,106.0,set,2023-10-01,False,False
+PROD00785,BookNest Sports 127,BookNest,Sports,24.31,34.75,235.0,pack,2023-04-09,False,False
+PROD00786,BookNest Sports 766,BookNest,Sports,61.12,115.09,86.0,pc,2023-07-10,False,False
+PROD00787,UrbanWear Books 268,UrbanWear,Books,29.8,42.18,71.0,set,2023-07-23,False,False
+PROD00788,UrbanWear Beauty 640,UrbanWear,Beauty,34.23,55.64,42.0,pc,2024-08-17,False,False
+PROD00789,NovaTech Groceries 153,NovaTech,Groceries,48.3,69.5,26.0,pc,2022-08-05,False,False
+PROD00790,HomeEase Electronics 579,HomeEase,Electronics,116.25,208.61,154.0,pack,2024-06-04,False,False
+PROD00791,BookNest electronics 214,BookNest,Electronics,25.44,35.99,62.0,set,2023-03-24,False,False
+PROD00792,Acme Home 200,Acme,Home & Kitchen,54.32,95.17,169.0,pack,2024-09-26,False,False
+PROD00793,FreshCart Beauty 242,FreshCart,Beauty,24.24,40.13,114.0,pc,2022-11-22,False,False
+PROD00794,UrbanWear Beauty 461,UrbanWear,Beauty,46.56,61.54,186.0,set,2023-02-20,False,False
+PROD00795,NovaTech Home 601,NovaTech,Home & Kitchen,26.62,34.92,173.0,pc,2022-12-13,False,False
+PROD00796,KidJoy Elec 294,KidJoy,Electronics,83.8,132.12,111.0,bottle,2023-08-15,False,False
+PROD00797,SunPeak Books 182,SunPeak,Books,53.67,62.54,163.0,bottle,2023-01-05,False,False
+PROD00798,NovaTech Groceries 889,NovaTech,Groceries,63.54,112.46,155.0,set,2022-08-09,False,False
+PROD00799,Acme Fashion 991,Acme,Fashion,25.27,34.96,169.0,bottle,2024-06-19,False,False
+PROD00800,NovaTech Sports 419,NovaTech,Sports,70.14,116.39,245.0,pc,2022-07-03,False,False
